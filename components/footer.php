@@ -1,9 +1,5 @@
 <footer>
 
-
-
-
-		
 	<div class="banner_con">
 			<div class="banner element-animation_up">
 				<div class="banner_left">
@@ -190,15 +186,15 @@
 
 		<!-- BIG-BANNER -->
 		<?php
-		include('../components/big-form.php')
+		include('big-form.php')
 	?>
 	<!-- INFO-BANNER -->
-	<!-- <?php
-		//include('components/info-banner.php')
-	?> -->
+	<?php
+		//include('info-banner.php')
+	?>
 	<!-- MODAL-BANNER -->
 	<?php
-		include('../components/modal.php')
+		include('modal.php')
 	?>
 
 

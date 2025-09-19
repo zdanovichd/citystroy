@@ -585,7 +585,8 @@
 			<h3><b>+7 (495) 109-29-96</b></h3>
 			
 		</div>
-		<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A8d8693730a0869f08ed03da284ecfd94eae03b6b2f37acf1da6a5f8bb7b8ca7b&amp;width=100%25&amp;height=500&amp;lang=ru_RU&amp;scroll=false"></script>	</div>
+		<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A8d8693730a0869f08ed03da284ecfd94eae03b6b2f37acf1da6a5f8bb7b8ca7b&amp;width=100%25&amp;height=500&amp;lang=ru_RU&amp;scroll=false"></script>
+    </div>
 
 
 	<!-- --------------------------------------- -->
@@ -607,20 +608,14 @@
 	<div class="commer-banner-mini">
 			<img class="commer-img" src="/assets/img/icon/comm-img.svg" alt="">
 	</div>
-
-		<!-- BIG-BANNER -->
-		<?php
-		include('components/big-form.php')
-	?>
 	<!-- INFO-BANNER -->
-	<!-- <?php
-		//include('components/info-banner.php')
-	?> -->
-	<!-- MODAL-BANNER -->
-	<?php
-		include('components/modal.php')
-	?>
-
-
+    <?php
+        include('components/info-banner.php')
+    ?>
+    <!-- --------------------------------------- -->
+    <!-- FOTTER -->
+    <?php
+        include('components/footer.php')
+    ?>
 </body>
 </html>

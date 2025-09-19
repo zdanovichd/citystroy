@@ -1,10 +1,8 @@
-<head>
+
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 	<meta name="format-detection	" content="telephone=no">
-	<meta name="description" content="Cитистрой. Дизайн, проектирование и ремонт коммерческих помещений">
-	<title>Главная</title>
 
 		<!-- link -->
 		<link rel="stylesheet" href="../css/font.css">	
@@ -44,4 +42,3 @@
 	<!-- fav -->
 	<link type="image/x-icon" href="/assets/img/icon/fav.ico" rel="shortcut icon">
 	<link type="Image/x-icon" href="/assets/img/icon/fav.ico" rel="icon">
-</head>

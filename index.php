@@ -2,9 +2,14 @@
 <html lang="ru">
 
 <!-- HEAD -->
-<?php
-	include('components/head.php')
-?>
+<head>
+    <meta name="description" content="Cитистрой. Дизайн, проектирование и ремонт коммерческих помещений">
+    <title>Главная</title>
+    <?php
+        include('components/head.php')
+    ?>
+</head>
+
 <!-- PRELOADER -->
 <?php
 	include('components/preloader.php')

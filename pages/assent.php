@@ -1,10 +1,14 @@
 <!DOCTYPE html>
 <html lang="ru">
-<title>Согласие на обработку данных</title>
+
 <!-- HEAD -->
-<?php
-	include('../components/head.php')
-?>
+<head>
+    <meta name="description" content="Cитистрой. Дизайн, проектирование и ремонт коммерческих помещений">
+    <title>Согласие на обработку данных</title>
+    <?php
+    include('../components/head.php')
+    ?>
+</head>
 <!-- PRELOADER -->
 <?php
 	include('../components/preloader.php')

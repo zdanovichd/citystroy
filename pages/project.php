@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="ru">
 
-
-<title>Проектирование</title>
 <!-- HEAD -->
-<?php
-	include('../components/head.php')
-?>
+<head>
+    <meta name="description" content="Cитистрой. Дизайн, проектирование и ремонт коммерческих помещений">
+    <title>Проектирование</title>
+    <?php
+    include('../components/head.php')
+    ?>
+</head>
 <!-- PRELOADER -->
 <?php
 	include('../components/preloader.php')

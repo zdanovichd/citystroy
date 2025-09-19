@@ -303,6 +303,8 @@ $(window).scroll(function () {
   }
 });
 
+
+
 //BURGER
 $(".mob-menu").css({
   transform: "translateX(100%)",
@@ -334,6 +336,62 @@ $(".button-menu-mob").click(function () {
   });
   $(".mob_close").fadeOut(400);
   $(".mob_open").fadeIn(200);
+});
+
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".has-child").forEach((el) => {
+    el.addEventListener("click", function (e) {
+      // Проверяем, что кликнули именно на ссылку верхнего уровня (не на подменю)
+      const clickedLink = e.target.closest('.menu__main__item');
+      const isTopLevelLink = clickedLink && clickedLink.parentElement === this;
+
+      // Если кликнули на ссылку верхнего уровня, переключаем меню
+      if (isTopLevelLink) {
+        e.preventDefault();
+        this.classList.toggle('open');
+      }
+      // Если кликнули на ссылку в подменю - разрешаем переход
+      else if (e.target.tagName === 'A' && e.target.closest('.sub-menu')) {
+        // Ничего не делаем - разрешаем стандартное поведение ссылки
+      }
+      // Если кликнули на сам элемент li (не на ссылку) - переключаем меню
+      else if (e.target === this) {
+        this.classList.toggle('open');
+      }
+    });
+  });
+
+  let lastWidth = window.innerWidth
+
+  function handleScreenSize () {
+    const sideMenu = document.querySelector('.mob-menu_con')
+    const menuBody = document.querySelector('.menu')
+
+    if (window.innerWidth > 768) {
+      if (sideMenu && sideMenu.parentNode) {
+        sideMenu.parentNode.removeChild(sideMenu)
+      }
+    } else {
+      if (menuBody && menuBody.parentNode) {
+        menuBody.parentNode.removeChild(menuBody)
+      }
+    }
+  }
+
+  // Выполняем при загрузке
+  handleScreenSize()
+
+  window.addEventListener('resize', function () {
+    const currentWidth = window.innerWidth
+
+    // Проверяем, пересекли ли границу 600px
+    if ((lastWidth <= 600 && currentWidth > 600) ||
+        (lastWidth > 600 && currentWidth <= 600)) {
+      window.location.reload()
+    }
+
+    lastWidth = currentWidth
+  })
 });
 
 var hammertime = new Hammer(document.body, {

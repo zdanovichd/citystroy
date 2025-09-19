@@ -15,17 +15,61 @@
 			</a>
 		</div>
 
-		<ul  class="menu__main">
-				<li><a class="menu__main__item" href="../главная">Главная</a></li>
-				<li><a class="menu__main__item" href="/технология">Проектироваение<br>технологии</a></li>
-				<li><a class="menu__main__item" href="/дизайн">Дизайн</a></li>
-				<li><a class="menu__main__item inj-m" href="/инженерия">Инженерное<br>проектироваение</a></li>
-				<li><a class="menu__main__item" href="/СМР">Ремонт и СМР</a></li>
-				<li><a class="menu__main__item" href="/портфолио">Портфолио</a></li>
-				<li><a class="menu__main__item" href="/контакты">Контакты</a></li>
+        <div class="menu__main">
+            <div class="menu__main__contacts">
+                <div class="contacts-item">
+                    <a href="mailto:office@citystroy-restaurants.ru">office@citystroy-restaurants.ru</a>
+                    <a href="mailto:csfitout@gmail.com">csfitout@gmail.com</a>
+                </div>
+                <div class="contacts-item">
+                    <span>г. Москва, Береговой проезд, д. 7</span>
+                </div>
+                <div class="contacts-item">
+                    <span>Пн-Сб: с 9:00 до 21:00</span>
+                    <span>Вс: выходной</span>
+                </div>
+                <div class="contacts-item">
+                    <a href="tel:+79263634278">+7 (926) 363-42-78</a>
+                    <a href="tel:+74951092996">+7 (495) 109-29-96</a>
+                </div>
+            </div>
+            <ul  class="menu__main__container">
+                <li><a class="menu__main__item" href="/">Главная</a></li>
+                <li class="has-child">
+                    <a class="menu__main__item" href="/">О компании</a>
+                    <ul class="sub-menu">
+                        <li><a class="menu__main__item" href="/">Сертификаты</a></li>
+                        <li><a class="menu__main__item" href="/">Вакансии</a></li>
+                        <li><a class="menu__main__item" href="/">Гарантии</a></li>
+                        <li><a class="menu__main__item" href="/">FAQ</a></li>
+                        <li><a class="menu__main__item" href="/">Отзывы</a></li>
+                    </ul>
+                </li>
+                <li class="has-child">
+                    <a class="menu__main__item" href="/">Услуги</a>
+                    <ul class="sub-menu">
+                        <li><a class="menu__main__item" href="/СМР">Ремонт и СМР</a></li>
+                        <li><a class="menu__main__item" href="/технология">Проектироваение технологии</a></li>
+                        <li><a class="menu__main__item inj-m" href="/инженерия">Инженерное проектироваение</a></li>
+                        <li><a class="menu__main__item" href="/дизайн">Дизайн</a></li>
+                    </ul>
+                </li>
+                <li class="has-child">
+                    <a class="menu__main__item" href="/">Запуск под ключ</a>
+                    <ul class="sub-menu">
+                        <li><a class="menu__main__item" href="/">Открыть ресторан</a></li>
+                        <li><a class="menu__main__item" href="/">Открыть магазин</a></li>
+                        <li><a class="menu__main__item" href="/">Открыть офис</a></li>
+                    </ul>
+                </li>
+                <li><a class="menu__main__item" href="/">Цены</a></li>
+                <li><a class="menu__main__item" href="/портфолио">Портфолио</a></li>
+                <li><a class="menu__main__item" href="/">Блог</a></li>
+                <li><a class="menu__main__item" href="/контакты">Контакты</a></li>
+                <li><button class="button-menu button modal__btn">Связаться с нами</button></li>
+            </ul>
+        </div>
 
-				<li><button class="button-menu button modal__btn">Связаться с нами</button></li>
-		</ul>
 
 		<ul class="menu__link">
 			<li>
@@ -65,37 +109,84 @@
 		</div>
 
 		<div class="mob-menu">
-			<ul class="menu-mob_main">
-				<li><a class="menu__main__item" href="../главная">Главная</a></li>
-				<li><a class="menu__main__item" href="/технология">Технология</a></li>
-				<li><a class="menu__main__item" href="/дизайн">Дизайн</a></li>
-				<li><a class="menu__main__item" href="/инженерия">Инженерия</a></li>
-				<li><a class="menu__main__item" href="/СМР">Ремонт и СМР</a></li>
-				<li><a class="menu__main__item" href="/портфолио">Портфолио</a></li>
-				<li><a class="menu__main__item" href="/контакты">Контакты</a></li>
-			</ul>
-			<button class="button-menu-mob modal__btn">СВЯЗАТЬСЯ С НАМИ</button>
+            <div class="mob-menu_container">
+                <div class="menu__main">
+                    <ul  class="menu-mob_main">
+                        <li><a class="menu__main__item" href="/">Главная</a></li>
+                        <li class="has-child">
+                            <a class="menu__main__item" href="/">О компании</a>
+                            <ul class="sub-menu">
+                                <li><a class="menu__main__item" href="/">Сертификаты</a></li>
+                                <li><a class="menu__main__item" href="/">Вакансии</a></li>
+                                <li><a class="menu__main__item" href="/">Гарантии</a></li>
+                                <li><a class="menu__main__item" href="/">FAQ</a></li>
+                                <li><a class="menu__main__item" href="/">Отзывы</a></li>
+                            </ul>
+                        </li>
+                        <li class="has-child">
+                            <a class="menu__main__item" href="/">Услуги</a>
+                            <ul class="sub-menu">
+                                <li><a class="menu__main__item" href="/СМР">Ремонт и СМР</a></li>
+                                <li><a class="menu__main__item" href="/технология">Проектироваение технологии</a></li>
+                                <li><a class="menu__main__item inj-m" href="/инженерия">Инженерное проектироваение</a></li>
+                                <li><a class="menu__main__item" href="/дизайн">Дизайн</a></li>
+                            </ul>
+                        </li>
+                        <li class="has-child">
+                            <a class="menu__main__item" href="/">Запуск под ключ</a>
+                            <ul class="sub-menu">
+                                <li><a class="menu__main__item" href="/">Открыть ресторан</a></li>
+                                <li><a class="menu__main__item" href="/">Открыть магазин</a></li>
+                                <li><a class="menu__main__item" href="/">Открыть офис</a></li>
+                            </ul>
+                        </li>
+                        <li><a class="menu__main__item" href="/">Цены</a></li>
+                        <li><a class="menu__main__item" href="/портфолио">Портфолио</a></li>
+                        <li><a class="menu__main__item" href="/">Блог</a></li>
+                        <li><a class="menu__main__item" href="/контакты">Контакты</a></li>
+                    </ul>
+                    <div class="menu__main__contacts">
+                        <div class="contacts-item">
+                            <a href="mailto:office@citystroy-restaurants.ru">office@citystroy-restaurants.ru</a>
+                            <a href="mailto:csfitout@gmail.com">csfitout@gmail.com</a>
+                        </div>
+                        <div class="contacts-item">
+                            <span>г. Москва, Береговой проезд, д. 7</span>
+                        </div>
+                        <div class="contacts-item">
+                            <span>Пн-Сб: с 9:00 до 21:00</span>
+                            <span>Вс: выходной</span>
+                        </div>
+                        <div class="contacts-item">
+                            <a href="tel:+79263634278">+7 (926) 363-42-78</a>
+                            <a href="tel:+74951092996">+7 (495) 109-29-96</a>
+                        </div>
+                    </div>
+                </div>
 
-			<ul class="menu-mob_link">
-				<li>
-					<!-- youtube -->
-					<a href="https://www.youtube.com/@CityStroy">
-						<img class="menu__link__item" src="../assets/img/icon/youTube.svg">
-					</a>
-				</li>
-				<li>
-					<!-- phone -->
-					<a href="tel:+79263634278">
-						<img class="menu__link__item" src="../assets/img/icon/phone.svg">
-					</a>
-				</li>
-				<li>
-					<!-- mail -->
-					<a href="mailto:csfitout@gmail.com">
-						<img class="menu__link__item" src="../assets/img/icon/mail.svg">
-					</a>
-				</li>
-			</ul>
+                <button class="button-menu-mob modal__btn">СВЯЗАТЬСЯ С НАМИ</button>
+
+                <ul class="menu-mob_link">
+                    <li>
+                        <!-- youtube -->
+                        <a href="https://www.youtube.com/@CityStroy">
+                            <img class="menu__link__item" src="../assets/img/icon/youTube.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <!-- phone -->
+                        <a href="tel:+79263634278">
+                            <img class="menu__link__item" src="../assets/img/icon/phone.svg">
+                        </a>
+                    </li>
+                    <li>
+                        <!-- mail -->
+                        <a href="mailto:csfitout@gmail.com">
+                            <img class="menu__link__item" src="../assets/img/icon/mail.svg">
+                        </a>
+                    </li>
+                </ul>
+            </div>
 		</div>
 	</nav>
 

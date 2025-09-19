@@ -63,35 +63,83 @@
 				</dotlottie-player>
 			</a>
 	</div>
-
+<!-- menu__main-footer -->
 	<div class="main__menu-footer__con">
-		<ul class="menu__main menu__main-footer">
-			<li><a class="menu__main__item" href="../index.php">Главная</a></li>
-			<li><a class="menu__main__item" href="/pages/tehno.php">Технологии</a></li>
-			<li><a class="menu__main__item" href="/pages/design.php">Дизайн</a></li>
-			<li><a class="menu__main__item" href="/pages/project.php">Проектирование</a></li>
-			<li><a class="menu__main__item" href="/pages/SMR.php">Ремонт и СМР</a></li>
-			<li><a class="menu__main__item" href="/pages/portfolio.php">Портфолио</a></li>
-			<li><a class="menu__main__item" href="/pages/contact.php">Контакты</a></li>
-		</ul>
+        <div class="menu__main__contacts">
+            <div class="contacts-item">
+                <a href="tel:+79263634278">+7 (926) 363-42-78</a>
+                <a href="tel:+74951092996">+7 (495) 109-29-96</a>
+            </div>
+            <div class="contacts-item">
+                <a href="mailto:office@citystroy-restaurants.ru">office@citystroy-restaurants.ru</a>
+                <a href="mailto:csfitout@gmail.com">csfitout@gmail.com</a>
+            </div>
+            <div class="contacts-item">
+                <span>г. Москва, Береговой проезд, д. 7</span>
+            </div>
+            <div class="contacts-item">
+                <span>Пн-Сб: с 9:00 до 21:00</span>
+                <span>Вс: выходной</span>
+            </div>
+        </div>
+        <ul  class="menu__main__container menu__main-footer">
+            <li class="has-child">
+                <a class="menu__main__item" href="/">О компании</a>
+                <ul class="sub-menu">
+                    <li><a class="menu__main__item" href="/">Сертификаты</a></li>
+                    <li><a class="menu__main__item" href="/">Вакансии</a></li>
+                    <li><a class="menu__main__item" href="/">Гарантии</a></li>
+                    <li><a class="menu__main__item" href="/">FAQ</a></li>
+                    <li><a class="menu__main__item" href="/">Отзывы</a></li>
+                </ul>
+            </li>
+            <li class="has-child">
+                <a class="menu__main__item" href="/">Услуги</a>
+                <ul class="sub-menu">
+                    <li><a class="menu__main__item" href="/СМР">Ремонт и СМР</a></li>
+                    <li><a class="menu__main__item" href="/технология">Проектироваение технологии</a></li>
+                    <li><a class="menu__main__item inj-m" href="/инженерия">Инженерное проектироваение</a></li>
+                    <li><a class="menu__main__item" href="/дизайн">Дизайн</a></li>
+                </ul>
+            </li>
+            <li class="has-child">
+                <a class="menu__main__item" href="/">Запуск под ключ</a>
+                <ul class="sub-menu">
+                    <li><a class="menu__main__item" href="/">Открыть ресторан</a></li>
+                    <li><a class="menu__main__item" href="/">Открыть магазин</a></li>
+                    <li><a class="menu__main__item" href="/">Открыть офис</a></li>
+                </ul>
+            </li>
+            <li><a class="menu__main__item" href="/портфолио">Портфолио</a></li>
+            <li><a class="menu__main__item" href="/контакты">Контакты</a></li>
+            <li><button class="button-menu button modal__btn">Связаться с нами</button></li>
+        </ul>
+        <!-- Добавленные элементы -->
+        <div class="footer__legal">
+            <div class="footer__legal-links">
+                <a href="/политика-конфиденциальности" class="footer__legal-link">Политика конфиденциальности</a>
+                <a href="/пользовательское-соглашение" class="footer__legal-link">Пользовательское соглашение</a>
+                <a href="/реквизиты" class="footer__legal-link">Реквизиты</a>
+            </div>
+
+            <div class="footer__requisites">
+                <div class="requisites-item">
+                    <span>Юридическое лицо:</span>  ООО «СитиСтрой»
+                </div>
+                <div class="requisites-item">
+                    <span>Юридический адрес: </span> 121087, г. Москва, Береговой проезд, д.7, офис 3
+                </div>
+                <div class="requisites-item">
+                    <span>ИНН: 7730212956</span>
+                    <span>ОГРН: 1167746840117</span>
+                </div>
+                <div class="requisites-item">
+                    <span>КПП: 773001001</span>
+                    <span>Код организации по ОКПО: 04440612</span>
+                </div>
+            </div>
+        </div>
 	</div>
-		
-
-		<div class="footer__about">
-		<a href="https://www.rusprofile.ru/id/10622536" target='_blank'>
-			<h1> ООО "СИТИСТРОЙ"<span> © &nbsp; 2014-2024</span> </h1>
-		</a>
-			<h2>
-					<span> ИНН 7730212956 &nbsp; &nbsp;  ОГРН 1167746840117 </span><br>
-					Политика конфиденциальности. <br> Информация, размещенная на сайте, 
-					носит ознакомительный характер и ни при каких условиях не является 
-					публичной офертой определяемой положением Статьи 437 Гражданского 
-					кодекса Российской Федерации.
-					
-			</h2>
-		</div>
-
-
 </nav>
 <div class="C-mob-con">
 	<h1 class="C-mob"> ООО "СИТИСТРОЙ"<span> © &nbsp; 2014-2024</span> </h1>

@@ -386,14 +386,27 @@
 		margin-right: 2vw;
 		vertical-align:middle;
 	}
-
-	.menu-mob_main > li > a {
+	.menu__main__contacts {
+		flex-direction: column;
+	}
+	.mob-menu .contacts-item,
+	.mob-menu .contacts-item span,
+	.menu-mob_main a {
 		font-family: var(--Gilroy);
 		font-size: 6vw;
 		font-weight: 300;
 		line-height: 2;
 		color: #ffffff;
 		transition: var(--duration);
+	}
+	.mob-menu .contacts-item span{
+		color: #28bbff;
+	}
+
+	.has-child:after {
+		top: 0;
+		width: clamp(5px, 5vw, 25px);
+		height: clamp(5px, 5vw, 25px);
 	}
 	/* .cart-teh__mob > img {
 		width: 100vw;

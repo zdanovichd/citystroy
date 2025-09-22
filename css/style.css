@@ -1360,6 +1360,7 @@ li {
 	-webkit-backdrop-filter: blur(10px);
 	position: fixed;
 	z-index: 9999999;
+	transform: translateX(100%);
 	transition: all 1s ease-in-out;
 }
 .mob-menu_container {

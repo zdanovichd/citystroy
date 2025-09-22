@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="ru">
+<head>
+
 
 <title>НИЯМА</title>
 <!-- HEAD -->
 <?php
 	include('../components/head.php')
 ?>
+</head>
 <!-- PRELOADER -->
 <?php
 	include('../components/preloader.php')

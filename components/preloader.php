@@ -2,8 +2,6 @@
     <div class="spinner"></div>
 </div>
 
-<link rel="stylesheet" href="../css/preloader.css">
-
 <!-- <script>
 	window.addEventListener('load', function () {
 		var preloader = document.getElementById('preloader');

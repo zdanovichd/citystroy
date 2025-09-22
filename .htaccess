@@ -28,7 +28,27 @@ RewriteRule ^garantii$ /pages/garantii.php [L]
 
 #Редиректы
 Redirect 301 /портфолио /proekty
+Redirect 301 /pages/case/il_&_geo.php /
+Redirect 301 /assets/icon/que.svg /
+Redirect 301 /assets/img/cart/ch/8.jpg /
+Redirect 301 /assets/img/cart/ch/9.jpg /
+Redirect 301 /case/youtube.com/watch?v=wTNcoZMLzFc&ab_channel=СИТИСТРОЙ /
+Redirect 301 /assets/img/blue_logo_swiper/25.png /
 
 #  <Directory /var/www/html/citystroy.local/>
 #        AllowOverride All
 #    </Directory>
+
+# SEO редиректы
+# Перенаправляет с зеркал где больше 1 слеша. /// (Вариант 1)
+RewriteCond %{THE_REQUEST} //
+RewriteRule .* /$0 [R=301,L]
+
+# Принудительный редирект на HTTPS (и убираем WWW)
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+# Убираем index.php и index.html, но сохраняем конечный слэш (кроме главной)
+RewriteCond %{REQUEST_URI} ^(.+/)?index\.(php|html)$ [NC]
+RewriteRule ^(.+/)?index\.(php|html)$ https://%{HTTP_HOST}/$1 [R=301,L]

@@ -14,8 +14,8 @@
 <!--    <link rel="stylesheet" href="../css/carts.css">-->
 <!--    <link rel="stylesheet" href="../css/more.css">-->
 <!--    <link rel="stylesheet" href="../css/preloader.css">-->
-    <link rel="stylesheet" href="../css/all-in-one.css">
     <link rel="stylesheet" href="../css/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="../css/all-in-one.css">
 
 
 

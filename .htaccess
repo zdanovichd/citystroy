@@ -69,3 +69,8 @@ RewriteRule ^(.+)/index\.(php|html)$ https://%{HTTP_HOST}/$1 [R=301,L]
 # Специальное правило для главной страницы Убираем index.php и index.html.
 RewriteCond %{THE_REQUEST} /index\.(php|html) [NC]
 RewriteRule ^index\.(php|html)$ https://%{HTTP_HOST} [R=301,L]
+
+# Кеширование изображений
+<FilesMatch "\.(jpg|jpeg|png|gif|webp|svg|ico)$">
+    Header set Cache-Control "max-age=31536000, public"
+</FilesMatch>

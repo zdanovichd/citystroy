@@ -87,11 +87,11 @@
 
 				<div class="title-mob swiper-container">
         <div class="swiper-wrapper">
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/9.jpg" alt=""></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/6.jpg" alt=""></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/13.jpg" alt=""></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/5.jpg" alt=""></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/7.jpg" alt=""></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/9.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/6.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/13.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/5.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/7.jpg" alt="" loading="lazy"></div>
         </div>
     	</div>
 
@@ -109,33 +109,33 @@
 
 			<div class="about__item teh">
 				<h3>
-					<img src="/assets/icon/16.svg" alt="">
+					<img src="/assets/icon/16.svg" alt="" loading="lazy">
 					Повышения качества кухни и его удержания на высоком уровне
 				</h3>
 				<h3>
-					<img src="/assets/icon/3.svg" alt="">
+					<img src="/assets/icon/3.svg" alt="" loading="lazy">
 					Увеличения эффективности работы персонала и проходимости заведения
 				</h3>
 				
 				<h3 >
-					<img src="/assets/icon/2.svg" alt="">
+					<img src="/assets/icon/2.svg" alt="" loading="lazy">
 						Уменьшения ежемесячных операционных расходов
 				</h3>
 								<!-- <h3 >
-					<img src="/assets/img/icon/teh_5.svg" alt="">
+					<img src="/assets/img/icon/teh_5.svg" alt="" loading="lazy">
 					Водоснабжение, канализация, вентиляция, электроснабжение
 				</h3>
 				<h3> -->
 				<h3>
-					<img src="/assets/icon/19.svg" alt="">
+					<img src="/assets/icon/19.svg" alt="" loading="lazy">
 					<a href="#tehno-plan-con">Нестандартное оборудование</a>
 				</h3>
 				<h3>
-					<img src="/assets/icon/17.svg" alt="">
+					<img src="/assets/icon/17.svg" alt="" loading="lazy">
 					Сокращаете количество персонала
 				</h3>
 				<h3 >
-					<img src="/assets/icon/8.svg" alt="">
+					<img src="/assets/icon/8.svg" alt="" loading="lazy">
 					Увеличиваете площадь под посадочные места
 				</h3>
 			</div>
@@ -187,7 +187,7 @@
 		<article>
 			<!-- 1 -->
 			<div class="cart-teh сart-teh__mob">
-				<img class="element-animation" src="/assets/img/teh/1.jpg" alt="">
+				<img class="element-animation" src="/assets/img/teh/1.jpg" alt="" loading="lazy">
 				<div class="title-teh_con">
 					<h1 class="title-teh">Перегородки и стены</h1>
 					<h2 class="text-teh">Этот раздел включает в себя план перегородок и внутренних стен здания с подробными размерами и конструктивными особенностями, с указанием проемов, дверей, рольставней и их технических характеристик, экспликацию помещений.</h2>
@@ -201,7 +201,7 @@
 			</div>
 			<!-- 2 -->
 			<div class="cart-teh сart-teh__mob">
-				<img class="element-animation" src="/assets/img/teh/2.jpg" alt="">
+				<img class="element-animation" src="/assets/img/teh/2.jpg" alt="" loading="lazy">
 				<div class="title-teh_con">
 					<h1 class="title-teh">Спецификация и расстановка технологического оборудования</h1>
 					<h2 class="text-teh">Спецификация технологического оборудования содержит подробные технические характеристики, размеры, потребляемые мощности.<br> <br>По запросу Заказчика предложим производителя и марку/тип оборудования. <br><br>
@@ -214,7 +214,7 @@
 
 			<!-- 3 -->
 			<div class="cart-teh сart-teh__mob">
-				<img class="element-animation" src="/assets/img/teh/3.jpg" alt="">
+				<img class="element-animation" src="/assets/img/teh/3.jpg" alt="" loading="lazy">
 				<div class="title-teh_con">
 					<h1 class="title-teh">Водоснабжение, канализация, вентиляция, электроснабжение</h1>
 					<h2 class="text-teh">В этих разделах будут указаны все расстояния, высоты, габариты, места расположения, способы подвода (отвода) и распределения:</h2>
@@ -227,7 +227,7 @@
 			</div>
 			<!-- 4 -->
 			<div class="cart-teh сart-teh__mob">
-				<img class="element-animation" src="/assets/img/teh/4.jpg" alt="">
+				<img class="element-animation" src="/assets/img/teh/4.jpg" alt="" loading="lazy">
 				<div class="title-teh_con">
 					<h1 class="title-teh">Технологические потоки</h1>
 					<h2 class="text-teh">Составим подробный план технологических потоков, который включает в себя перемещение продуктов, работников кухни, официантов и другого персонала, учитывая количество работников, рабочих смен, времени работы ресторана и количества перемещаемых продуктов в день.</h2>
@@ -238,7 +238,7 @@
 			</div>
 			<!-- 5 -->
 			<div class="cart-teh сart-teh__mob">
-				<img class="element-animation" src="/assets/img/teh/5.jpg" alt="">
+				<img class="element-animation" src="/assets/img/teh/5.jpg" alt="" loading="lazy">
 				<div class="title-teh_con">
 					<h1 class="title-teh">Отделка стен, полов и потолков</h1>
 					<h2 class="text-teh">В данных разделах:</h2>
@@ -254,7 +254,7 @@
 			</div>
 			<!-- 6 -->
 			<div class="cart-teh сart-teh__mob">
-				<img  class="element-animation" src="/assets/img/teh/6.jpg" alt="">
+				<img  class="element-animation" src="/assets/img/teh/6.jpg" alt="" loading="lazy">
 				<div class="title-teh_con">
 					<h1 class="title-teh">Нестандартное оборудование</h1>
 					<h2 class="text-teh">В случае, если на рынке нет необходимого оборудования, мы выполним эскизные решения нестандартного технологического или иного оборудования, барных и кассовых стоек, используемых на данной точке с подробным описание конструктивных особенностей, используемых материалов, технических и технологических требований.</h2>
@@ -289,7 +289,7 @@
 								<label type="checkbox" class="modal__check-text" for="kit__check-btn-tehno">
 									<span class="kit__check-btn modal__check"></span>
 									Согласие на обработку данных
-									<a href="../pages/assent.php"><img class="modal__check-que" src="/assets/icon/que.svg" alt=""></a>
+									<a href="../pages/assent.php"><img class="modal__check-que" src="/assets/icon/que.svg" alt="" loading="lazy"></a>
 								</label>
 						</div>
 
@@ -299,8 +299,8 @@
 				</div>
 				<div class="plan-img-pdf">
 					<div class="tehno-plan__img open-pdf">
-						<img class="tehno-plan__img__search" src="/assets/img/icon/search.svg" alt="">
-						<img class="tehno-plan__img__main" src="/assets/img/icon/plan.svg" alt="">
+						<img class="tehno-plan__img__search" src="/assets/img/icon/search.svg" alt="" loading="lazy">
+						<img class="tehno-plan__img__main" src="/assets/img/icon/plan.svg" alt="" loading="lazy">
 					</div>
 					<button class="open-pdf open-pdf-btn button">Открыть PDF</button>	
 					<a href="/assets/img/plan/city.pdf" target="_blank">
@@ -326,16 +326,16 @@
 
 	
 		<div class="plan-con">
-			<img class="plan-close" src="/assets/img/icon/burger-close.svg" alt="">
+			<img class="plan-close" src="/assets/img/icon/burger-close.svg" alt="" loading="lazy">
 			<div class="plan">
 				<div class="swiper planSwiper">
 					<div class="swiper-wrapper">
-							<div class="swiper-slide plan-slide"><img src="/assets/img/plan/1.jpg" alt=""></div>
-							<div class="swiper-slide plan-slide"><img src="/assets/img/plan/2.jpg" alt=""></div>
-							<div class="swiper-slide plan-slide"><img src="/assets/img/plan/3.jpg" alt=""></div>
-							<div class="swiper-slide plan-slide"><img src="/assets/img/plan/4.jpg" alt=""></div>
-							<div class="swiper-slide plan-slide"><img src="/assets/img/plan/5.jpg" alt=""></div>
-							<div class="swiper-slide plan-slide"><img src="/assets/img/plan/6.jpg" alt=""></div>
+							<div class="swiper-slide plan-slide"><img src="/assets/img/plan/1.jpg" alt="" loading="lazy"></div>
+							<div class="swiper-slide plan-slide"><img src="/assets/img/plan/2.jpg" alt="" loading="lazy"></div>
+							<div class="swiper-slide plan-slide"><img src="/assets/img/plan/3.jpg" alt="" loading="lazy"></div>
+							<div class="swiper-slide plan-slide"><img src="/assets/img/plan/4.jpg" alt="" loading="lazy"></div>
+							<div class="swiper-slide plan-slide"><img src="/assets/img/plan/5.jpg" alt="" loading="lazy"></div>
+							<div class="swiper-slide plan-slide"><img src="/assets/img/plan/6.jpg" alt="" loading="lazy"></div>
 						</div>
 						<div class="swiper-pagination plan-pag"></div>
 					</div>

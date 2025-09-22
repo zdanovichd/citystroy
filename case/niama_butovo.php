@@ -56,7 +56,7 @@
 			</div>
 			
 
-			<img class="case__cover-mob" src="../assets/img/cart/niama/5.jpg" alt="">
+			<img class="case__cover-mob" src="../assets/img/cart/niama/5.jpg" alt="" loading="lazy">
 			<div class="case__cover case-niama_butovo">
 			</div>
 
@@ -124,11 +124,11 @@
 		<div class="case__swiper-con">
 			<div class="swiper case__swiper">
 				<div class="swiper-wrapper">
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama/1.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama/2.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama/3.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama/4.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama/5.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama/1.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama/2.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama/3.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama/4.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama/5.jpg"/ alt="" loading="lazy"></div>
 				</div>
 
 				<div class="swiper-button-next case__swiper-btn"></div>
@@ -138,11 +138,11 @@
 
 			<div thumbsSlider="" class="swiper case__swiper-2">
 				<div class="swiper-wrapper">
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama/1.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama/2.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama/3.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama/4.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama/5.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama/1.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama/2.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama/3.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama/4.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama/5.jpg"/ alt="" loading="lazy"></div>
 				</div>
 			</div>
 

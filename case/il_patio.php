@@ -56,7 +56,7 @@
 			</div>
 			
 
-			<img class="case__cover-mob" src="../assets/img/cart/il-pat/1.jpg" alt="">
+			<img class="case__cover-mob" src="../assets/img/cart/il-pat/1.jpg" alt="" loading="lazy">
 			<div class="case__cover case-il-pat">
 			</div>
 
@@ -132,16 +132,16 @@
 		<div class="case__swiper-con">
 			<div class="swiper case__swiper">
 				<div class="swiper-wrapper">
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/1.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/2.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/3.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/4.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/5.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/6.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/7.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/8.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/9.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/10.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/1.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/2.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/3.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/4.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/5.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/6.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/7.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/8.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/9.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/il-pat/10.jpg"/ alt="" loading="lazy"></div>
 				</div>
 
 				<div class="swiper-button-next case__swiper-btn"></div>
@@ -151,16 +151,16 @@
 
 			<div thumbsSlider="" class="swiper case__swiper-2">
 				<div class="swiper-wrapper">
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/1.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/2.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/3.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/4.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/5.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/6.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/7.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/8.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/9.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/10.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/1.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/2.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/3.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/4.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/5.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/6.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/7.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/8.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/9.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/il-pat/10.jpg"/ alt="" loading="lazy"></div>
 				</div>
 			</div>
 

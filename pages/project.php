@@ -80,11 +80,11 @@
 
 			<div class="title-mob swiper-container">
         <div class="swiper-wrapper">
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/9.jpg" alt=""></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/8.jpg" alt=""></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/11.jpg" alt=""></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/3.jpg" alt=""></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/10.jpg" alt=""></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/9.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/8.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/11.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/3.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/10.jpg" alt="" loading="lazy"></div>
         </div>
     	</div>
 
@@ -102,15 +102,15 @@
 		<h1 class="about__title">Быстро согласовываем рабочую документацию с администрацией здания</h1>
 		<div class="about__item proj_about__item">
 			<h3>
-				<img src="/assets/icon/10.svg" alt="">
+				<img src="/assets/icon/10.svg" alt="" loading="lazy">
 				Cокращаем сроки сдачи объекта
 			</h3>
 			<h3>
-				<img src="/assets/icon/7.svg" alt="">
+				<img src="/assets/icon/7.svg" alt="" loading="lazy">
 				Оптимизируем бюджет без потери качества
 			</h3>
 			<h3 >
-				<img src="/assets/icon/14.svg" alt="">
+				<img src="/assets/icon/14.svg" alt="" loading="lazy">
 				Уберегаем заказчика от переплат и ошибок
 			</h3>
 		</div>
@@ -118,28 +118,28 @@
 		<div class="about__column ab_proj">
 			<div>
 				<div >
-					<!-- <img src="/assets/img/icon/Frame 34.svg" alt=""> -->
+					<!-- <img src="/assets/img/icon/Frame 34.svg" alt="" loading="lazy"> -->
 					<h1 class="about__column_2">Оптимальные инженерные решения</h1>
 				</div>
 				<h3>Находим технические решения для оптимизации расходов. Проектируем только то, что действительно надо</h3>
 			</div>
 			<div>
 				<div>
-					<!-- <img src="/assets/img/icon/Frame 34.svg" alt=""> -->
+					<!-- <img src="/assets/img/icon/Frame 34.svg" alt="" loading="lazy"> -->
 					<h1>Опыт взаимодействия со службами ТЦ/БЦ</h1>
 				</div>
 				<h3>Накоплен большой опыт взаимодействия со службами эксплуатации ТЦ и БЦ. Знаем весь процесс согласования рабочей и сдачи исполнительной документации ТЦ/БЦ</h3>
 			</div>
 			<div>
 				<div>
-					<!-- <img src="/assets/img/icon/Frame 34.svg" alt=""> -->
+					<!-- <img src="/assets/img/icon/Frame 34.svg" alt="" loading="lazy"> -->
 					<h1>Глубоко и детально прорабатываем проект в множество циклов</h1>
 				</div>
 				<h3>Делаем сквозной контроль всех разделов проектирования на предмет ошибок и наложений</h3>
 			</div>
 			<div>
 				<div>
-					<!-- <img src="/assets/img/icon/Frame 34.svg" alt=""> -->
+					<!-- <img src="/assets/img/icon/Frame 34.svg" alt="" loading="lazy"> -->
 					<h1>Глубоко и детально прорабатываем проект в множество циклов</h1>
 				</div>
 				<h3>Анализируем все технические условия на предмет предполагаемого объекта в конкретной локации. Не все локации подходят и не все ТУ удовлетворяют требованиям проектируемых объектов</h3>
@@ -232,7 +232,7 @@
 			<h1>Сначала запускаются <span>Технология</span> и <span>Дизайн,</span> далее разрабатываются архитектурный и инженерные разделы, только после этого считается смета, а потом - стройка.</h1>
 		</div>
 	
-	<img class="_R" src="/assets/icon/R.svg" alt=""></img>
+	<img class="_R" src="/assets/icon/R.svg" alt="" loading="lazy"></img>
 
 	<div class="step">
 		<h1>Далее обязательно разрабатывается раздел <span>АР</span>. Он объединяет <span>Дизайн</span> и <span>Технологию.</span> Раздел <span>АР</span> является техническим заданием на проектирование инженерных разделов</h1>
@@ -240,8 +240,8 @@
 
 	</div>
 
-	<img class="long_R" src="/assets/icon/long_R.svg" alt=""></img>
-	<img class="R" src="/assets/icon/R.svg" alt=""></img>
+	<img class="long_R" src="/assets/icon/long_R.svg" alt="" loading="lazy"></img>
+	<img class="R" src="/assets/icon/R.svg" alt="" loading="lazy"></img>
 
 	<div class="step-container">
 
@@ -249,15 +249,15 @@
 			<h1>После разработки раздела <span>АР</span>, разрабатываются инженерные разделы: <span>ОВиК</span>, <span>ВК</span>, <span>СКС</span>, <span>ЭОМ</span> и если есть конструкции из металла, то раздел <span>КМ</span>.</h1>
 		</div>
 	
-		<img class="_R" src="/assets/icon/R.svg" alt=""></img>
+		<img class="_R" src="/assets/icon/R.svg" alt="" loading="lazy"></img>
 
 	<div class="step">
 		<h1><span>ЭОМ</span> разрабатывается последним, так как в нем сведена вся информация от всех потребителей энергии со всех проектов.</h1>
 	</div>
 
 	</div>
-	<img class="long_R" src="/assets/icon/long_R.svg" alt=""></img>
-	<img class="R" src="/assets/icon/R.svg" alt=""></img>
+	<img class="long_R" src="/assets/icon/long_R.svg" alt="" loading="lazy"></img>
+	<img class="R" src="/assets/icon/R.svg" alt="" loading="lazy"></img>
 
 	<div class="step-container">
 
@@ -265,7 +265,7 @@
 		<h1>От соблюдения такой последовательности этапов зависит количество ошибок и перерасход ресурсов Заказчика</h1>
 	</div>
 
-	<img class="_R" src="/assets/icon/R.svg" alt=""></img>
+	<img class="_R" src="/assets/icon/R.svg" alt="" loading="lazy"></img>
 
 	<div class="step">
 		<h1>Эта зависимость прямо пропорциональна масштабу проекта – чем больше объект, тем строже нужно соблюдать эту этапность.</h1>
@@ -277,7 +277,7 @@
 
 <div class="warn_con  warn-mob">
 	<div class="warn">
-		<img src="/assets/img/icon/!.svg" alt="">
+		<img src="/assets/img/icon/!.svg" alt="" loading="lazy">
 		<h1>От соблюдения такой последовательности этапов зависит количество ошибок и перерасход ресурсов Заказчика.<br>
 		Эта зависимость прямо пропорциональна масштабу проекта – чем больше объект, тем строже нужно соблюдать эту этапность.</h1>
 	</div>

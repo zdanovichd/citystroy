@@ -10,17 +10,17 @@
 	<div class="carts">
     <div class="carts-back swiper-container">
         <div class="swiper-wrapper">
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/1.jpg" alt=""></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/2.jpg" alt=""></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/3.jpg" alt=""></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/4.jpg" alt=""></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/5.jpg" alt=""></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/6.jpg" alt=""></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/1.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/2.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/3.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/4.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/5.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/6.jpg" alt="" loading="lazy"></div>
         </div>
     </div>
     <div class="cart__content">
         <h3 class="cart__location">ЖК Зил Арт</h3>
-        <img class="cart__logo" src="/assets/img/cart/logo/02.svg" alt="RIVER ONE">
+        <img class="cart__logo" src="/assets/img/cart/logo/02.svg" alt="RIVER ONE" loading="lazy">
         <h1 class="cart__title">RIVER ONE</h1>
         <h2 class="cart__sub-title">КАЛЬЯННАЯ 250 м&#178</h2>
         <div class="cart__link">
@@ -42,17 +42,17 @@
 	<div class="carts">
     <div class="carts-back swiper-container">
         <div class="swiper-wrapper">
-            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/1.jpg" alt=""></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/2.jpg" alt=""></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/3.jpg" alt=""></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/4.jpg" alt=""></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/5.jpg" alt=""></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/6.jpg" alt=""></div>
+            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/1.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/2.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/3.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/4.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/5.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/6.jpg" alt="" loading="lazy"></div>
         </div>
     </div>
     <div class="cart__content">
         <h3 class="cart__location">ТЦ Саларис</h3>
-        <img class="cart__logo" src="/assets/img/cart/logo/08.svg" alt="BLACK STAR BURGER">
+        <img class="cart__logo" src="/assets/img/cart/logo/08.svg" alt="BLACK STAR BURGER" loading="lazy">
         <h1 class="cart__title">ЧАЙХАНА №1</h1>
         <h2 class="cart__sub-title">Ресторан 900 м&#178</h2>
         <div class="cart__link">
@@ -73,17 +73,17 @@
 	<div class="carts">
     <div class="carts-back swiper-container">
         <div class="swiper-wrapper">
-            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/1.jpg" alt=""></div>
-            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/2.jpg" alt=""></div>
-            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/3.jpg" alt=""></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/4.jpg" alt=""></div>
-            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/5.jpg" alt=""></div>
-            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/6.jpg" alt=""></div>
+            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/1.jpg" alt="" loading="lazy"></div>
+            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/2.jpg" alt="" loading="lazy"></div>
+            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/3.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/4.jpg" alt="" loading="lazy"></div>
+            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/5.jpg" alt="" loading="lazy"></div>
+            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/6.jpg" alt="" loading="lazy"></div>
         </div>
     </div>
     <div class="cart__content">
         <h3 class="cart__location">ТЦ Саларис</h3>
-        <img class="cart__logo" src="/assets/img/cart/logo/10.svg" alt="BLACK STAR BURGER">
+        <img class="cart__logo" src="/assets/img/cart/logo/10.svg" alt="BLACK STAR BURGER" loading="lazy">
         <h1 class="cart__title">BLACK STAR BURGER</h1>
         <h2 class="cart__sub-title">Бургерная 180 м²</h2>
         <div class="cart__link">
@@ -105,20 +105,20 @@
 	<div class="carts">
 		<div class="carts-back swiper-container">
 				<div class="swiper-wrapper">
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/1.jpg" alt=""></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/2.jpg" alt=""></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/3.jpg" alt=""></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/4.jpg" alt=""></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/5.jpg" alt=""></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/6.jpg" alt=""></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/7.jpg" alt=""></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/1.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/2.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/3.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/4.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/5.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/6.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/7.jpg" alt="" loading="lazy"></div>
 				</div>
 		</div>
 		<div class="cart__content">
 				<h3 class="cart__location">ТРЦ Остров Мечты</h3>
 				<div class="duble-cart__logo">
-					<img class="cart__logo" src="/assets/img/cart/logo/12.svg" alt="BLACK STAR BURGER">
-					<img class="cart__logo" src="/assets/img/cart/logo/05.svg" alt="BLACK STAR BURGER">
+					<img class="cart__logo" src="/assets/img/cart/logo/12.svg" alt="BLACK STAR BURGER" loading="lazy">
+					<img class="cart__logo" src="/assets/img/cart/logo/05.svg" alt="BLACK STAR BURGER" loading="lazy">
 				</div>
 				<h1 class="cart__title">IL PATIO и ПЛАНЕТА СУШИ</h1>
 				<h2 class="cart__sub-title">Ресторан 409 м&#178</h2>

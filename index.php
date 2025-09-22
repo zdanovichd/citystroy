@@ -86,10 +86,10 @@
 
 			<div class="title-mob swiper-container">
         <div class="swiper-wrapper">
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/1.jpg" alt=""></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/2.jpg" alt=""></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/3.jpg" alt=""></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/4.jpg" alt=""></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/1.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/2.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/3.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/4.jpg" alt="" loading="lazy"></div>
         </div>
     	</div>
 
@@ -108,19 +108,19 @@
 		<h1 class="about__title">Помогаем открыть заведение, которое эффективно функционирует и окупается: прорабатываем при строительстве все ключевые аспекты его успеха</h1>
 		<div class="about__item">
 			<h3 class="element-animation">
-				<img src="/assets/icon/15.svg" alt="">
+				<img src="/assets/icon/15.svg" alt="" loading="lazy">
 				Закладываем основу окупаемости через технологический проект кухни
 			</h3>
 			<h3 class="element-animation">
-				<img src="/assets/icon/18.svg" alt="">
+				<img src="/assets/icon/18.svg" alt="" loading="lazy">
 				Работаем на увеличение прибыли, создавая атмосферный дизайн интерьера
 			</h3>
 			<h3 class="element-animation">
-				<img src="/assets/icon/7.svg" alt="">
+				<img src="/assets/icon/7.svg" alt="" loading="lazy">
 				Сокращаем бюджет строительства за счет оптимальных инженерных решений
 			</h3>
 			<h3 class="element-animation">
-				<img src="/assets/icon/6.svg" alt="">
+				<img src="/assets/icon/6.svg" alt="" loading="lazy">
 				Укладывамся в срок и не выходим за бюджет сметы во время ремонта и СМР	
 			</h3>
 		</div>
@@ -131,7 +131,7 @@
 
 			<div class="element-animation">
 				<div>
-					<!-- <img src="/assets/img/icon/Frame 34.svg" alt=""> -->
+					<!-- <img src="/assets/img/icon/Frame 34.svg" alt="" loading="lazy"> -->
 					<h1 class="about__column_2">Оптимизируем общий бюджет проектировочных решений</h1>
 				</div>
 				<h3>Находим технические решения для оптимизации расходов за счет богатого 7-летнего опыта проектирования и строительства ресторанов: от самых маленьких до двух- трехуровневых объектов большой площади.</h3>
@@ -139,7 +139,7 @@
 
 			<div class="element-animation">
 				<div>
-					<!-- <img src="/assets/img/icon/Frame 34.svg" alt=""> -->
+					<!-- <img src="/assets/img/icon/Frame 34.svg" alt="" loading="lazy"> -->
 					<h1>Уберегаем от финансовых потерь из-за неточностей в проектировании</h1>
 				</div>
 				<h3>Делаем сквозной контроль всех разделов проектирования на предмет ошибок и наложений, исключая ошибки от перекрестного проектирования разными подрядчиками, которые приводят к увеличению общего бюджета строительства.</h3>
@@ -147,7 +147,7 @@
 		
 			<div class="element-animation">
 				<div>
-					<!-- <img src="/assets/img/icon/Frame 34.svg" alt=""> -->
+					<!-- <img src="/assets/img/icon/Frame 34.svg" alt="" loading="lazy"> -->
 					<h1>Быстро согласовываем рабочую документацию с администрацией здания</h1>
 				</div>
 				<h3>Накоплен большой опыт взаимодействия со службами эксплуатации ТЦ и БЦ. Знаем весь процесс согласования рабочей и сдачи исполнительной документации ТЦ/БЦ. Это позволяет быстро вносить в проект корректировки от администрации здания и оперативно согласовывать с ней все решения.</h3>
@@ -155,7 +155,7 @@
 
 			<div class="element-animation">
 				<div>
-					<!-- <img src="/assets/img/icon/Frame 34.svg" alt=""> -->
+					<!-- <img src="/assets/img/icon/Frame 34.svg" alt="" loading="lazy"> -->
 					<h1>Создаем проект по которому не будет изменений в смете и сроках при СМР</h1>
 				</div>
 				<h3>Мы разрабатываем проекты в множество циклов, в каждом из которых происходят значительные изменения от первоначальной версии. Такой подход позволяет создать максимально-точный и грамотный проект, по которому не будет изменений в смете и сроках при строительстве.</h3>
@@ -173,30 +173,30 @@
 	<div class="swiper ticker">
 			<h1 class="ticker__name">НАШИ КЛИЕНТЫ</h1>
 			<div class="swiper-wrapper">
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (1).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (2).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/pasta.php"><img src="assets/img/logo_swiper/swiper (3).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/il_patio.php"><img src="assets/img/logo_swiper/swiper (4).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/miata-ostrov.php"><img src="assets/img/logo_swiper/swiper (5).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/bsb.php"><img src="assets/img/logo_swiper/swiper (6).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (7).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/bsb.php"><img src="assets/img/logo_swiper/swiper (8).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/costa.php"><img src="assets/img/logo_swiper/swiper (9).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (10).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (11).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/luna.php"><img src="assets/img/logo_swiper/swiper (12).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (13).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/il_&_geo.php"><img src="assets/img/logo_swiper/swiper (14).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/river.php"><img src="assets/img/logo_swiper/swiper (15).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/sinabon.php"><img src="assets/img/logo_swiper/swiper (16).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/il_&_geo.php"><img src="assets/img/logo_swiper/swiper (17).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (18).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (19).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (20).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (21).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (22).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (23).svg" alt=""></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/niama_butovo.php"><img src="assets/img/logo_swiper/swiper (25).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (1).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (2).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/pasta.php"><img src="assets/img/logo_swiper/swiper (3).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/il_patio.php"><img src="assets/img/logo_swiper/swiper (4).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/miata-ostrov.php"><img src="assets/img/logo_swiper/swiper (5).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/bsb.php"><img src="assets/img/logo_swiper/swiper (6).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (7).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/bsb.php"><img src="assets/img/logo_swiper/swiper (8).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/costa.php"><img src="assets/img/logo_swiper/swiper (9).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (10).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (11).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/luna.php"><img src="assets/img/logo_swiper/swiper (12).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (13).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/il_&_geo.php"><img src="assets/img/logo_swiper/swiper (14).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/river.php"><img src="assets/img/logo_swiper/swiper (15).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/sinabon.php"><img src="assets/img/logo_swiper/swiper (16).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/il_&_geo.php"><img src="assets/img/logo_swiper/swiper (17).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (18).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (19).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (20).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (21).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (22).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (23).svg" alt="" loading="lazy"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/niama_butovo.php"><img src="assets/img/logo_swiper/swiper (25).svg" alt="" loading="lazy"></div></a>
 			</div>
 	</div> 
 
@@ -296,8 +296,8 @@
 
 				<div class="info-back">
 					<div class="info-cart">
-						<img class="info_2-img" src="/assets/img/icon/prob.svg" alt="">
-						<!-- <img class="info_2-img" src="/assets/img/icon/mac.svg" alt=""> -->
+						<img class="info_2-img" src="/assets/img/icon/prob.svg" alt="" loading="lazy">
+						<!-- <img class="info_2-img" src="/assets/img/icon/mac.svg" alt="" loading="lazy"> -->
 						<h2 class="iTitle">Дизайн интерьера</h2>
 						<div class="info_sleep">
 							<h3 class="info-2_sub-title" > Создаем атмосферный интерьер, который работает на увеличение прибыли.</h3>
@@ -308,7 +308,7 @@
 
 				<div class="info-back">
 					<div class="info-cart">
-						<img class="info_2-img" src="/assets/img/icon/plan_kv.svg" alt="">
+						<img class="info_2-img" src="/assets/img/icon/plan_kv.svg" alt="" loading="lazy">
 						<h2 class="iTitle">Инженерное проектирование</h2>
 						<div class="info_sleep">
 							<h3 class="info-2_sub-title" >Разрабатываем инженерные проекты, оптимизируя бюджет и уменьшая сроки проведения строительных работ.
@@ -321,7 +321,7 @@
 				
 				<div class="info-back">
 					<div class="info-cart">
-							<img class="info_2-img" src="/assets/img/icon/valik.svg" alt="">
+							<img class="info_2-img" src="/assets/img/icon/valik.svg" alt="" loading="lazy">
 							<h2 class="iTitle">Ремонт и СМР</h2>
 							<div class="info_sleep">
 								<h3 class="info-2_sub-title">Выполняем все этапы работ согласно проекту, управляем строительными процессами, координируем работу субподрядчиков.</h3>
@@ -332,7 +332,7 @@
 
 				<div class="info-back">
 					<div class="info-cart">
-							<img class="info_2-img" src="/assets/img/icon/plita.svg" alt="">
+							<img class="info_2-img" src="/assets/img/icon/plita.svg" alt="" loading="lazy">
 							<h2 class="iTitle">Технологическое проектирование</h2>
 							<div class="info_sleep icart_down">
 								<h3 class="info-2_sub-title">Разрабатываем планировки помещений и расстановку технологического оборудования для максимальной эффективности ресторана.</h3>
@@ -352,7 +352,7 @@
 
 				<div class="info-back">
 					<div class="info-cart">
-						<img class="info_2-img" src="/assets/img/icon/mac.svg" alt="">
+						<img class="info_2-img" src="/assets/img/icon/mac.svg" alt="" loading="lazy">
 						<h2 class="iTitle">Дизайнеры</h2>
 						<div class="info_sleep icart_down">
 							<h3 class="info-2_sub-title">Наши дизайнеры имеют множественный успешный опыт ресторанных проектов.</h3>
@@ -363,7 +363,7 @@
 
 				<div class="info-back">
 					<div class="info-cart">
-							<img class="info_2-img" src="/assets/img/icon/lin.svg" alt="">
+							<img class="info_2-img" src="/assets/img/icon/lin.svg" alt="" loading="lazy">
 							<h2 class="iTitle">Инженеры и проектировщики</h2>
 							<div class="info_sleep icart_down">
 								<h3 class="info-2_sub-title">Весь состав ИТР нашей компании с высшим строительным и инженерным образованием.
@@ -376,7 +376,7 @@
 				
 				<div class="info-back">
 					<div class="info-cart">
-							<img class="info_2-img" src="/assets/img/icon/casc.svg" alt="">
+							<img class="info_2-img" src="/assets/img/icon/casc.svg" alt="" loading="lazy">
 							<h2 class="iTitle">Строители</h2>
 							<div class="info_sleep icart_down">
 								<h3 class="info-2_sub-title">Команда строителей обладает разносторонней квалификацией и имеет опыт в ремонте ресторанов, умеет воплотить все задумки дизайнера и пожелания Заказчика.</h3>
@@ -387,7 +387,7 @@
 
 				<div class="info-back">
 					<div class="info-cart">
-							<img  class="info_2-img" src="/assets/img/icon/colp.svg" alt="">
+							<img  class="info_2-img" src="/assets/img/icon/colp.svg" alt="" loading="lazy">
 							<h2 class="iTitle">Технологи</h2>
 							<div class="info_sleep icart_down">
 							<h3 class="info-2_sub-title" id="info-sub_4" >Многие технологи помимо технического образования, до нас долго работали поварами в ресторане и знают изнутри как сделать правильно и удобно, а значит у команды ресторана есть где вкладывать душу в работу, что напрямую отражается на качестве кухни и репутации ресторана.</h3>
@@ -418,7 +418,7 @@
 			<h1>Грамотный анализ Технических Условий (ТУ) и ясное понимание достаточности и недостаточности исходных данных - основа успеха проекта.</h1>
 		</div>
 	
-	<img class="_R" src="/assets/icon/R.svg" alt=""></img>
+	<img class="_R" src="/assets/icon/R.svg" alt="" loading="lazy"></img>
 
 	<div class="step">
 		<h1>Сначала запускаются <span>Технология</span> и <span>Дизайн,</span> далее разрабатываются архитектурный и инженерные разделы, только после этого считается смета, а потом - стройка.</h1>
@@ -426,8 +426,8 @@
 
 	</div>
 
-	<img class="long_R" src="/assets/icon/long_R.svg" alt=""></img>
-	<img class="R" src="/assets/icon/R.svg" alt=""></img>
+	<img class="long_R" src="/assets/icon/long_R.svg" alt="" loading="lazy"></img>
+	<img class="R" src="/assets/icon/R.svg" alt="" loading="lazy"></img>
 
 	<div class="step-container">
 
@@ -435,15 +435,15 @@
 			<h1>Далее обязательно разрабатывается раздел <span>АР</span>. Он объединяет <span>Дизайн</span> и <span>Технологию.</span> Раздел <span>АР</span> является техническим заданием на проектирование инженерных разделов</h1>
 		</div>
 	
-		<img class="_R" src="/assets/icon/R.svg" alt=""></img>
+		<img class="_R" src="/assets/icon/R.svg" alt="" loading="lazy"></img>
 
 	<div class="step">
 		<h1>После разработки раздела <span>АР</span>, разрабатываются инженерные разделы: <span>ОВиК</span>, <span>ВК</span>, <span>СКС</span>, <span>ЭОМ</span> и если есть конструкции из металла, то раздел <span>КМ</span>.</h1>
 	</div>
 
 	</div>
-	<img class="long_R" src="/assets/icon/long_R.svg" alt=""></img>
-	<img class="R" src="/assets/icon/R.svg" alt=""></img>
+	<img class="long_R" src="/assets/icon/long_R.svg" alt="" loading="lazy"></img>
+	<img class="R" src="/assets/icon/R.svg" alt="" loading="lazy"></img>
 
 	<div class="step-container">
 
@@ -451,7 +451,7 @@
 			<h1><span>ЭОМ</span> разрабатывается последним, так как в нем сведена вся информация от всех потребителей энергии со всех проектов.</h1>
 		</div>
 
-		<img class="_R" src="/assets/icon/R.svg" alt=""></img>
+		<img class="_R" src="/assets/icon/R.svg" alt="" loading="lazy"></img>
 
 		<div class="step">
 			<h1>От соблюдения такой последовательности этапов зависит количество ошибок и перерасход ресурсов Заказчика</h1>
@@ -459,8 +459,8 @@
 
 	</div>
 		
-		<img class="long_R" src="/assets/icon/long_R.svg" alt=""></img>
-		<img class="R" src="/assets/icon/R.svg" alt=""></img>
+		<img class="long_R" src="/assets/icon/long_R.svg" alt="" loading="lazy"></img>
+		<img class="R" src="/assets/icon/R.svg" alt="" loading="lazy"></img>
 
 	<div class="step-container">
 
@@ -477,7 +477,7 @@
 
 <!-- <div class="warn_con  warn-mob">
 	<div class="warn">
-		<img src="/assets/img/icon/!.svg" alt="">
+		<img src="/assets/img/icon/!.svg" alt="" loading="lazy">
 		<h1>От соблюдения такой последовательности этапов зависит количество ошибок и перерасход ресурсов Заказчика.<br>
 		Эта зависимость прямо пропорциональна масштабу проекта – чем больше объект, тем строже нужно соблюдать эту этапность.</h1>
 	</div>
@@ -600,8 +600,8 @@
 	<div class="commer-banner-con">
 		<div class="commer-banner">
 			<div>
-				<img class="commer-close" src="../assets/img/icon/banner-close.svg" alt="">
-				<img class="commer-img" src="/assets/img/icon/comm-img.svg" alt="">
+				<img class="commer-close" src="../assets/img/icon/banner-close.svg" alt="" loading="lazy">
+				<img class="commer-img" src="/assets/img/icon/comm-img.svg" alt="" loading="lazy">
 				<h1 class="commer-h1">Коммерческое предложение</h1>
 			</div>
 			<h2 class="commer-h2">Ответьте на 6 вопросов, чтобы узнать стоимость и срок реализации вашего проекта</h2>
@@ -613,7 +613,7 @@
 		</div>
 	</div>
 	<div class="commer-banner-mini">
-			<img class="commer-img" src="/assets/img/icon/comm-img.svg" alt="">
+			<img class="commer-img" src="/assets/img/icon/comm-img.svg" alt="" loading="lazy">
 	</div>
 	<!-- INFO-BANNER -->
     <?php

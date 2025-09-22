@@ -70,11 +70,11 @@ include('../components/header.php')
 
 <div class="title-mob swiper-container">
     <div class="swiper-wrapper">
-        <div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/5.jpg" alt=""></div>
-        <div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/6.jpg" alt=""></div>
-        <div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/7.jpg" alt=""></div>
-        <div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/8.jpg" alt=""></div>
-        <div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/9.jpg" alt=""></div>
+        <div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/5.jpg" alt="" loading="lazy"></div>
+        <div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/6.jpg" alt="" loading="lazy"></div>
+        <div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/7.jpg" alt="" loading="lazy"></div>
+        <div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/8.jpg" alt="" loading="lazy"></div>
+        <div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/9.jpg" alt="" loading="lazy"></div>
     </div>
 </div>
 

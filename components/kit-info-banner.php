@@ -1,7 +1,7 @@
 <div class="kit-info-banner-con">
 	<div class="kit-info-banner">
-			<!-- <img  class="kit-info-close__banner" src="../assets/img/icon/banner-close.svg" alt=""> -->
-			<img  class="kit-info__banner-img" src="../assets/img/icon/kit.svg" alt="">
+			<!-- <img  class="kit-info-close__banner" src="../assets/img/icon/banner-close.svg" alt="" loading="lazy"> -->
+			<img  class="kit-info__banner-img" src="../assets/img/icon/kit.svg" alt="" loading="lazy">
 			<div>
 				<h1>БЕСПЛАТНО </h1>
 				<h3>Концепция кухни для ресторана от 300м²</h3>
@@ -18,7 +18,7 @@
 							<label type="checkbox" class="modal__check-text" for="kit__check-btn">
 								<span class="kit__check-btn modal__check"></span>
 								Согласие на обработку данных
-								<a href="../pages/assent.php"><img class="modal__check-que" src="/assets/icon/que.svg" alt=""></a>
+								<a href="../pages/assent.php"><img class="modal__check-que" src="/assets/icon/que.svg" alt="" loading="lazy"></a>
 							</label>
 					</div>
 					<button  id="btn-kit-banner" class="button kit-button-banner">Отправить</button>

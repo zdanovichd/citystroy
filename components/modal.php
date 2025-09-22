@@ -3,9 +3,9 @@
 
 		<div class="modal">
 			<div class="modal__logo-closed">
-				<img class="modal__logo-" src="/assets/img/icon/burger-close.svg" alt="">
-				<img class="modal__logo" src="/assets/img/icon/logo.svg" alt="">
-				<img class="modal__close" src="/assets/img/icon/burger-close.svg" alt="">
+				<img class="modal__logo-" src="/assets/img/icon/burger-close.svg" alt="" loading="lazy">
+				<img class="modal__logo" src="/assets/img/icon/logo.svg" alt="" loading="lazy">
+				<img class="modal__close" src="/assets/img/icon/burger-close.svg" alt="" loading="lazy">
 			</div>
 			<form class="modal__pop popup_form" action="#" method="POST" enctype="multipart/form-data">
 				<label class="modal__lab form__label" for="">Имя
@@ -25,7 +25,7 @@
 					<label  type="checkbox"  class="modal__check-text" for="modal__check">
 						<span class="modal__check"></span>
 						Согласие на обработку данных
-						<a href="../pages/assent.php"><img class="modal__check-que" src="/assets/icon/que.svg" alt=""></a>
+						<a href="../pages/assent.php"><img class="modal__check-que" src="/assets/icon/que.svg" alt="" loading="lazy"></a>
 					</label>
 				</div>
 

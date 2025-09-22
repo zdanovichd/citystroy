@@ -2,7 +2,7 @@
     <div class="form-ban-con">
 
         <h1 class="title__form-ban">Коммерческое предложение</h1>
-        <img class="close-form-ban" src="../assets/img/icon/banner-close.svg" alt="">
+        <img class="close-form-ban" src="../assets/img/icon/banner-close.svg" alt="" loading="lazy">
         <div class="swiper btnSwiper">
             <div class="swiper-wrapper">
 
@@ -243,7 +243,7 @@
                             <span class="modal__check big__check-btn"></span>
                             Согласие на обработку данных
                             <a href="../pages/assent.php"><img class="modal__check-que" src="/assets/icon/que.svg"
-                                                               alt=""></a>
+                                                               alt="" loading="lazy"></a>
                         </label>
 
                         <button id="btn-big-form" class="button button-banner-big">Отправить</button>

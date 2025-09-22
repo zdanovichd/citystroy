@@ -1,8 +1,8 @@
 <!-- <div class="info-banner">
-		<img  class="info-close__banner" src="../assets/img/icon/banner-close.svg" alt="">
+		<img  class="info-close__banner" src="../assets/img/icon/banner-close.svg" alt="" loading="lazy">
 		<h1>Экскурсия </h1>
 		<h3>на построенные объекты</h3>
-		<img  class="info-map__banner" src="../assets/img/icon/map.svg" alt="">
+		<img  class="info-map__banner" src="../assets/img/icon/map.svg" alt="" loading="lazy">
 
 		<h2>Мы открыты на 100% и приглашаем посетить заведения, которые были спроектированы и построены нами.</h2>
 
@@ -17,7 +17,7 @@
 						<label type="checkbox" class="modal__check-text" for="modal__check-btn">
 							<span class="modal__check-btn modal__check"></span>
 							Согласие на обработку данных
-							<a href="../pages/assent.php"><img class="modal__check-que" src="/assets/icon/que.svg" alt=""></a>
+							<a href="../pages/assent.php"><img class="modal__check-que" src="/assets/icon/que.svg" alt="" loading="lazy"></a>
 						</label>
 				</div>
 
@@ -28,8 +28,8 @@
 
 <div class="info-banner-con">
 		<div class="info-banner">
-		<img  class="info-map__banner" src="../assets/img/icon/map.svg" alt="">
-			<!-- <img  class="info-close__banner" src="../assets/img/icon/banner-close.svg" alt=""> -->
+		<img  class="info-map__banner" src="../assets/img/icon/map.svg" alt="" loading="lazy">
+			<!-- <img  class="info-close__banner" src="../assets/img/icon/banner-close.svg" alt="" loading="lazy"> -->
 			<div>
 				<h1>Экскурсия </h1>
 				<h3>на построенные объекты</h3>
@@ -46,7 +46,7 @@
 						<label type="checkbox" class="modal__check-text" for="modal__check-btn">
 							<span class="modal__check-btn modal__check"></span>
 							Согласие на обработку данных
-							<a href="../pages/assent.php"><img class="modal__check-que" src="/assets/icon/que.svg" alt=""></a>
+							<a href="../pages/assent.php"><img class="modal__check-que" src="/assets/icon/que.svg" alt="" loading="lazy"></a>
 						</label>
 					</div>
 

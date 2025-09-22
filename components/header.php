@@ -101,10 +101,10 @@
 	<nav class="mob-menu_con">
 		<div class="mob-menu_logo">
 		<a href="#anchor_title">
-			<img class="mob_logo" src="../assets/img/icon/logo.svg" alt="">
+			<img class="mob_logo" src="../assets/img/icon/logo.svg" alt="" loading="lazy">
 		</a>
-			<img class="mob_open" src="../assets/img/icon/burger-open.svg" alt="">
-			<img class="mob_close" src="../assets/img/icon/burger-close.svg" alt="">
+			<img class="mob_open" src="../assets/img/icon/burger-open.svg" alt="" loading="lazy">
+			<img class="mob_close" src="../assets/img/icon/burger-close.svg" alt="" loading="lazy">
 		</div>
 
 		<div class="mob-menu">
@@ -170,19 +170,19 @@
                     <li>
                         <!-- youtube -->
                         <a href="https://www.youtube.com/@CityStroy">
-                            <img class="menu__link__item" src="../assets/img/icon/youTube.svg" alt="">
+                            <img class="menu__link__item" src="../assets/img/icon/youTube.svg" alt="" loading="lazy">
                         </a>
                     </li>
                     <li>
                         <!-- phone -->
                         <a href="tel:+79263634278">
-                            <img class="menu__link__item" src="../assets/img/icon/phone.svg" alt="">
+                            <img class="menu__link__item" src="../assets/img/icon/phone.svg" alt="" loading="lazy">
                         </a>
                     </li>
                     <li>
                         <!-- mail -->
                         <a href="mailto:csfitout@gmail.com">
-                            <img class="menu__link__item" src="../assets/img/icon/mail.svg" alt="">
+                            <img class="menu__link__item" src="../assets/img/icon/mail.svg" alt="" loading="lazy">
                         </a>
                     </li>
                 </ul>

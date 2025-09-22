@@ -46,7 +46,7 @@
 			 onmouseenter="footer__player_3.play()" 
 			 onmouseleave="footer__player_3.stop()">
 	<div class="footer__logo">
-			<img class="footer__logo-mob" src="../assets/img/icon/logo.svg" alt="">
+			<img class="footer__logo-mob" src="../assets/img/icon/logo.svg" alt="" loading="lazy">
 			<a class="footer__linc-logo" href="../index.php">
 				<dotlottie-player 
 					id="footer__player_3"
@@ -172,8 +172,8 @@
 	<div class="commer-banner-con">
 		<div class="commer-banner">
 			<div>
-				<img class="commer-close" src="../assets/img/icon/banner-close.svg" alt="">
-				<img class="commer-img" src="/assets/img/icon/comm-img.svg" alt="">
+				<img class="commer-close" src="../assets/img/icon/banner-close.svg" alt="" loading="lazy">
+				<img class="commer-img" src="/assets/img/icon/comm-img.svg" alt="" loading="lazy">
 				<h1 class="commer-h1">Коммерческое предложение</h1>
 			</div>
 			<h2 class="commer-h2">Ответьте на 6 вопросов, чтобы узнать стоимость и срок реализации вашего проекта</h2>
@@ -185,7 +185,7 @@
 		</div>
 	</div>
 	<div class="commer-banner-mini">
-			<img class="commer-img" src="/assets/img/icon/comm-img.svg" alt="">
+			<img class="commer-img" src="/assets/img/icon/comm-img.svg" alt="" loading="lazy">
 	</div>
 
 		<!-- BIG-BANNER -->

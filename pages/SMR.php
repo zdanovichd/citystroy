@@ -86,11 +86,11 @@
 
 			<div class="title-mob swiper-container">
         <div class="swiper-wrapper">
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/2.jpg" alt=""></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/8.jpg" alt=""></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/3.jpg" alt=""></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/6.jpg" alt=""></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/9.jpg" alt=""></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/2.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/8.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/3.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/6.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/9.jpg" alt="" loading="lazy"></div>
         </div>
     	</div>
 
@@ -108,23 +108,23 @@
 		<h1 class="about__title">Укладываемся в срок арендных каникул и не выходим за бюджет сметы за счет того, что:</h1>
 		<div class="about__item about__smr">
 			<h3>
-				<img src="/assets/icon/2.svg" alt="">
+				<img src="/assets/icon/2.svg" alt="" loading="lazy">
 				Cчитаем в смете все и сразу, не занижая количество и стоимость работ
 			</h3>
 			<h3>
-				<img src="/assets/icon/9.svg" alt="">
+				<img src="/assets/icon/9.svg" alt="" loading="lazy">
 				Специализируемся на строительстве в ТЦ и БЦ
 			</h3>
 			<h3 >
-				<img src="/assets/icon/1.svg" alt="">	
+				<img src="/assets/icon/1.svg" alt="" loading="lazy">	
 				Жестко контролируем движение по графику производства работ
 			</h3>
 			<h3 >
-				<img src="/assets/icon/10.svg" alt="">
+				<img src="/assets/icon/10.svg" alt="" loading="lazy">
 				Обеспечиваем выполнение работ в 2-3 смены
 			</h3>
 			<h3 >
-				<img src="/assets/icon/3.svg" alt="">
+				<img src="/assets/icon/3.svg" alt="" loading="lazy">
 				Координируем работу смежных организаций
 			</h3>
 		</div>
@@ -163,7 +163,7 @@
 	<article  class="about__3">
 			
 			<div class="cart-teh smr">
-				<img class="element-animation " src="/assets/img/smr/1.png" alt="">
+				<img class="element-animation " src="/assets/img/smr/1.png" alt="" loading="lazy">
 				<div class="title-teh_con element-animation">
 					<h1 class="title-teh">Специализация в ресторанной тематике</h1>
 					<h2 class="text-teh">Работая с 2016 года в ремонте коммерческой недвижимости, основную часть опыта мы приобрели на объектах ресторанного назначения: от самых маленьких до двух- трехуровневых ресторанов большой площади. Наш опыт и знания позволяют решить любую задачу в сфере ресторанного бизнеса.</h2>
@@ -174,7 +174,7 @@
 				<h1><span class="element-animation">Честные сметы.</span> Как известно, есть два метода работы с Клиентом.</h1>
 				
 				<div class="cart-teh element-animation smeta">	
-					<img  src="/assets/img/smr/$.svg" alt="">
+					<img  src="/assets/img/smr/$.svg" alt="" loading="lazy">
 					<div class="title-teh_con smeta-title">
 						<h1 class="title-teh">Первый метод</h1>
 						<h2 class="text-teh">Первый метод расчёта сметы рассчитан на тех, кто подбирает подрядчика преимущественно по цене. <br> <br>Зная это, подрядчики готовят сметы такие, чтобы выиграть конкурентную борьбу и подписать договор, а дальше разными методами «разгоняют» заказчика на дополнительные сметы, аргументируя это ошибками, допущенными самим же заказчиком по незнанию.<br> <br> Таких мест очень много и поле для «маневров» здесь большое, особенно в том случае, когда проектируют и строят разные компании.
@@ -183,7 +183,7 @@
 				</div>
 
 				<div class="cart-teh element-animation smeta">	
-					<img  src="/assets/img/smr/2.svg" alt="">
+					<img  src="/assets/img/smr/2.svg" alt="" loading="lazy">
 					<div class="title-teh_con smeta-title">
 						<h1 class="title-teh">Второй метод</h1>
 						<h2 class="text-teh">Второй метод расчёта сметы заключается в том, что подрядная компания считает все и сразу, учитывая все возможные затраты, проектирует правильно, без «закладок» и возможных будущих изменений.<br> <br> Смета получается дороже, чем у тех, кто идёт по первому пути, но это даёт заказчику максимально приближенный вариант к действительным затратам, наиболее правдивую картину предстоящих инвестиций.<br> <br> Второй метод в итоге реализации проекта даёт существенную экономию заказчику, в сравнении с первым. В первом варианте Заказчик втянут в процесс и дороги назад нет, как нет потолка затрат.
@@ -192,7 +192,7 @@
 				</div>
 
 				<div class="cart-teh element-animation smeta">	
-					<img src="/assets/img/smr/3.svg" alt="">
+					<img src="/assets/img/smr/3.svg" alt="" loading="lazy">
 					<div class="title-teh_con smeta-title">
 						<h1 class="title-teh">Во втором случае заказчик видит реальную сметную стоимость всех разделов проекта</h1>
 						<h2 class="text-teh">Он убережён не только от неизвестного количества дополнительных затрат в ходе реализации инвестиций, но и от роста издержек (простой уже нанятого персонала, аренда, штрафы, налоги), но и, что наиболее важно, - от недополученной прибыли от срыва сроков начала работы ресторана. У второго метода есть один большой минус - при недостатке доверия у Заказчика часто складывается впечатление, что его «разводят» и хотят на нем излишне «навариться».<br><br> Ценность честности очевидна только при негативном опыте Заказчика, который столкнулся прежде с заниженной сметой, а в итоге переплатил в процессе, и, например, за год от начала инвестирования вернул себе гораздо меньше денег, чем если бы работал с такой компанией как наша
@@ -201,7 +201,7 @@
 				</div>
 
 				<div class="cart-teh element-animation smeta">	
-					<img src="/assets/img/smr/4.svg" alt="">
+					<img src="/assets/img/smr/4.svg" alt="" loading="lazy">
 					<div class="title-teh_con smeta-title">
 						<h1 class="title-teh">Как мы считаем сметы?</h1>
 						<h2 class="text-teh">Мы считаем сметы только на основании проектов и только после личной встречи с Заказчиком и осмотра объекта. Именно тогда мы можем получить наиболее полную картину расходов.<br><br> Расчет на основании одной лишь площади и без встречи с Заказчиком мы не делаем и считаем подобный расчет крайне непрофессиональным.<br><br> Надеемся, что именно из этого и сложилась наша репутация на рынке.
@@ -211,7 +211,7 @@
 				</div>
 
 				<div class="cart-teh element-animation smeta ">	
-					<img src="/assets/img/smr/5.svg" alt="">
+					<img src="/assets/img/smr/5.svg" alt="" loading="lazy">
 					<div class="title-teh_con smeta-title">
 						<h1 class="title-teh">Уже есть смета?<br>Проведем её аудит</h1>
 						<h2 class="text-teh">Мы считаем сметы только на основании проектов и только после личной встречи с Заказчиком и осмотра объекта. Именно тогда мы можем получить наиболее полную картину расходов.<br><br> Расчет на основании одной лишь площади и без встречи с Заказчиком мы не делаем и считаем подобный расчет крайне непрофессиональным.<br><br> Надеемся, что именно из этого и сложилась наша репутация на рынке.
@@ -332,37 +332,37 @@
 
 			<div class="cart-teh smeta-team ">	
 				<div class=" title-teh_con">
-					<img class=" element-animation" src="/assets/img/smr/6.svg" alt="">
+					<img class=" element-animation" src="/assets/img/smr/6.svg" alt="" loading="lazy">
 					<h1 class=" element-animation title-teh">Команда инженеров и строителей</h1>
 					<h2 class=" element-animationtext-teh">Наша команда сформировалась исходя из точки приложения усилий.
 					Объекты мы сдаем в срок и добиваемся результата системной планомерной работой.</h2>
 				</div>
-				<img class="element-animation" src="/assets/img/smr/3.jpeg" alt="">
+				<img class="element-animation" src="/assets/img/smr/3.jpeg" alt="" loading="lazy">
 			</div> 
 
 			<<div class="smeta_con ">
 				<h1> Мы собрали коллектив,<span class="element-animation">«заточенный»</span> на рестораны:</h1>
 				<div class="smeta-cart_con element-animation">
 					<div class="smeta-cart ">
-						<img src="/assets/img/smr/7.svg" alt="">
+						<img src="/assets/img/smr/7.svg" alt="" loading="lazy">
 						<h1>Инженеры</h1>
 						<h2>Весь состав ИТР нашей компании с высшим строительным и инженерным образованием.</h2>
 					</div>
 
 					<div class="smeta-cart element-animation">
-						<img src="/assets/img/smr/8.svg" alt="">
+						<img src="/assets/img/smr/8.svg" alt="" loading="lazy">
 						<h1>Дизайнеры</h1>
 						<h2>Наши дизайнеры имеют множественный успешный опыт ресторанных проектов.</h2>
 					</div>
 
 					<div class="smeta-cart element-animation">
-						<img src="/assets/img/smr/9.svg" alt="">
+						<img src="/assets/img/smr/9.svg" alt="" loading="lazy">
 						<h1>Технологи</h1>
 						<h2>Многие технологи помимо технического образования, до нас долго работали поварами в ресторане и знают изнутри как сделать правильно и удобно, а значит у команды ресторана есть где вкладывать душу в работу, что напрямую отражается на качестве кухни и репутации ресторана.</h2>
 					</div>
 					
 					<div class="smeta-cart element-animation">
-						<img src="/assets/img/smr/10.svg" alt="">
+						<img src="/assets/img/smr/10.svg" alt="" loading="lazy">
 						<h1>Строители</h1>
 						<h2>Команда строителей обладает разносторонней квалификацией и имеет опыт в ремонте ресторанов, умеет воплотить все задумки дизайнера и пожелания Заказчика.</h2>
 					</div>
@@ -371,7 +371,7 @@
 
 
 			<div class="cart-teh">
-				<img class="element-animation" src="/assets/img/smr/1.webp" alt="">
+				<img class="element-animation" src="/assets/img/smr/1.webp" alt="" loading="lazy">
 				<div class="title-teh_con">
 					<h1 class="title-teh">Взаимодействие и согласования со службами ТЦ или БЦ</h1>
 					<h2 class="text-teh">Основной пул наших объектов был реализован в торговых и бизнес-центрах. Мы часто сдаем свои объекты службам ТЦ до открытия и запуска в эксплуатацию самого ТЦ.<br><br>Это снижает риски владельцев ТЦ, а их команде легче управлять своими критическими линиями.</h2>
@@ -385,7 +385,7 @@
 			</div>
 
 			<div class="cart-teh">
-				<img class="element-animation" src="/assets/img/smr/2.webp" alt="">
+				<img class="element-animation" src="/assets/img/smr/2.webp" alt="" loading="lazy">
 				<div class="title-teh_con">
 					<h1 class="title-teh">Координация смежных организаций</h1>
 					<h2 class="text-teh">Проектирование и ремонт/ реконструкция ресторанов - довольно длительный и технологически сложный процесс. Координация деятельности смежных организаций с нашей стороны даёт Заказчику не только выигрыш во времени, но и снижает его управленческие расходы.</h2>
@@ -407,7 +407,7 @@
 			</div> 
 
 			<div class="cart-teh">
-				<img class="element-animation" src="/assets/img/smr/4.jpg" alt="">
+				<img class="element-animation" src="/assets/img/smr/4.jpg" alt="" loading="lazy">
 				<div class="title-teh_con">
 					<h1 class="title-teh">Сервисное обслуживание</h1>
 					<h2 class="text-teh">Мы дарим своим клиентам после запуска объекта в эксплуатацию один год сервисного обслуживания.<br><br>Даже если мы не строили Ваш ресторан, мы готовы взять его на сервисное обслуживание и выполнить отдельные виды работ</h2>
@@ -419,7 +419,7 @@
 			</div>
 
 			<div class="cart-teh">
-				<img class="element-animation" src="/assets/img/smr/2.jpg" alt="">
+				<img class="element-animation" src="/assets/img/smr/2.jpg" alt="" loading="lazy">
 				<div class="title-teh_con">
 					<h1 class="title-teh">Сдача объектов в срок</h1>
 					<h2 class="text-teh">При должном финансировании укладываемся в сжатые сроки, обеспечивая выполнение работ в 2-3 смены. Нелишне повторить, что это экономит Заказчику гораздо больше денег, чем на «дешевых» сметах, где срыв сроков неизбежен.</h2>

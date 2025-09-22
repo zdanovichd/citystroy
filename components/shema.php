@@ -10,7 +10,7 @@
         <h2>Сбор данных</h2>
         <h2>Технических условий</h2>
     </div>
-    <img class="shema__down" src="/assets/img/icon/down.svg" alt="">
+    <img class="shema__down" src="/assets/img/icon/down.svg" alt="" loading="lazy">
 
     <!----------------------- ТЕХНОЛОГИЯ ------------------>
     <div class="sh-mob__item">
@@ -18,12 +18,12 @@
         <h2>Разработка технологий</h2>
         <h2>Дизайн порект</h2>
     </div>
-    <img class="shema__down" src="/assets/img/icon/down.svg" alt="">
+    <img class="shema__down" src="/assets/img/icon/down.svg" alt="" loading="lazy">
 
     <!------------------ ПРОЕКТИРОВАНИЕ -------------------->
     <div class="sh-mob__item">
         <h1>Проектирование <br> </h1>
-        <img class="shema__img" src="/assets/img/icon/sh.svg" alt="">
+        <img class="shema__img" src="/assets/img/icon/sh.svg" alt="" loading="lazy">
         <div class="fork-m">
             <h1>Технологи<br>Дизайн</h1>
             <div class="node_1"></div>
@@ -63,7 +63,7 @@
             </div>
         </div>
     </div>
-    <img class="shema__down" src="/assets/img/icon/down.svg" alt="">
+    <img class="shema__down" src="/assets/img/icon/down.svg" alt="" loading="lazy">
 
     <!-------------------- СMЕТА ----------------------------->
     <div class="sh-mob__item">
@@ -71,7 +71,7 @@
         <h2>Честные смены</h2>
         <h2>Подсчёт всего и сразу</h2>
     </div>
-    <img class="shema__down" src="/assets/img/icon/down.svg" alt="">
+    <img class="shema__down" src="/assets/img/icon/down.svg" alt="" loading="lazy">
 
     <!------------------------- СМР --------------------->
     <div class="sh-mob__item">
@@ -80,7 +80,7 @@
         <h2>Инженеры и проектировщики</h2>
         <h2>Квалифицированные строители</h2>
     </div>
-    <img class="shema__down" src="/assets/img/icon/down.svg" alt="">
+    <img class="shema__down" src="/assets/img/icon/down.svg" alt="" loading="lazy">
 
     <!----------------------- ГАРАНТИЯ ------------------------->
     <div class="sh-mob__item">
@@ -110,7 +110,7 @@
 					<h2>Технических условий</h2>
 			</div>
 		
-    <img class="sh__down " src="/assets/img/icon/right.svg" alt="">
+    <img class="sh__down " src="/assets/img/icon/right.svg" alt="" loading="lazy">
 
     <!----------------------- ТЕХНОЛОГИЯ ------------------>
 		
@@ -120,13 +120,13 @@
         <h2> Дизайн порект</h2> 
     </div>
 	
-		<img class="sh__down down-proj" src="/assets/img/icon/right-white.svg" alt="">
+		<img class="sh__down down-proj" src="/assets/img/icon/right-white.svg" alt="" loading="lazy">
 
     <!------------------ ПРОЕКТИРОВАНИЕ -------------------->
 	
     <div class="sh__item item-proj">
         <h1>Проектирование <br> </h1>
-        <img class="sh__img" src="/assets/img/icon/sh.svg" alt="">
+        <img class="sh__img" src="/assets/img/icon/sh.svg" alt="" loading="lazy">
         <div class="sh__fork">
 					<div class="sh__fork-title">
 						<!-- <a href="../pages/tehno.php"><h1>Технологи</h1></a>
@@ -171,7 +171,7 @@
         </div>
     </div>
 
-		<img class="sh__down" src="/assets/img/icon/right.svg" alt="">
+		<img class="sh__down" src="/assets/img/icon/right.svg" alt="" loading="lazy">
 
     <!-------------------- СMЕТА ----------------------------->
 	
@@ -181,7 +181,7 @@
 					<h2>Подсчёт всего и сразу</h2>
     </div>
 		
-		<img class="sh__down" src="/assets/img/icon/right.svg" alt="">
+		<img class="sh__down" src="/assets/img/icon/right.svg" alt="" loading="lazy">
 
     <!------------------------- СМР --------------------->
 		
@@ -192,7 +192,7 @@
         <h2>Квалифицированные строители</h2>
     </div>
 		
-    <img class="sh__down" src="/assets/img/icon/right.svg" alt="">
+    <img class="sh__down" src="/assets/img/icon/right.svg" alt="" loading="lazy">
 
     <!----------------------- ГАРАНТИЯ ------------------------->
 	
@@ -205,7 +205,7 @@
 
     <div class="sh__banner" id="sh__banner">
 				<div class="close__banner-con">
-					<img  class="close__banner" src="../assets/img/icon/banner-close.svg" alt="">
+					<img  class="close__banner" src="../assets/img/icon/banner-close.svg" alt="" loading="lazy">
 				</div>
 				<h1 id="sh__banner-text"></h1>
         <h2 id="sh__banner-title"></h2>

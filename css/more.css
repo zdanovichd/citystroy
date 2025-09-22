@@ -744,7 +744,7 @@ PROJECT */
 	display: flex;
 	justify-content: space-around;
 	padding: 7vw 1vw;
-	background-image: url(../assets/img/portfolio/9.jpg);
+	background-image: url(../assets/img/portfolio/9.jpg.webp);
 	background-size: cover;
 	background-attachment: fixed;
 	background-position: center;
@@ -977,7 +977,7 @@ PROJECT */
 
 .portfolio_back{
 	image-rendering: smooth;
-	background-image: url('/assets/img/portfolio/7.jpg');
+	background-image: url('/assets/img/portfolio/7.jpg.webp');
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;

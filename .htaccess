@@ -35,10 +35,10 @@ Redirect 301 /главная /
 Redirect 301 /контакты /contacts
 Redirect 301 /pages/case/il_&_geo.php /
 Redirect 301 /assets/icon/que.svg /
-Redirect 301 /assets/img/cart/ch/8.jpg /
-Redirect 301 /assets/img/cart/ch/9.jpg /
+Redirect 301 /assets/img/cart/ch/8.jpg.webp /
+Redirect 301 /assets/img/cart/ch/9.jpg.webp /
 Redirect 301 /case/youtube.com/watch?v=wTNcoZMLzFc&ab_channel=СИТИСТРОЙ /
-Redirect 301 /assets/img/blue_logo_swiper/25.png /
+Redirect 301 /assets/img/blue_logo_swiper/25.png.webp /
 
 #  <Directory /var/www/html/citystroy.local/>
 #        AllowOverride All

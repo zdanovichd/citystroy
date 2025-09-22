@@ -1129,47 +1129,47 @@ li {
 }
 
 #v1{
-    background-image: url('/assets/video/cover/1.jpg');
+    background-image: url('/assets/video/cover/1.jpg.webp');
 }
 #v2{
-    background-image: url('/assets/video/cover/1.2.jpg');
+    background-image: url('/assets/video/cover/1.2.jpg.webp');
 }
 #v3{
-    background-image: url('/assets/video/cover/2.jpg');
+    background-image: url('/assets/video/cover/2.jpg.webp');
 }
 #v4{
-    background-image: url('/assets/video/cover/end.jpg');
+    background-image: url('/assets/video/cover/end.jpg.webp');
 }
 #v5{
-    background-image: url('/assets/video/cover/d1.jpg');
+    background-image: url('/assets/video/cover/d1.jpg.webp');
 }
 #v6{
-    background-image: url('/assets/video/cover/d2.jpg');
+    background-image: url('/assets/video/cover/d2.jpg.webp');
 }
 #v7{
-    background-image: url('/assets/video/cover/d3.jpg');
+    background-image: url('/assets/video/cover/d3.jpg.webp');
 }
 #v8{
-    background-image: url('/assets/video/cover/d4.jpg');
+    background-image: url('/assets/video/cover/d4.jpg.webp');
 }
 #v9{
-    background-image: url('/assets/video/cover/1_vdnh.jpg');
+    background-image: url('/assets/video/cover/1_vdnh.jpg.webp');
 }
 #v10{
-    background-image: url('/assets/video/cover/2_vdnh.jpg');
+    background-image: url('/assets/video/cover/2_vdnh.jpg.webp');
 }
 
 #v11{
-    background-image: url('/assets/video/cover/t1.jpg');
+    background-image: url('/assets/video/cover/t1.jpg.webp');
 }
 #v12{
-    background-image: url('/assets/video/cover/t2.jpg');
+    background-image: url('/assets/video/cover/t2.jpg.webp');
 }
 #v13{
-    background-image: url('/assets/video/cover/t3.jpg');
+    background-image: url('/assets/video/cover/t3.jpg.webp');
 }
 #v14{
-    background-image: url('/assets/video/cover/t4.jpg');
+    background-image: url('/assets/video/cover/t4.jpg.webp');
 }
 
 
@@ -2490,7 +2490,7 @@ li {
     }
 
     .index{
-        background-image: url('/assets/img/cart/ch/3.jpg');
+        background-image: url('/assets/img/cart/ch/3.jpg.webp');
     } */
 
     .title-mob{
@@ -3511,46 +3511,46 @@ li {
 
 /* TITLE */
 .case-bsb{
-    background-image: url('../assets/img/case/bsb/3.jpg');
+    background-image: url('../assets/img/case/bsb/3.jpg.webp');
 }
 .case-ch{
-    background-image: url('../assets/img/cart/ch/1.jpg');
+    background-image: url('../assets/img/cart/ch/1.jpg.webp');
 }
 .case-costa{
-    background-image: url('../assets/img/cart/costa/8.jpg');
+    background-image: url('../assets/img/cart/costa/8.jpg.webp');
 }
 .case-river{
-    background-image: url('../assets/img/cart/river/4.jpg');
+    background-image: url('../assets/img/cart/river/4.jpg.webp');
 }
 .case-IL_suhsi{
-    background-image: url('../assets/img/cart/IL_&_sushi/9.jpg');
+    background-image: url('../assets/img/cart/IL_&_sushi/9.jpg.webp');
 }
 .case-pasta{
-    background-image: url('../assets/img/cart/pasta/2.jpg');
+    background-image: url('../assets/img/cart/pasta/2.jpg.webp');
 }
 .case-miata-ostrov{
-    background-image: url('../assets/img/cart/miata/1.jpg');
+    background-image: url('../assets/img/cart/miata/1.jpg.webp');
 }
 .case-niama-reutov{
-    background-image: url('../assets/img/cart/niama_reutov/1.jpg');
+    background-image: url('../assets/img/cart/niama_reutov/1.jpg.webp');
 }
 .case-il-pat{
-    background-image: url('../assets/img/cart/il-pat/1.jpg');
+    background-image: url('../assets/img/cart/il-pat/1.jpg.webp');
 }
 .case-miata-ace{
-    background-image: url('../assets/img/cart/miata_2/4.jpg');
+    background-image: url('../assets/img/cart/miata_2/4.jpg.webp');
 }
 .case-sinabon{
-    background-image: url('../assets/img/cart/cin_&_don/1.png');
+    background-image: url('../assets/img/cart/cin_&_don/1.png.webp');
 }
 .case-niama_butovo{
-    background-image: url('../assets/img/cart/niama/1.jpg');
+    background-image: url('../assets/img/cart/niama/1.jpg.webp');
 }
 .case-luna{
-    background-image: url('../assets/img/cart/luna/1.jpg');
+    background-image: url('../assets/img/cart/luna/1.jpg.webp');
 }
 .case-il_geo{
-    background-image: url('../assets/img/cart/IL_&_geo/1.jpg');
+    background-image: url('../assets/img/cart/IL_&_geo/1.jpg.webp');
 }
 
 
@@ -6674,7 +6674,7 @@ PROJECT */
     display: flex;
     justify-content: space-around;
     padding: 7vw 1vw;
-    background-image: url(../assets/img/portfolio/9.jpg);
+    background-image: url(../assets/img/portfolio/9.jpg.webp);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -6907,7 +6907,7 @@ PROJECT */
 
 .portfolio_back{
     image-rendering: smooth;
-    background-image: url('/assets/img/portfolio/7.jpg');
+    background-image: url('/assets/img/portfolio/7.jpg.webp');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;

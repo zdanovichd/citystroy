@@ -92,11 +92,11 @@
 
 			<div class="title-mob swiper-container">
         <div class="swiper-wrapper">
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/3.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/8.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/1.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/4.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/7.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/3.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/8.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/1.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/4.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/7.jpg.webp" alt="" loading="lazy"></div>
         </div>
     	</div>
 
@@ -267,7 +267,7 @@
 		<article class="des-list__main">
 			<!-- 1 -->
 			<div class="cart-teh">
-				<img class="element-animation" src="/assets/img/desi/1.jpg" alt="" loading="lazy">
+				<img class="element-animation" src="/assets/img/desi/1.jpg.webp" alt="" loading="lazy">
 				<div class="title-teh_con">
 					<h1 class="title-teh">Раскрываем концепцию</h1>
 					<h2 class="text-teh">Через дизайн транслируем общую идею ресторана и раскрываем ее. Опираемся на меню и кухню, личность шеф-повара, исторический контекст локации.<br><br>
@@ -276,7 +276,7 @@
 			</div>
 			<!-- 2 -->
 			<div class="cart-teh">
-				<img class="element-animation" src="/assets/img/desi/2.jpg" alt="" loading="lazy">
+				<img class="element-animation" src="/assets/img/desi/2.jpg.webp" alt="" loading="lazy">
 				<div class="title-teh_con">
 					<h1 class="title-teh">Делаем упор на маркетинг</h1>
 					<h2 class="text-teh">Учитываем психологию вашей целевой аудитории и создаем пространство, привлекающее внимание, в которое хочется возвращаться снова и снова.<br><br>
@@ -288,7 +288,7 @@
 			
 			<!-- 3 -->
 			<div class="cart-teh">
-				<img class="element-animation" src="/assets/img/desi/3.jpg" alt="" loading="lazy">
+				<img class="element-animation" src="/assets/img/desi/3.jpg.webp" alt="" loading="lazy">
 				<div class="title-teh_con">
 					<h1 class="title-teh">Прорабатываем эргономику</h1>
 					<h2 class="text-teh">Учитываем исходную геометрию помещения и его конструктивные особенности, чтобы подстроить интерьер под нужды гостей и персонала. <br><br>
@@ -297,7 +297,7 @@
 			</div>
 			<!-- 4 -->
 			<!-- <div class="cart-teh">
-				<img class="element-animation" src="/assets/img/desi/4.jpg" alt="" loading="lazy">
+				<img class="element-animation" src="/assets/img/desi/4.jpg.webp" alt="" loading="lazy">
 				<div class="title-teh_con">
 					<h1 class="title-teh">Условия успешной реализации дизайн-проекта</h1>
 					<h2 class="text-teh">Дизайн ресторана - это всегда продукт квалифицированной команды, которая на разных этапах решает множество параллельных задач: от составления опросника для технического задания, светорасчетов, вариантов планировок и визуализаций, до согласования образцов отделочных материалов.</h2>

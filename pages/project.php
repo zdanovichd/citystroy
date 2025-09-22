@@ -80,11 +80,11 @@
 
 			<div class="title-mob swiper-container">
         <div class="swiper-wrapper">
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/9.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/8.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/11.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/3.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/10.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/9.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/8.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/11.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/3.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/10.jpg.webp" alt="" loading="lazy"></div>
         </div>
     	</div>
 

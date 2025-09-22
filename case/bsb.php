@@ -54,7 +54,7 @@
 			</div>
 			
 
-			<img class="case__cover-mob" src="../assets/img/case/bsb/5.jpg" alt="" loading="lazy">
+			<img class="case__cover-mob" src="../assets/img/case/bsb/5.jpg.webp" alt="" loading="lazy">
 			<div class="case__cover case-bsb">
 			</div>
 
@@ -152,11 +152,11 @@
 		<div class="case__swiper-con">
 			<div class="swiper case__swiper">
 				<div class="swiper-wrapper">
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/bsb/1.jpg"/ alt="" loading="lazy"></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/bsb/2.jpg"/ alt="" loading="lazy"></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/bsb/3.jpg"/ alt="" loading="lazy"></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/bsb/4.jpg"/ alt="" loading="lazy"></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/bsb/5.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/bsb/1.jpg.webp"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/bsb/2.jpg.webp"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/bsb/3.jpg.webp"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/bsb/4.jpg.webp"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/bsb/5.jpg.webp"/ alt="" loading="lazy"></div>
 				</div>
 
 				<div class="swiper-button-next case__swiper-btn"></div>
@@ -166,11 +166,11 @@
 
 			<div thumbsSlider="" class="swiper case__swiper-2">
 				<div class="swiper-wrapper">
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/bsb/1.jpg"/ alt="" loading="lazy"></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/bsb/2.jpg"/ alt="" loading="lazy"></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/bsb/3.jpg"/ alt="" loading="lazy"></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/bsb/4.jpg"/ alt="" loading="lazy"></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/bsb/5.jpg"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/bsb/1.jpg.webp"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/bsb/2.jpg.webp"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/bsb/3.jpg.webp"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/bsb/4.jpg.webp"/ alt="" loading="lazy"></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/bsb/5.jpg.webp"/ alt="" loading="lazy"></div>
 				</div>
 			</div>
 

@@ -86,11 +86,11 @@
 
 			<div class="title-mob swiper-container">
         <div class="swiper-wrapper">
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/2.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/8.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/3.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/6.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/9.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/2.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/8.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/3.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/6.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/9.jpg.webp" alt="" loading="lazy"></div>
         </div>
     	</div>
 
@@ -163,7 +163,7 @@
 	<article  class="about__3">
 			
 			<div class="cart-teh smr">
-				<img class="element-animation " src="/assets/img/smr/1.png" alt="" loading="lazy">
+				<img class="element-animation " src="/assets/img/smr/1.png.webp" alt="" loading="lazy">
 				<div class="title-teh_con element-animation">
 					<h1 class="title-teh">Специализация в ресторанной тематике</h1>
 					<h2 class="text-teh">Работая с 2016 года в ремонте коммерческой недвижимости, основную часть опыта мы приобрели на объектах ресторанного назначения: от самых маленьких до двух- трехуровневых ресторанов большой площади. Наш опыт и знания позволяют решить любую задачу в сфере ресторанного бизнеса.</h2>
@@ -407,7 +407,7 @@
 			</div> 
 
 			<div class="cart-teh">
-				<img class="element-animation" src="/assets/img/smr/4.jpg" alt="" loading="lazy">
+				<img class="element-animation" src="/assets/img/smr/4.jpg.webp" alt="" loading="lazy">
 				<div class="title-teh_con">
 					<h1 class="title-teh">Сервисное обслуживание</h1>
 					<h2 class="text-teh">Мы дарим своим клиентам после запуска объекта в эксплуатацию один год сервисного обслуживания.<br><br>Даже если мы не строили Ваш ресторан, мы готовы взять его на сервисное обслуживание и выполнить отдельные виды работ</h2>
@@ -419,7 +419,7 @@
 			</div>
 
 			<div class="cart-teh">
-				<img class="element-animation" src="/assets/img/smr/2.jpg" alt="" loading="lazy">
+				<img class="element-animation" src="/assets/img/smr/2.jpg.webp" alt="" loading="lazy">
 				<div class="title-teh_con">
 					<h1 class="title-teh">Сдача объектов в срок</h1>
 					<h2 class="text-teh">При должном финансировании укладываемся в сжатые сроки, обеспечивая выполнение работ в 2-3 смены. Нелишне повторить, что это экономит Заказчику гораздо больше денег, чем на «дешевых» сметах, где срыв сроков неизбежен.</h2>

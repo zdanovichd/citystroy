@@ -74,11 +74,11 @@
 
 	<div class="title-mob swiper-container">
 		<div class="swiper-wrapper">
-				<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/6.jpg" alt="" loading="lazy"></div>
-				<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/4.jpg" alt="" loading="lazy"></div>
-				<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/3.jpg" alt="" loading="lazy"></div>
-				<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/5.jpg" alt="" loading="lazy"></div>
-				<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/1.jpg" alt="" loading="lazy"></div>
+				<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/6.jpg.webp" alt="" loading="lazy"></div>
+				<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/4.jpg.webp" alt="" loading="lazy"></div>
+				<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/3.jpg.webp" alt="" loading="lazy"></div>
+				<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/5.jpg.webp" alt="" loading="lazy"></div>
+				<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/1.jpg.webp" alt="" loading="lazy"></div>
 		</div>
 	</div>
 
@@ -95,30 +95,30 @@
 <div class="swiper portfolio_ticker">
 	<h1 class="portfolio_ticker__name">НАШИ КЛИЕНТЫ</h1>
 	<div class="swiper-wrapper">
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/1.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/2.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/3.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/4.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/5.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/6.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/7.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/8.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/9.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/10.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/11.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/12.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/13.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/14.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/15.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/16.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/17.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/18.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/19.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/20.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/21.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/22.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/23.png" alt="" loading="lazy"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/24.png" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/1.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/2.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/3.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/4.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/5.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/6.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/7.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/8.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/9.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/10.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/11.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/12.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/13.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/14.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/15.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/16.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/17.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/18.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/19.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/20.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/21.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/22.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/23.png.webp" alt="" loading="lazy"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/24.png.webp" alt="" loading="lazy"></div>
 		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/25.svg" alt="" loading="lazy"></div>
 	</div>
 </div> 
@@ -148,12 +148,12 @@
 	<div class="carts classBS">
     <div class="carts-back swiper-container">
         <div class="swiper-wrapper">
-            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/1.jpg" alt="" loading="lazy"></div>
-            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/2.jpg" alt="" loading="lazy"></div>
-            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/3.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/4.jpg" alt="" loading="lazy"></div>
-            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/5.jpg" alt="" loading="lazy"></div>
-            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/6.jpg" alt="" loading="lazy"></div>
+            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/1.jpg.webp" alt="" loading="lazy"></div>
+            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/2.jpg.webp" alt="" loading="lazy"></div>
+            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/3.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/4.jpg.webp" alt="" loading="lazy"></div>
+            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/5.jpg.webp" alt="" loading="lazy"></div>
+            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/bsb/6.jpg.webp" alt="" loading="lazy"></div>
         </div>
     </div>
     <div class="cart__content">
@@ -182,12 +182,12 @@
 	<div class="carts classCH">
     <div class="carts-back swiper-container">
         <div class="swiper-wrapper">
-            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/1.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/2.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/3.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/4.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/5.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/6.jpg" alt="" loading="lazy"></div>
+            <div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/1.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/2.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/3.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/4.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/5.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/ch/6.jpg.webp" alt="" loading="lazy"></div>
         </div>
     </div>
     <div class="cart__content">
@@ -214,12 +214,12 @@
 	<div class="carts classR1">
     <div class="carts-back swiper-container">
         <div class="swiper-wrapper">
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/1.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/2.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/3.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/4.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/5.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/6.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/1.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/2.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/3.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/4.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/5.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/river/6.jpg.webp" alt="" loading="lazy"></div>
         </div>
     </div>
     <div class="cart__content">
@@ -247,13 +247,13 @@
 	<div class="carts classIL&PL">
 		<div class="carts-back swiper-container">
 				<div class="swiper-wrapper">
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/1.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/2.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/3.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/4.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/5.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/6.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/7.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/1.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/2.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/3.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/4.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/5.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/6.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_sushi/7.jpg.webp" alt="" loading="lazy"></div>
 				</div>
 		</div>
 		<div class="cart__content">
@@ -284,12 +284,12 @@
 	<div class="carts classPAS">
 		<div class="carts-back swiper-container">
 				<div class="swiper-wrapper">
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/pasta/1.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/pasta/2.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/pasta/3.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/pasta/4.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/pasta/5.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/pasta/6.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/pasta/1.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/pasta/2.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/pasta/3.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/pasta/4.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/pasta/5.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/pasta/6.jpg.webp" alt="" loading="lazy"></div>
 				</div>
 		</div>
 		<div class="cart__content">
@@ -316,12 +316,12 @@
 	<div class="carts  classMO">
 		<div class="carts-back swiper-container">
 				<div class="swiper-wrapper">
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/1.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/2.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/3.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/4.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/5.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/6.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/1.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/2.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/3.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/4.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/5.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/6.jpg.webp" alt="" loading="lazy"></div>
 				</div>
 		</div>
 		<div class="cart__content">
@@ -348,12 +348,12 @@
 	<div class="carts  classIL">
 		<div class="carts-back swiper-container">
 				<div class="swiper-wrapper">
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/il-pat/1.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/il-pat/5.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/il-pat/6.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/il-pat/7.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/il-pat/8.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/il-pat/9.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/il-pat/1.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/il-pat/5.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/il-pat/6.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/il-pat/7.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/il-pat/8.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/il-pat/9.jpg.webp" alt="" loading="lazy"></div>
 				</div>
 		</div>
 		<div class="cart__content">
@@ -380,12 +380,12 @@
 	<div class="carts classNIB">
 		<div class="carts-back swiper-container">
 				<div class="swiper-wrapper">
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama/2.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama/5.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama/6.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama/4.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama/3.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama/2.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama/2.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama/5.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama/6.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama/4.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama/3.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama/2.jpg.webp" alt="" loading="lazy"></div>
 				</div>
 		</div>
 		<div class="cart__content">
@@ -412,12 +412,12 @@
 	<div class="carts classMA">
 		<div class="carts-back swiper-container">
 				<div class="swiper-wrapper">
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata_2/1.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata_2/2.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata_2/3.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata_2/4.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata_2/5.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata_2/6.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata_2/1.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata_2/2.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata_2/3.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata_2/4.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata_2/5.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata_2/6.jpg.webp" alt="" loading="lazy"></div>
 				</div>
 		</div>
 		<div class="cart__content">
@@ -444,12 +444,12 @@
 	<div class="carts classCOS">
 		<div class="carts-back swiper-container">
 				<div class="swiper-wrapper">
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/costa/1.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/costa/2.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/costa/3.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/costa/4.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/costa/5.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/costa/6.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/costa/1.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/costa/2.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/costa/3.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/costa/4.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/costa/5.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="/assets/img/cart/costa/6.jpg.webp" alt="" loading="lazy"></div>
 				</div>
 		</div>
 		<div class="cart__content">
@@ -476,12 +476,12 @@
 	<div class="carts classNR">
 		<div class="carts-back swiper-container">
 				<div class="swiper-wrapper">
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama_reutov/1.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama_reutov/2.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama_reutov/3.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama_reutov/4.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama_reutov/5.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama_reutov/6.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama_reutov/1.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama_reutov/2.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama_reutov/3.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama_reutov/4.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama_reutov/5.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/niama_reutov/6.jpg.webp" alt="" loading="lazy"></div>
 				</div>
 		</div>
 		<div class="cart__content">
@@ -508,12 +508,12 @@
 	<div class="carts classL">
 		<div class="carts-back swiper-container">
 				<div class="swiper-wrapper">
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/luna/1.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/luna/2.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/luna/3.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/luna/4.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/luna/5.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/luna/20.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/luna/1.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/luna/2.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/luna/3.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/luna/4.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/luna/5.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/luna/20.jpg.webp" alt="" loading="lazy"></div>
 				</div>
 		</div>
 		<div class="cart__content">
@@ -540,12 +540,12 @@
 	<div class="carts  classMV">
 		<div class="carts-back swiper-container">
 				<div class="swiper-wrapper">
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/1.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/2.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/3.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/4.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/5.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/6.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/1.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/2.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/3.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/4.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/5.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/miata/6.jpg.webp" alt="" loading="lazy"></div>
 				</div>
 		</div>
 		<div class="cart__content">
@@ -572,7 +572,7 @@
 	<div class="carts classC&D">
 		<div class="carts-back swiper-container">
 				<div class="swiper-wrapper">
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/cin_&_don/1.png" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/cin_&_don/1.png.webp" alt="" loading="lazy"></div>
 				</div>
 		</div>
 		<div class="cart__content">
@@ -602,12 +602,12 @@
 	<div class="carts classIL&G">
 		<div class="carts-back swiper-container">
 				<div class="swiper-wrapper">
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_geo/1.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_geo/2.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_geo/3.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_geo/4.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_geo/5.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_geo/6.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_geo/1.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_geo/2.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_geo/3.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_geo/4.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_geo/5.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/IL_&_geo/6.jpg.webp" alt="" loading="lazy"></div>
 				</div>
 		</div>
 		<div class="cart__content">
@@ -637,8 +637,8 @@
 	<div class="carts classIL&G">
 		<div class="carts-back swiper-container">
 				<div class="swiper-wrapper">
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/bat/1.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/bat/2.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/bat/1.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide carts-slide"><img src="../assets/img/cart/bat/2.jpg.webp" alt="" loading="lazy"></div>
 				</div>
 		</div>
 		<div class="cart__content">

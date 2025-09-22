@@ -86,10 +86,10 @@
 
 			<div class="title-mob swiper-container">
         <div class="swiper-wrapper">
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/1.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/2.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/3.jpg" alt="" loading="lazy"></div>
-						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/4.jpg" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/1.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/2.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/3.jpg.webp" alt="" loading="lazy"></div>
+						<div class="swiper-slide title-mob__slide"><img src="/assets/img/case/cover/4.jpg.webp" alt="" loading="lazy"></div>
         </div>
     	</div>
 

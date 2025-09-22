@@ -8,6 +8,16 @@
     <?php
     include('../components/head.php')
     ?>
+    <style>
+        .menu__main > li:nth-child(2) > a {
+            color: #28bbff;
+            font-weight: 300;
+        }
+        .menu-mob_main > li:nth-child(2) > a {
+            color: #28bbff;
+            font-weight: 300;
+        }
+    </style>
 </head>
 <!-- PRELOADER -->
 <?php
@@ -17,16 +27,6 @@
 <?php
 	include('../components/header.php')
 ?>
-<style>
-	.menu__main > li:nth-child(2) > a {
-		color: #28bbff;
-		font-weight: 300;
-	}
-	.menu-mob_main > li:nth-child(2) > a {
-		color: #28bbff;
-		font-weight: 300;
-	}
-</style>
 
 
 <body>

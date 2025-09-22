@@ -171,30 +171,30 @@
 	<div class="swiper ticker">
 			<h1 class="ticker__name">НАШИ КЛИЕНТЫ</h1>
 			<div class="swiper-wrapper">
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (1).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (2).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/pasta.php"><img src="assets/img/logo_swiper/swiper (3).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/il_patio.php"><img src="assets/img/logo_swiper/swiper (4).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/miata-ostrov.php"><img src="assets/img/logo_swiper/swiper (5).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/bsb.php"><img src="assets/img/logo_swiper/swiper (6).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (7).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/bsb.php"><img src="assets/img/logo_swiper/swiper (8).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/costa.php"><img src="assets/img/logo_swiper/swiper (9).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (10).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (11).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/luna.php"><img src="assets/img/logo_swiper/swiper (12).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (13).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/il_&_geo.php"><img src="assets/img/logo_swiper/swiper (14).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/river.php"><img src="assets/img/logo_swiper/swiper (15).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/sinabon.php"><img src="assets/img/logo_swiper/swiper (16).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/case/il_&_geo.php"><img src="assets/img/logo_swiper/swiper (17).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (18).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (19).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (20).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (21).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (22).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (23).svg"></div></a>
-				<div class="swiper-slide ticker__slide"><a href="../case/niama_butovo.php"><img src="assets/img/logo_swiper/swiper (25).svg"></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (1).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (2).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/pasta.php"><img src="assets/img/logo_swiper/swiper (3).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/il_patio.php"><img src="assets/img/logo_swiper/swiper (4).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/miata-ostrov.php"><img src="assets/img/logo_swiper/swiper (5).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/bsb.php"><img src="assets/img/logo_swiper/swiper (6).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (7).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/bsb.php"><img src="assets/img/logo_swiper/swiper (8).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/costa.php"><img src="assets/img/logo_swiper/swiper (9).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (10).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (11).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/luna.php"><img src="assets/img/logo_swiper/swiper (12).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (13).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/il_&_geo.php"><img src="assets/img/logo_swiper/swiper (14).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/river.php"><img src="assets/img/logo_swiper/swiper (15).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/sinabon.php"><img src="assets/img/logo_swiper/swiper (16).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/case/il_&_geo.php"><img src="assets/img/logo_swiper/swiper (17).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (18).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (19).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (20).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (21).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (22).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../pages/portfolio.php"><img src="assets/img/logo_swiper/swiper (23).svg" alt=""></div></a>
+				<div class="swiper-slide ticker__slide"><a href="../case/niama_butovo.php"><img src="assets/img/logo_swiper/swiper (25).svg" alt=""></div></a>
 			</div>
 	</div> 
 
@@ -416,7 +416,7 @@
 			<h1>Грамотный анализ Технических Условий (ТУ) и ясное понимание достаточности и недостаточности исходных данных - основа успеха проекта.</h1>
 		</div>
 	
-	<img class="_R" src="/assets/icon/R.svg"></img>
+	<img class="_R" src="/assets/icon/R.svg" alt=""></img>
 
 	<div class="step">
 		<h1>Сначала запускаются <span>Технология</span> и <span>Дизайн,</span> далее разрабатываются архитектурный и инженерные разделы, только после этого считается смета, а потом - стройка.</h1>
@@ -424,8 +424,8 @@
 
 	</div>
 
-	<img class="long_R" src="/assets/icon/long_R.svg"></img>
-	<img class="R" src="/assets/icon/R.svg"></img>
+	<img class="long_R" src="/assets/icon/long_R.svg" alt=""></img>
+	<img class="R" src="/assets/icon/R.svg" alt=""></img>
 
 	<div class="step-container">
 
@@ -433,15 +433,15 @@
 			<h1>Далее обязательно разрабатывается раздел <span>АР</span>. Он объединяет <span>Дизайн</span> и <span>Технологию.</span> Раздел <span>АР</span> является техническим заданием на проектирование инженерных разделов</h1>
 		</div>
 	
-		<img class="_R" src="/assets/icon/R.svg"></img>
+		<img class="_R" src="/assets/icon/R.svg" alt=""></img>
 
 	<div class="step">
 		<h1>После разработки раздела <span>АР</span>, разрабатываются инженерные разделы: <span>ОВиК</span>, <span>ВК</span>, <span>СКС</span>, <span>ЭОМ</span> и если есть конструкции из металла, то раздел <span>КМ</span>.</h1>
 	</div>
 
 	</div>
-	<img class="long_R" src="/assets/icon/long_R.svg"></img>
-	<img class="R" src="/assets/icon/R.svg"></img>
+	<img class="long_R" src="/assets/icon/long_R.svg" alt=""></img>
+	<img class="R" src="/assets/icon/R.svg" alt=""></img>
 
 	<div class="step-container">
 
@@ -449,7 +449,7 @@
 			<h1><span>ЭОМ</span> разрабатывается последним, так как в нем сведена вся информация от всех потребителей энергии со всех проектов.</h1>
 		</div>
 
-		<img class="_R" src="/assets/icon/R.svg"></img>
+		<img class="_R" src="/assets/icon/R.svg" alt=""></img>
 
 		<div class="step">
 			<h1>От соблюдения такой последовательности этапов зависит количество ошибок и перерасход ресурсов Заказчика</h1>
@@ -457,8 +457,8 @@
 
 	</div>
 		
-		<img class="long_R" src="/assets/icon/long_R.svg"></img>
-		<img class="R" src="/assets/icon/R.svg"></img>
+		<img class="long_R" src="/assets/icon/long_R.svg" alt=""></img>
+		<img class="R" src="/assets/icon/R.svg" alt=""></img>
 
 	<div class="step-container">
 

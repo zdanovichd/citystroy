@@ -1,7 +1,6 @@
 <header>
 	<nav class="menu">
-		<div class="menu__logo move-con"
-			alt="logo">
+		<div class="menu__logo move-con">
 			<a class="logo__a" href="#anchor_title">
 				<dotlottie-player 
 					id="logo__player"
@@ -171,19 +170,19 @@
                     <li>
                         <!-- youtube -->
                         <a href="https://www.youtube.com/@CityStroy">
-                            <img class="menu__link__item" src="../assets/img/icon/youTube.svg">
+                            <img class="menu__link__item" src="../assets/img/icon/youTube.svg" alt="">
                         </a>
                     </li>
                     <li>
                         <!-- phone -->
                         <a href="tel:+79263634278">
-                            <img class="menu__link__item" src="../assets/img/icon/phone.svg">
+                            <img class="menu__link__item" src="../assets/img/icon/phone.svg" alt="">
                         </a>
                     </li>
                     <li>
                         <!-- mail -->
                         <a href="mailto:csfitout@gmail.com">
-                            <img class="menu__link__item" src="../assets/img/icon/mail.svg">
+                            <img class="menu__link__item" src="../assets/img/icon/mail.svg" alt="">
                         </a>
                     </li>
                 </ul>

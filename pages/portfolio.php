@@ -93,31 +93,31 @@
 <div class="swiper portfolio_ticker">
 	<h1 class="portfolio_ticker__name">НАШИ КЛИЕНТЫ</h1>
 	<div class="swiper-wrapper">
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/1.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/2.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/3.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/4.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/5.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/6.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/7.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/8.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/9.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/10.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/11.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/12.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/13.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/14.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/15.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/16.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/17.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/18.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/19.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/20.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/21.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/22.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/23.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/24.png"></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/25.png"></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/1.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/2.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/3.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/4.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/5.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/6.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/7.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/8.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/9.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/10.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/11.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/12.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/13.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/14.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/15.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/16.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/17.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/18.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/19.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/20.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/21.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/22.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/23.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/24.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/25.png" alt=""></div>
 	</div>
 </div> 
 

@@ -121,16 +121,16 @@
 		<div class="case__swiper-con">
 			<div class="swiper case__swiper">
 				<div class="swiper-wrapper">
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/1.jpg"/></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/2.jpg"/></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/3.jpg"/></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/4.jpg"/></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/5.jpg"/></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/6.jpg"/></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/7.jpg"/></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/8.jpg"/></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/9.jpg"/></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/10.jpg"/></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/1.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/2.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/3.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/4.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/5.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/6.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/7.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/8.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/9.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/niama_reutov/10.jpg"/ alt=""></div>
 				</div>
 
 				<div class="swiper-button-next case__swiper-btn"></div>
@@ -140,16 +140,16 @@
 
 			<div thumbsSlider="" class="swiper case__swiper-2">
 				<div class="swiper-wrapper">
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/1.jpg"/></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/2.jpg"/></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/3.jpg"/></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/4.jpg"/></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/5.jpg"/></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/6.jpg"/></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/7.jpg"/></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/8.jpg"/></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/9.jpg"/></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/10.jpg"/></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/1.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/2.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/3.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/4.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/5.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/6.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/7.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/8.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/9.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/niama_reutov/10.jpg"/ alt=""></div>
 				</div>
 			</div>
 

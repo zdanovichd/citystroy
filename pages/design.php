@@ -245,12 +245,12 @@
 			<div class="desi-sh_item element-animation">
 				<h2>Успешный бизнес</h2>
 			</div>
-			<img class="shema__right" src="/assets/img/icon/right.svg"></img>
+			<img class="shema__right" src="/assets/img/icon/right.svg" alt=""></img>
 
 			<div class="desi-sh_item element-animation">
 				<h2>Профессиональные проектировщики и строители</h2>
 			</div>
-			<img class="shema__right" src="/assets/img/icon/right.svg"></img>
+			<img class="shema__right" src="/assets/img/icon/right.svg" alt=""></img>
 			
 			<div class="desi-sh_item element-animation">
 				<h2>Успешный бизнес</h2>

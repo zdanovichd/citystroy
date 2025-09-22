@@ -10,7 +10,7 @@
         <h2>Сбор данных</h2>
         <h2>Технических условий</h2>
     </div>
-    <img class="shema__down" src="/assets/img/icon/down.svg">
+    <img class="shema__down" src="/assets/img/icon/down.svg" alt="">
 
     <!----------------------- ТЕХНОЛОГИЯ ------------------>
     <div class="sh-mob__item">
@@ -18,7 +18,7 @@
         <h2>Разработка технологий</h2>
         <h2>Дизайн порект</h2>
     </div>
-    <img class="shema__down" src="/assets/img/icon/down.svg">
+    <img class="shema__down" src="/assets/img/icon/down.svg" alt="">
 
     <!------------------ ПРОЕКТИРОВАНИЕ -------------------->
     <div class="sh-mob__item">
@@ -63,7 +63,7 @@
             </div>
         </div>
     </div>
-    <img class="shema__down" src="/assets/img/icon/down.svg">
+    <img class="shema__down" src="/assets/img/icon/down.svg" alt="">
 
     <!-------------------- СMЕТА ----------------------------->
     <div class="sh-mob__item">
@@ -71,7 +71,7 @@
         <h2>Честные смены</h2>
         <h2>Подсчёт всего и сразу</h2>
     </div>
-    <img class="shema__down" src="/assets/img/icon/down.svg">
+    <img class="shema__down" src="/assets/img/icon/down.svg" alt="">
 
     <!------------------------- СМР --------------------->
     <div class="sh-mob__item">
@@ -80,7 +80,7 @@
         <h2>Инженеры и проектировщики</h2>
         <h2>Квалифицированные строители</h2>
     </div>
-    <img class="shema__down" src="/assets/img/icon/down.svg">
+    <img class="shema__down" src="/assets/img/icon/down.svg" alt="">
 
     <!----------------------- ГАРАНТИЯ ------------------------->
     <div class="sh-mob__item">
@@ -110,7 +110,7 @@
 					<h2>Технических условий</h2>
 			</div>
 		
-    <img class="sh__down " src="/assets/img/icon/right.svg">
+    <img class="sh__down " src="/assets/img/icon/right.svg" alt="">
 
     <!----------------------- ТЕХНОЛОГИЯ ------------------>
 		
@@ -120,7 +120,7 @@
         <h2> Дизайн порект</h2> 
     </div>
 	
-		<img class="sh__down down-proj" src="/assets/img/icon/right-white.svg">
+		<img class="sh__down down-proj" src="/assets/img/icon/right-white.svg" alt="">
 
     <!------------------ ПРОЕКТИРОВАНИЕ -------------------->
 	
@@ -171,7 +171,7 @@
         </div>
     </div>
 
-		<img class="sh__down" src="/assets/img/icon/right.svg">
+		<img class="sh__down" src="/assets/img/icon/right.svg" alt="">
 
     <!-------------------- СMЕТА ----------------------------->
 	
@@ -181,7 +181,7 @@
 					<h2>Подсчёт всего и сразу</h2>
     </div>
 		
-		<img class="sh__down" src="/assets/img/icon/right.svg">
+		<img class="sh__down" src="/assets/img/icon/right.svg" alt="">
 
     <!------------------------- СМР --------------------->
 		
@@ -192,7 +192,7 @@
         <h2>Квалифицированные строители</h2>
     </div>
 		
-    <img class="sh__down" src="/assets/img/icon/right.svg">
+    <img class="sh__down" src="/assets/img/icon/right.svg" alt="">
 
     <!----------------------- ГАРАНТИЯ ------------------------->
 	

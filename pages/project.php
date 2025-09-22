@@ -230,7 +230,7 @@
 			<h1>Сначала запускаются <span>Технология</span> и <span>Дизайн,</span> далее разрабатываются архитектурный и инженерные разделы, только после этого считается смета, а потом - стройка.</h1>
 		</div>
 	
-	<img class="_R" src="/assets/icon/R.svg"></img>
+	<img class="_R" src="/assets/icon/R.svg" alt=""></img>
 
 	<div class="step">
 		<h1>Далее обязательно разрабатывается раздел <span>АР</span>. Он объединяет <span>Дизайн</span> и <span>Технологию.</span> Раздел <span>АР</span> является техническим заданием на проектирование инженерных разделов</h1>
@@ -238,8 +238,8 @@
 
 	</div>
 
-	<img class="long_R" src="/assets/icon/long_R.svg"></img>
-	<img class="R" src="/assets/icon/R.svg"></img>
+	<img class="long_R" src="/assets/icon/long_R.svg" alt=""></img>
+	<img class="R" src="/assets/icon/R.svg" alt=""></img>
 
 	<div class="step-container">
 
@@ -247,15 +247,15 @@
 			<h1>После разработки раздела <span>АР</span>, разрабатываются инженерные разделы: <span>ОВиК</span>, <span>ВК</span>, <span>СКС</span>, <span>ЭОМ</span> и если есть конструкции из металла, то раздел <span>КМ</span>.</h1>
 		</div>
 	
-		<img class="_R" src="/assets/icon/R.svg"></img>
+		<img class="_R" src="/assets/icon/R.svg" alt=""></img>
 
 	<div class="step">
 		<h1><span>ЭОМ</span> разрабатывается последним, так как в нем сведена вся информация от всех потребителей энергии со всех проектов.</h1>
 	</div>
 
 	</div>
-	<img class="long_R" src="/assets/icon/long_R.svg"></img>
-	<img class="R" src="/assets/icon/R.svg"></img>
+	<img class="long_R" src="/assets/icon/long_R.svg" alt=""></img>
+	<img class="R" src="/assets/icon/R.svg" alt=""></img>
 
 	<div class="step-container">
 
@@ -263,7 +263,7 @@
 		<h1>От соблюдения такой последовательности этапов зависит количество ошибок и перерасход ресурсов Заказчика</h1>
 	</div>
 
-	<img class="_R" src="/assets/icon/R.svg"></img>
+	<img class="_R" src="/assets/icon/R.svg" alt=""></img>
 
 	<div class="step">
 		<h1>Эта зависимость прямо пропорциональна масштабу проекта – чем больше объект, тем строже нужно соблюдать эту этапность.</h1>

@@ -120,12 +120,12 @@
 		<div class="case__swiper-con">
 			<div class="swiper case__swiper">
 				<div class="swiper-wrapper">
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/pasta/6.jpg"/></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/pasta/1.jpg"/></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/pasta/2.jpg"/></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/pasta/3.jpg"/></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/pasta/4.jpg"/></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/pasta/5.jpg"/></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/pasta/6.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/pasta/1.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/pasta/2.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/pasta/3.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/pasta/4.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide"><img src="../assets/img/cart/pasta/5.jpg"/ alt=""></div>
 				</div>
 
 				<div class="swiper-button-next case__swiper-btn"></div>
@@ -135,12 +135,12 @@
 
 			<div thumbsSlider="" class="swiper case__swiper-2">
 				<div class="swiper-wrapper">
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/pasta/6.jpg"/></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/pasta/1.jpg"/></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/pasta/2.jpg"/></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/pasta/3.jpg"/></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/pasta/4.jpg"/></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/pasta/5.jpg"/></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/pasta/6.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/pasta/1.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/pasta/2.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/pasta/3.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/pasta/4.jpg"/ alt=""></div>
+					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/pasta/5.jpg"/ alt=""></div>
 				</div>
 			</div>
 

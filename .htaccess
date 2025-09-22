@@ -47,7 +47,7 @@ RewriteRule .* /$0 [R=301,L]
 # Принудительный редирект на HTTPS (и убираем WWW)
 RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
-RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+RewriteRule ^(.*)$ https://city.codemastering.ru/$1 [R=301,L]
 
 # Убираем index.php и index.html, но сохраняем конечный слэш (кроме главной)
 RewriteCond %{REQUEST_URI} ^(.+/)?index\.(php|html)$ [NC]

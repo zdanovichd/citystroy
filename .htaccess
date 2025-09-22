@@ -8,13 +8,26 @@ RewriteRule ^главная$ /index.php [L]
 RewriteRule ^технология$ /pages/tehno.php [L]
 RewriteRule ^дизайн$ /pages/design.php [L]
 RewriteRule ^инженерия$ /pages/project.php [L]
-RewriteRule ^портфолио$ /pages/portfolio.php [L]
+RewriteRule ^proekty$ /pages/portfolio.php [L]
 RewriteRule ^СМР$ /pages/SMR.php [L]
 RewriteRule ^контакты$ /pages/contact.php [L]
 
+# Технические страницы
 RewriteRule ^privacy-policy$ /pages/privacy-policy.php [L]
 RewriteRule ^terms-of-service$ /pages/terms-of-service.php [L]
 RewriteRule ^rekvizity$ /pages/rekvizity.php [L]
+RewriteRule ^o-kompanii$ /pages/o-kompanii.php [L]
+RewriteRule ^sertifikaty$ /pages/sertifikaty.php [L]
+RewriteRule ^vakansii$ /pages/vakansii.php [L]
+RewriteRule ^blog$ /pages/blog.php [L]
+RewriteRule ^faq$ /pages/faq.php [L]
+RewriteRule ^prices$ /pages/prices.php [L]
+RewriteRule ^partners$ /pages/partners.php [L]
+RewriteRule ^otzyvy$ /pages/otzyvy.php [L]
+RewriteRule ^garantii$ /pages/garantii.php [L]
+
+#Редиректы
+Redirect 301 /портфолио /proekty
 
 #  <Directory /var/www/html/citystroy.local/>
 #        AllowOverride All

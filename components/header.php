@@ -36,13 +36,13 @@
             <ul  class="menu__main__container">
                 <li><a class="menu__main__item" href="/">Главная</a></li>
                 <li class="has-child">
-                    <a class="menu__main__item" href="/">О компании</a>
+                    <a class="menu__main__item" href="/o-kompanii">О компании</a>
                     <ul class="sub-menu">
-                        <li><a class="menu__main__item" href="/">Сертификаты</a></li>
-                        <li><a class="menu__main__item" href="/">Вакансии</a></li>
-                        <li><a class="menu__main__item" href="/">Гарантии</a></li>
-                        <li><a class="menu__main__item" href="/">FAQ</a></li>
-                        <li><a class="menu__main__item" href="/">Отзывы</a></li>
+                        <li><a class="menu__main__item" href="/sertifikaty">Сертификаты</a></li>
+                        <li><a class="menu__main__item" href="/vakansii">Вакансии</a></li>
+                        <li><a class="menu__main__item" href="/garantii">Гарантии</a></li>
+                        <li><a class="menu__main__item" href="/faq">FAQ</a></li>
+                        <li><a class="menu__main__item" href="/otzyvy">Отзывы</a></li>
                     </ul>
                 </li>
                 <li class="has-child">
@@ -64,7 +64,7 @@
                 </li>
                 <li><a class="menu__main__item" href="/">Цены</a></li>
                 <li><a class="menu__main__item" href="/портфолио">Портфолио</a></li>
-                <li><a class="menu__main__item" href="/">Блог</a></li>
+                <li><a class="menu__main__item" href="/blog">Блог</a></li>
                 <li><a class="menu__main__item" href="/контакты">Контакты</a></li>
                 <li><button class="button-menu button modal__btn">Связаться с нами</button></li>
             </ul>
@@ -114,13 +114,13 @@
                     <ul  class="menu-mob_main">
                         <li><a class="menu__main__item" href="/">Главная</a></li>
                         <li class="has-child">
-                            <a class="menu__main__item" href="/">О компании</a>
+                            <a class="menu__main__item" href="/o-kompanii">О компании</a>
                             <ul class="sub-menu">
-                                <li><a class="menu__main__item" href="/">Сертификаты</a></li>
-                                <li><a class="menu__main__item" href="/">Вакансии</a></li>
-                                <li><a class="menu__main__item" href="/">Гарантии</a></li>
-                                <li><a class="menu__main__item" href="/">FAQ</a></li>
-                                <li><a class="menu__main__item" href="/">Отзывы</a></li>
+                                <li><a class="menu__main__item" href="/sertifikaty">Сертификаты</a></li>
+                                <li><a class="menu__main__item" href="/vakansii">Вакансии</a></li>
+                                <li><a class="menu__main__item" href="/garantii">Гарантии</a></li>
+                                <li><a class="menu__main__item" href="/faq">FAQ</a></li>
+                                <li><a class="menu__main__item" href="/otzyvy">Отзывы</a></li>
                             </ul>
                         </li>
                         <li class="has-child">
@@ -142,8 +142,9 @@
                         </li>
                         <li><a class="menu__main__item" href="/">Цены</a></li>
                         <li><a class="menu__main__item" href="/портфолио">Портфолио</a></li>
-                        <li><a class="menu__main__item" href="/">Блог</a></li>
+                        <li><a class="menu__main__item" href="/blog">Блог</a></li>
                         <li><a class="menu__main__item" href="/контакты">Контакты</a></li>
+                        <li><button class="button-menu button modal__btn">Связаться с нами</button></li>
                     </ul>
                     <div class="menu__main__contacts">
                         <div class="contacts-item">

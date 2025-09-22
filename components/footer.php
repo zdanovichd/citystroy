@@ -80,13 +80,17 @@
         </div>
         <ul  class="menu__main__container menu__main-footer">
             <li class="has-child">
-                <a class="menu__main__item" href="/">О компании</a>
+                <a class="menu__main__item" href="/o-kompanii">О компании</a>
                 <ul class="sub-menu">
-                    <li><a class="menu__main__item" href="/">Сертификаты</a></li>
-                    <li><a class="menu__main__item" href="/">Вакансии</a></li>
-                    <li><a class="menu__main__item" href="/">Гарантии</a></li>
-                    <li><a class="menu__main__item" href="/">FAQ</a></li>
-                    <li><a class="menu__main__item" href="/">Отзывы</a></li>
+                    <li><a class="menu__main__item" href="/sertifikaty">Сертификаты</a></li>
+                    <li><a class="menu__main__item" href="/vakansii">Вакансии</a></li>
+                    <li><a class="menu__main__item" href="/garantii">Гарантии</a></li>
+                    <li><a class="menu__main__item" href="/faq">FAQ</a></li>
+                    <li><a class="menu__main__item" href="/otzyvy">Отзывы</a></li>
+                    <li><a class="menu__main__item" href="/partners">Партнеры</a></li>
+                    <li><a class="menu__main__item" href="/prices">Цены</a></li>
+                    <li><a class="menu__main__item" href="/rekvizity">Реквизиты</a></li>
+                    <li><a class="menu__main__item" href="/blog">Блог</a></li>
                 </ul>
             </li>
             <li class="has-child">

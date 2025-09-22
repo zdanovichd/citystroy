@@ -35,13 +35,13 @@ function hidePreloader() {
   }, 200);
 }
 
-// var timeoutId = setTimeout(hidePreloader, 3000);
-//
-// // // Скрываем прелоадер, когда вся страница загружена
-// window.addEventListener("load", function () {
-//   clearTimeout(timeoutId); // Останавливаем таймер, если страница загрузилась раньше
-//   hidePreloader(); // Скрываем прелоадер
-// });
+var timeoutId = setTimeout(hidePreloader, 3000);
+
+// // Скрываем прелоадер, когда вся страница загружена
+window.addEventListener("load", function () {
+  clearTimeout(timeoutId); // Останавливаем таймер, если страница загрузилась раньше
+  hidePreloader(); // Скрываем прелоадер
+});
 
 ///////////////----SWIPER-----/////////////////
 

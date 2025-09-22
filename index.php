@@ -13,7 +13,7 @@
 <body>
 <!-- PRELOADER -->
 <?php
-	//include('components/preloader.php')
+	include('components/preloader.php')
 ?>
 
 <!-- HEADER -->

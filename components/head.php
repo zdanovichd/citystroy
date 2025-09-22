@@ -5,15 +5,16 @@
     <meta name="format-detection	" content="telephone=no">
 
     <!-- link -->
-    <link rel="stylesheet" href="../css/font.css">
-    <link rel="stylesheet" href="../css/style.css">
-    <link rel="stylesheet" href="../css/shema.css">
-    <link rel="stylesheet" href="../css/media.css">
-    <link rel="stylesheet" href="../css/case.css">
-    <link rel="stylesheet" href="../css/modal.css">
-    <link rel="stylesheet" href="../css/carts.css">
-    <link rel="stylesheet" href="../css/more.css">
-    <link rel="stylesheet" href="../css/preloader.css">
+<!--    <link rel="stylesheet" href="../css/font.css">-->
+<!--    <link rel="stylesheet" href="../css/style.css">-->
+<!--    <link rel="stylesheet" href="../css/shema.css">-->
+<!--    <link rel="stylesheet" href="../css/media.css">-->
+<!--    <link rel="stylesheet" href="../css/case.css">-->
+<!--    <link rel="stylesheet" href="../css/modal.css">-->
+<!--    <link rel="stylesheet" href="../css/carts.css">-->
+<!--    <link rel="stylesheet" href="../css/more.css">-->
+<!--    <link rel="stylesheet" href="../css/preloader.css">-->
+    <link rel="stylesheet" href="../css/all-in-one.css">
     <link rel="stylesheet" href="../css/swiper-bundle.min.css" />
 
 

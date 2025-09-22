@@ -3,6 +3,12 @@ ErrorDocument 404 /pages/404.php
 Options +FollowSymLinks
 RewriteEngine On
 
+<IfModule mod_headers.c>
+    # Кеширование изображений на 1 год
+    <FilesMatch "\.(jpg|jpeg|png|gif|webp|svg|ico)$">
+        Header set Cache-Control "max-age=31536000, public, immutable"
+    </FilesMatch>
+</IfModule>
 
 RewriteRule ^tekhnologicheskoe-proektirovanie$ /pages/tehno.php [L]
 RewriteRule ^dizajn-kommercheskih-pomeshchenij$ /pages/design.php [L]
@@ -69,8 +75,3 @@ RewriteRule ^(.+)/index\.(php|html)$ https://%{HTTP_HOST}/$1 [R=301,L]
 # Специальное правило для главной страницы Убираем index.php и index.html.
 RewriteCond %{THE_REQUEST} /index\.(php|html) [NC]
 RewriteRule ^index\.(php|html)$ https://%{HTTP_HOST} [R=301,L]
-
-# Кеширование изображений
-<FilesMatch "\.(jpg|jpeg|png|gif|webp|svg|ico)$">
-    Header set Cache-Control "max-age=31536000, public"
-</FilesMatch>

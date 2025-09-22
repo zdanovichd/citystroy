@@ -12,7 +12,6 @@
                         <div class="form-section "><h1 class="form-title">Контактные данные</h1>
                             <div class="input-form-ban">
                                 <label class="modal__lab in-cont" for="">Имя
-
                                     <input class="modal__input big-input__name" type="text" data-validate-field="name"
                                            name="Имя" placeholder="Введите имя">
                                 </label>
@@ -24,7 +23,6 @@
                                            name="Телефон" placeholder="Введите телефон">
                                 </label>
                             </div>
-
                         </div>
 
                         <div class="form-section"><h1 class="form-title">Что вас интересует?</h1>
@@ -64,7 +62,7 @@
                                 </label>
                             </div>
                         </div>
-                    </form>
+
                 </div>
 
                 <div class="swiper-slide btnSlide">

@@ -44,9 +44,12 @@ Redirect 301 /assets/img/blue_logo_swiper/25.png /
 RewriteCond %{THE_REQUEST} //
 RewriteRule .* /$0 [R=301,L]
 
-# Принудительный редирект на HTTPS (и убираем WWW)
-RewriteCond %{HTTPS} off [OR]
-RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+# Редирект с HTTP на HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://city.codemastering.ru/$1 [R=301,L]
+
+# Редирект с WWW на без WWW
+RewriteCond %{HTTP_HOST} ^www\.city\.codemastering\.ru$ [NC]
 RewriteRule ^(.*)$ https://city.codemastering.ru/$1 [R=301,L]
 
 # Убираем index.php и index.html, но сохраняем конечный слэш (кроме главной)

@@ -13,6 +13,7 @@
 <?php
 include('../components/preloader.php')
 ?>
+<body>
 <!-- HEADER -->
 <?php
 include('../components/header.php')
@@ -30,7 +31,7 @@ include('../components/header.php')
     }
 </style>
 
-<body>
+
 <div class="container">
     <!-- SCREEN_1-TITLE -->
     <article id="anchor_title" class="title__con">

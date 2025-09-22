@@ -76,11 +76,12 @@
 <?php
 include('../components/preloader.php')
 ?>
+<body>
 <!-- HEADER -->
 <?php
 include('../components/header.php')
 ?>
-<body>
+
 <div class="container policy">
     <h1>Блог</h1>
     <p>“тут в будущем будем размещать тематические статьи”</p>

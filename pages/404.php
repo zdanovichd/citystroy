@@ -13,6 +13,7 @@
 <?php
 	include('../components/preloader.php')
 ?>
+<body>
 <!-- HEADER -->
 <?php
 	include('../components/header.php')
@@ -20,7 +21,7 @@
 
 
 
-<body>
+
 		<article>
 			<div class="eror-con">
 				<img src="/assets/img/icon/pepe.png" alt="">

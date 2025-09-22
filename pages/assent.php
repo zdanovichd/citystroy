@@ -13,6 +13,7 @@
 <?php
 	include('../components/preloader.php')
 ?>
+<body>
 <!-- HEADER -->
 <?php
 	include('../components/header.php')
@@ -29,7 +30,7 @@
 	}
 </style>
 
-<body>
+
 	<div class="assent-con">
 		<div class="assent">
 			<h1>СОГЛАСИЕ

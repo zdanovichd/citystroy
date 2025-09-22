@@ -26,11 +26,12 @@
 <?php
 include('../components/preloader.php')
 ?>
+<body>
 <!-- HEADER -->
 <?php
 include('../components/header.php')
 ?>
-<body>
+
 <div class="policy">
     <!-- SWIPER-TICKER -->
     <div class="swiper ticker">

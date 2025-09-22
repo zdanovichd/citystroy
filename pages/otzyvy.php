@@ -77,11 +77,12 @@
 <?php
 include('../components/preloader.php')
 ?>
+<body>
 <!-- HEADER -->
 <?php
 include('../components/header.php')
 ?>
-<body>
+
 <div class="container policy">
     <h1>Отзывы </h1>
     <p>“Далее будем размещать здесь отзывы”</p>

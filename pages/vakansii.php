@@ -76,12 +76,13 @@
 <?php
 include('../components/preloader.php')
 ?>
+<body>
 <!-- HEADER -->
 <?php
 include('../components/header.php')
 ?>
 
-<body>
+
 <div class="container policy">
     <h1>Наши вакансии</h1>
     <p>

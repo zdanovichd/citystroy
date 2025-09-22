@@ -75,13 +75,14 @@
 <?php
 include('../components/preloader.php')
 ?>
+<body>
 <!-- HEADER -->
 <?php
 include('../components/header.php')
 ?>
 }
 }
-<body>
+
 <div class="container policy">
     <h1>Наши лицензии и сертификаты</h1>
     <p>“тут в будущем будем размещать Лицензии и Сертификаты”</p>

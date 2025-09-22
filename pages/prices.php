@@ -78,11 +78,12 @@
 <?php
 include('../components/preloader.php')
 ?>
+<body>
 <!-- HEADER -->
 <?php
 include('../components/header.php')
 ?>
-<body>
+
 <div class="container policy">
     <h1>Цены</h1>
     <p>“Тут добавим цены на услуги”</p>

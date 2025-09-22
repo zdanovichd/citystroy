@@ -203,4 +203,15 @@
 
 
 </footer>
+<script defer src="../js/main.js"></script>
+<script defer src="../js/modal.js"></script>
+<script defer src="../js/shema.js"></script>
+<script src="../libs/jquery-3.7.1.min.js"></script>
+<script defer src="../libs/inputmask.min.js"></script>
+<script defer src="../libs/just-validate3.3.3.min.js"></script>
+<script defer src="../js/script-new.js"></script>
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
+<script defer src="../js/swiper-bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
+
 

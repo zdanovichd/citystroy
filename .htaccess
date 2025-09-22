@@ -3,13 +3,6 @@ ErrorDocument 404 /pages/404.php
 Options +FollowSymLinks
 RewriteEngine On
 
-<IfModule mod_headers.c>
-    # Кеширование изображений на 1 год
-    <FilesMatch "\.(jpg|jpeg|png|gif|webp|svg|ico)$">
-        Header set Cache-Control "max-age=31536000, public, immutable"
-    </FilesMatch>
-</IfModule>
-
 RewriteRule ^tekhnologicheskoe-proektirovanie$ /pages/tehno.php [L]
 RewriteRule ^dizajn-kommercheskih-pomeshchenij$ /pages/design.php [L]
 RewriteRule ^inzhenernoe-proektirovanie$ /pages/project.php [L]

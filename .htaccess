@@ -3,24 +3,7 @@ ErrorDocument 404 /pages/404.php
 Options +FollowSymLinks
 RewriteEngine On
 
-# SEO редиректы
-# Перенаправляет с зеркал где больше 1 слеша. /// (Вариант 1)
-RewriteCond %{THE_REQUEST} //
-RewriteRule .* /$0 [R=301,L]
 
-# Редирект с HTTP на HTTPS
-RewriteCond %{HTTPS} off
-RewriteRule ^(.*)$ https://city.codemastering.ru/$1 [R=301,L]
-
-# Редирект с WWW на без WWW
-RewriteCond %{HTTP_HOST} ^www\.city\.codemastering\.ru$ [NC]
-RewriteRule ^(.*)$ https://city.codemastering.ru/$1 [R=301,L]
-
-# Убираем index.php и index.html, но сохраняем конечный слэш (кроме главной)
-RewriteCond %{REQUEST_URI} ^(.+/)?index\.(php|html)$ [NC]
-RewriteRule ^(.+/)?index\.(php|html)$ https://%{HTTP_HOST}/$1 [R=301,L]
-
-#Урлы
 RewriteRule ^главная$ /index.php [L]
 RewriteRule ^технология$ /pages/tehno.php [L]
 RewriteRule ^дизайн$ /pages/design.php [L]
@@ -55,3 +38,17 @@ Redirect 301 /assets/img/blue_logo_swiper/25.png /
 #  <Directory /var/www/html/citystroy.local/>
 #        AllowOverride All
 #    </Directory>
+
+# SEO редиректы
+# Перенаправляет с зеркал где больше 1 слеша. /// (Вариант 1)
+RewriteCond %{THE_REQUEST} //
+RewriteRule .* /$0 [R=301,L]
+
+# Принудительный редирект на HTTPS (и убираем WWW)
+RewriteCond %{HTTP} on [OR]
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ https://city.codemastering.ru/$1 [R=301,L]
+
+# Убираем index.php и index.html, но сохраняем конечный слэш (кроме главной)
+RewriteCond %{REQUEST_URI} ^(.+/)?index\.(php|html)$ [NC]
+RewriteRule ^(.+/)?index\.(php|html)$ https://%{HTTP_HOST}/$1 [R=301,L]

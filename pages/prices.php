@@ -74,11 +74,12 @@
                 font-size: 18px;
     </style>
 </head>
+<body>
 <!-- PRELOADER -->
 <?php
 include('../components/preloader.php')
 ?>
-<body>
+
 <!-- HEADER -->
 <?php
 include('../components/header.php')

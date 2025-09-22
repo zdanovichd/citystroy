@@ -4,13 +4,12 @@ Options +FollowSymLinks
 RewriteEngine On
 
 
-RewriteRule ^главная$ /index.php [L]
-RewriteRule ^технология$ /pages/tehno.php [L]
-RewriteRule ^дизайн$ /pages/design.php [L]
-RewriteRule ^инженерия$ /pages/project.php [L]
+RewriteRule ^tekhnologicheskoe-proektirovanie$ /pages/tehno.php [L]
+RewriteRule ^dizajn-kommercheskih-pomeshchenij$ /pages/design.php [L]
+RewriteRule ^inzhenernoe-proektirovanie$ /pages/project.php [L]
 RewriteRule ^proekty$ /pages/portfolio.php [L]
 RewriteRule ^СМР$ /pages/SMR.php [L]
-RewriteRule ^контакты$ /pages/contact.php [L]
+RewriteRule ^contacts$ /pages/contact.php [L]
 
 # Технические страницы
 RewriteRule ^privacy-policy$ /pages/privacy-policy.php [L]
@@ -27,7 +26,13 @@ RewriteRule ^otzyvy$ /pages/otzyvy.php [L]
 RewriteRule ^garantii$ /pages/garantii.php [L]
 
 #Редиректы
+Redirect 301 /дизайн /dizajn-kommercheskih-pomeshchenij
+Redirect 301 /технология /tekhnologicheskoe-proektirovanie
+Redirect 301 /СМР /srm
 Redirect 301 /портфолио /proekty
+Redirect 301 /инженерия /inzhenernoe-proektirovanie
+Redirect 301 /главная /
+Redirect 301 /контакты /contacts
 Redirect 301 /pages/case/il_&_geo.php /
 Redirect 301 /assets/icon/que.svg /
 Redirect 301 /assets/img/cart/ch/8.jpg /

@@ -119,7 +119,7 @@
 		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/22.png" alt=""></div>
 		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/23.png" alt=""></div>
 		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/24.png" alt=""></div>
-		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/25.png" alt=""></div>
+		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/25.svg" alt=""></div>
 	</div>
 </div> 
 

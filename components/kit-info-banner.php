@@ -18,7 +18,7 @@
 							<label type="checkbox" class="modal__check-text" for="kit__check-btn">
 								<span class="kit__check-btn modal__check"></span>
 								Согласие на обработку данных
-								<a href="../pages/assent.php"><img class="modal__check-que" src="/assets/img/icon/que.svg" alt=""></a>
+								<a href="../pages/assent.php"><img class="modal__check-que" src="/assets/icon/que.svg" alt=""></a>
 							</label>
 					</div>
 					<button  id="btn-kit-banner" class="button kit-button-banner">Отправить</button>

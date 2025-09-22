@@ -135,8 +135,6 @@
 					<div class="swiper-slide case__slide"><img src="../assets/img/cart/ch/5.jpg"/ alt=""></div>
 					<div class="swiper-slide case__slide"><img src="../assets/img/cart/ch/6.jpg"/ alt=""></div>
 					<div class="swiper-slide case__slide"><img src="../assets/img/cart/ch/7.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/ch/8.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide"><img src="../assets/img/cart/ch/9.jpg"/ alt=""></div>
 					<div class="swiper-slide case__slide"><img src="../assets/img/cart/ch/10.jpg"/ alt=""></div>
 				</div>
 
@@ -154,8 +152,6 @@
 					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/ch/5.jpg"/ alt=""></div>
 					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/ch/6.jpg"/ alt=""></div>
 					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/ch/7.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/ch/8.jpg"/ alt=""></div>
-					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/ch/9.jpg"/ alt=""></div>
 					<div class="swiper-slide case__slide-2"><img src="../assets/img/cart/ch/10.jpg"/ alt=""></div>
 				</div>
 			</div>

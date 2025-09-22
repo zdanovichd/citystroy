@@ -25,7 +25,7 @@
 					<label  type="checkbox"  class="modal__check-text" for="modal__check">
 						<span class="modal__check"></span>
 						Согласие на обработку данных
-						<a href="../pages/assent.php"><img class="modal__check-que" src="/assets/img/icon/que.svg" alt=""></a>
+						<a href="../pages/assent.php"><img class="modal__check-que" src="/assets/icon/que.svg" alt=""></a>
 					</label>
 				</div>
 

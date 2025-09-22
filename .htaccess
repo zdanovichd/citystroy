@@ -41,20 +41,25 @@ Redirect 301 /assets/img/blue_logo_swiper/25.png /
 
 # SEO редиректы
 # Перенаправляет с зеркал где больше 1 слеша. /// (Вариант 1)
+
+RewriteCond %{THE_REQUEST} //
+RewriteRule ^(.*?)/*$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+RewriteCond %{REQUEST_URI} ^(.+)/$
+RewriteRule ^(.*?)/*$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+
+# Принудительный редирект на HTTPS (и убираем WWW)
 RewriteCond %{HTTP_HOST} ^www\.(.*)$
 RewriteRule ^(.*)$ https://%1/$1 [L,R=301]
 
-RewriteCond %{THE_REQUEST} //
-RewriteRule .* https://%{HTTP_HOST} [R=301,L]
-
-# Принудительный редирект на HTTPS (и убираем WWW)
 RewriteCond %{HTTPS} off
 RewriteCond %{HTTP:X-Forwarded-Proto} !https
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
-# Убираем index.php и index.html, но сохраняем конечный слэш (кроме главной)
-RewriteCond %{REQUEST_URI} ^(.+/)?index\.(php|html)$ [NC]
-RewriteRule ^(.+/)?index\.(php|html)$ https://%{HTTP_HOST}/$1 [R=301,L]
+# Убираем index.php и index.html, но не сохраняем конечный слэш (кроме главной)
+RewriteCond %{REQUEST_URI} ^(.+)/index\.(php|html)$ [NC]
+RewriteRule ^(.+)/index\.(php|html)$ https://%{HTTP_HOST}/$1 [R=301,L]
 
 # Специальное правило для главной страницы Убираем index.php и index.html.
 RewriteCond %{THE_REQUEST} /index\.(php|html) [NC]

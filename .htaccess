@@ -8,7 +8,7 @@ RewriteRule ^tekhnologicheskoe-proektirovanie$ /pages/tehno.php [L]
 RewriteRule ^dizajn-kommercheskih-pomeshchenij$ /pages/design.php [L]
 RewriteRule ^inzhenernoe-proektirovanie$ /pages/project.php [L]
 RewriteRule ^proekty$ /pages/portfolio.php [L]
-RewriteRule ^СМР$ /pages/SMR.php [L]
+RewriteRule ^smr$ /pages/SMR.php [L]
 RewriteRule ^contacts$ /pages/contact.php [L]
 
 # Технические страницы
@@ -28,7 +28,7 @@ RewriteRule ^garantii$ /pages/garantii.php [L]
 #Редиректы
 Redirect 301 /дизайн /dizajn-kommercheskih-pomeshchenij
 Redirect 301 /технология /tekhnologicheskoe-proektirovanie
-Redirect 301 /СМР /srm
+Redirect 301 /СМР /smr
 Redirect 301 /портфолио /proekty
 Redirect 301 /инженерия /inzhenernoe-proektirovanie
 Redirect 301 /главная /

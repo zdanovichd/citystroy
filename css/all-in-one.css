@@ -223,8 +223,20 @@ a{
 .footer__requisites {
     margin-bottom: 1rem;
 }
-.menu__main__contacts {
+.main__menu-footer__con .menu__main__contacts {
+    flex-direction: column;
+    text-align: left;
+    align-items: start;
+    gap: 1rem;
+    width: 30%;
     margin-bottom: 1rem;
+}
+.main__menu-footer__con .contacts-item p,
+.main__menu-footer__con .contacts-item a {
+    font-size: clamp(5px, 0.8vw, 25px);
+    text-align: start;
+    color: #ffffff;
+    margin: 0;
 }
 .menu__main {
     padding: 15vw 2vw 0 2vw;
@@ -1282,22 +1294,27 @@ li {
 }
 .footer__linc-logo{
     display: flex;
-    justify-content: end;
+    justify-content: center;
 }
 .footer__player{
     width: 50%;
 }
 
 .menu__main-footer {
+    display: block;
+    column-count: 2;
+    column-fill: balance;
     padding: 0;
-    justify-content: space-around;
-    align-items: start;
-    flex-wrap: wrap;
-    gap: 1rem;
+    width: 60%;
     margin-bottom: 1rem;
 }
+.menu__main-footer > * {
+    break-inside: avoid; /* запрещает разрыв элемента */
+    page-break-inside: avoid; /* для старых браузеров */
+}
+
 .menu__main-footer li {
-    width: 30%;
+    margin-bottom: 1rem;
 }
 .menu__main-footer .sub-menu {
     display: block;
@@ -1316,17 +1333,18 @@ li {
     display: none;
 }
 .footer__legal-links {
+    width: 100%;
     display: flex;
-    justify-content: space-around;
+    gap: 1rem;
+    justify-content: center;
     margin-bottom: 1rem;
     font-size: clamp(5px, 1.1vw, 25px);
 }
 .main__menu-footer__con{
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    flex-wrap: wrap;
     width: 80%;
+    margin-top: 1rem;
 }
 .footer__about{
     width: 20%;

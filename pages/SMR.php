@@ -37,7 +37,7 @@
 			<div class="title">
 				<div class="title__text title__srm">
 					<div>
-						<p class="h1"> СТРОИТЕЛЬНО-МОНТАЖНЫЕ РАБОТЫ</p>
+						<h1 class="h1"> СТРОИТЕЛЬНО-МОНТАЖНЫЕ РАБОТЫ</h1>
 						<div class="swiper title__slide">
 							<div class="swiper-wrapper title__item">
 							

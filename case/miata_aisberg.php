@@ -26,7 +26,7 @@
 		<article>
 		
 			<div class="case__title">
-				<p class="h1">МЯТА LOUNGE</p>
+				<h1 class="h1">МЯТА LOUNGE</h1>
 			</div>
 
 			<div class="title__button case__btn-down">

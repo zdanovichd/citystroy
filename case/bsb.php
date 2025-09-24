@@ -33,7 +33,7 @@
 		<article>
 		
 			<div class="case__title">
-				<p class="h1">BLACK STAR BURGER</p>
+				<h1 class="h1">BLACK STAR BURGER</h1>
 			</div>
 
 			<div class="title__button case__btn-down">

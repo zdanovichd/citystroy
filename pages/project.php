@@ -39,7 +39,7 @@
 			<div class="title">
 				<div class="title__text">
 					<div>
-						<p class="h1"> ИНЖЕНЕРНОЕ ПРОЕКТИРОВАНИЕ </p>
+						<h1 class="h1"> ИНЖЕНЕРНОЕ ПРОЕКТИРОВАНИЕ </h1>
 						<div class="swiper title__slide">
 							<div class="swiper-wrapper title__item">
 							

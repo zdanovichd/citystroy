@@ -44,7 +44,7 @@
 	<div class="title">
 		<div class="title__text">
 			<div>
-				<p class="h1"> Наши проекты </p>
+				<h1 class="h1"> ВЫПОЛНЕННЫЕ ПРОЕКТЫ </h1>
 			</div>
 			<p class="h2">
 				Строим коммерческие помещения с нуля до пуска в 

@@ -33,7 +33,7 @@
 		<article>
 		
 			<div class="case__title">
-				<p class="h1">COSTA COFFEE</p>
+				<h1 class="h1">COSTA COFFEE</h1>
 			</div>
 
 			<div class="title__button case__btn-down">

@@ -34,7 +34,7 @@
 		<article>
 		
 			<div class="case__title">
-				<p class="h1">IL PATIO & ПЛАНЕТА СУШИ</p>
+				<h1 class="h1">IL PATIO & ПЛАНЕТА СУШИ</h1>
 			</div>
 
 			<div class="title__button case__btn-down">

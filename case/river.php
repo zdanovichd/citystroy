@@ -35,7 +35,7 @@
 		<article>
 		
 			<div class="case__title">
-				<p class="h1">RIVER ONE</p>
+				<h1 class="h1">RIVER ONE</h1>
 			</div>
 
 			<div class="title__button case__btn-down">

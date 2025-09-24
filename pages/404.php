@@ -26,8 +26,8 @@
 		<article>
 			<div class="eror-con">
 				<img src="/assets/img/icon/pepe.png.webp" alt="" loading="lazy">
-				<h1>СТРАНИЦА НЕ НАЙДЕНА</h1>
-				<a href="../главная">
+				<p class="h1">СТРАНИЦА НЕ НАЙДЕНА</p>
+				<a href="/">
 				<button class="button" >На главную</button>
 				</a>
 			</div>

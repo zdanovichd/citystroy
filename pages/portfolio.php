@@ -44,12 +44,12 @@
 	<div class="title">
 		<div class="title__text">
 			<div>
-				<h1> Наши проекты </h1>
+				<p class="h1"> Наши проекты </p>
 			</div>
-			<h2>
+			<p class="h2">
 				Строим коммерческие помещения с нуля до пуска в 
 				эксплуатацию и постгарантийного обслуживания
-			</h2>
+			</p>
 		</div>
 
 		<div class="title__button">
@@ -93,7 +93,7 @@
 
 <!-- SWIPER-TICKER -->
 <div class="swiper portfolio_ticker">
-	<h1 class="portfolio_ticker__name">НАШИ КЛИЕНТЫ</h1>
+	<p class="h1 portfolio_ticker__name">НАШИ КЛИЕНТЫ</p>
 	<div class="swiper-wrapper">
 		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/1.png.webp" alt="" loading="lazy"></div>
 		<div class="swiper-slide portfolio_ticker__slide"><img src="../assets/img/blue_logo_swiper/2.png.webp" alt="" loading="lazy"></div>
@@ -136,9 +136,9 @@
 
 
 <!-- CART -->
-<h1 id="anchor_title" class="cart-title" >ВЫПОЛНЕННЫЕ ПРОЕКТЫ</h1>
+<p class="h1" id="anchor_title" class="cart-title" >ВЫПОЛНЕННЫЕ ПРОЕКТЫ</p>
 <div class="not-found">
-	<h1 >Проект не найден</h1>
+	<p class="h1" >Проект не найден</p>
 </div>
 
 <div class="carts-con">
@@ -157,10 +157,10 @@
         </div>
     </div>
     <div class="cart__content">
-        <h3 class="cart__location">ТЦ Саларис</h3>
+        <p class="h3 cart__location">ТЦ Саларис</p>
         <img class="cart__logo" src="/assets/img/cart/logo/10.svg" alt="BLACK STAR BURGER" loading="lazy">
-        <h1 class="cart__title">BLACK STAR BURGER</h1>
-        <h2 class="cart__sub-title">Бургерная 180 м²</h2>
+        <p class="h1 cart__title">BLACK STAR BURGER</p>
+        <p class="h2 cart__sub-title">Бургерная 180 м²</p>
         <div class="cart__link">
             <a href="/case/bsb.php">
                 <button class="cart__button button ">ПОДРОБНЕЕ О ПРОЕКТЕ</button>
@@ -191,10 +191,10 @@
         </div>
     </div>
     <div class="cart__content">
-        <h3 class="cart__location">ТЦ Саларис</h3>
+        <p class="h3 cart__location">ТЦ Саларис</p>
         <img class="cart__logo" src="/assets/img/cart/logo/08.svg" alt="ЧАЙХАНА №1" loading="lazy">
-        <h1 class="cart__title">ЧАЙХАНА №1</h1>
-        <h2 class="cart__sub-title">Ресторан 900 м&#178</h2>
+        <p class="h1 cart__title">ЧАЙХАНА №1</p>
+        <p class="h2 cart__sub-title">Ресторан 900 м&#178</p>
         <div class="cart__link">
             <a href="/case/ch.php">
                 <button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>
@@ -223,10 +223,10 @@
         </div>
     </div>
     <div class="cart__content">
-        <h3 class="cart__location">ЖК Зил Арт</h3>
+        <p class="h3 cart__location">ЖК Зил Арт</p>
         <img class="cart__logo" src="/assets/img/cart/logo/02.svg" alt="RIVER ONE" loading="lazy">
-        <h1 class="cart__title">RIVER ONE</h1>
-        <h2 class="cart__sub-title">КАЛЬЯННАЯ 250 м&#178</h2>
+        <p class="h1 cart__title">RIVER ONE</p>
+        <p class="h2 cart__sub-title">КАЛЬЯННАЯ 250 м&#178</p>
         <div class="cart__link">
             <a href="/case/river.php">
                 <button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>
@@ -257,13 +257,13 @@
 				</div>
 		</div>
 		<div class="cart__content">
-				<h3 class="cart__location">ТРЦ Остров Мечты</h3>
+				<p class="h3 cart__location">ТРЦ Остров Мечты</p>
 				<div class="duble-cart__logo">
 					<img class="cart__logo" src="/assets/img/cart/logo/12.svg" alt="BLACK STAR BURGER" loading="lazy">
 					<img class="cart__logo" src="/assets/img/cart/logo/05.svg" alt="BLACK STAR BURGER" loading="lazy">
 				</div>
-				<h1 class="cart__title">IL PATIO и ПЛАНЕТА СУШИ</h1>
-				<h2 class="cart__sub-title">Ресторан 409 м&#178</h2>
+				<p class="h1 cart__title">IL PATIO и ПЛАНЕТА СУШИ</p>
+				<p class="h2 cart__sub-title">Ресторан 409 м&#178</p>
 				<div class="cart__link">
 						<a href="/case/il&su.php">
 								<button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>
@@ -293,10 +293,10 @@
 				</div>
 		</div>
 		<div class="cart__content">
-				<h3 class="cart__location">ТЦ Ривьева</h3>
+				<p class="h3 cart__location">ТЦ Ривьева</p>
 				<img class="cart__logo" src="/assets/img/cart/logo/22.svg" alt="PASTA CUP" loading="lazy">
-				<h1 class="cart__title">PASTA CUP</h1>
-				<h2 class="cart__sub-title">Ресторан 260 м&#178</h2>
+				<p class="h1 cart__title">PASTA CUP</p>
+				<p class="h2 cart__sub-title">Ресторан 260 м&#178</p>
 				<div class="cart__link">
 						<a href="/case/pasta.php">
 								<button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>
@@ -325,10 +325,10 @@
 				</div>
 		</div>
 		<div class="cart__content">
-				<h3 class="cart__location">ТЦ Остров мечты</h3>
+				<p class="h3 cart__location">ТЦ Остров мечты</p>
 				<img class="cart__logo" src="/assets/img/cart/logo/11.svg" alt="МЯТА PLATINUM<" loading="lazy">
-				<h1 class="cart__title">МЯТА PLATINUM</h1>
-				<h2 class="cart__sub-title">Кальянная 500 м&#178</h2>
+				<p class="h1 cart__title">МЯТА PLATINUM</p>
+				<p class="h2 cart__sub-title">Кальянная 500 м&#178</p>
 				<div class="cart__link">
 						<a href="/case/miata-ostrov.php">
 								<button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>
@@ -357,10 +357,10 @@
 				</div>
 		</div>
 		<div class="cart__content">
-				<h3 class="cart__location">ТЦ Июнь</h3>
+				<p class="h3 cart__location">ТЦ Июнь</p>
 				<img class="cart__logo" src="/assets/img/cart/logo/12.svg" alt="IL PATIO" loading="lazy">
-				<h1 class="cart__title">IL PATIO</h1>
-				<h2 class="cart__sub-title">Ресторан 300 м&#178</h2>
+				<p class="h1 cart__title">IL PATIO</p>
+				<p class="h2 cart__sub-title">Ресторан 300 м&#178</p>
 				<div class="cart__link">
 						<a href="/case/il_patio.php">
 								<button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>
@@ -389,10 +389,10 @@
 				</div>
 		</div>
 		<div class="cart__content">
-				<h3 class="cart__location">ТЦ Бутово Молл</h3>
+				<p class="h3 cart__location">ТЦ Бутово Молл</p>
 				<img class="cart__logo" src="/assets/img/cart/logo/25.svg" alt="НИЯМА" loading="lazy">
-				<h1 class="cart__title">НИЯМА</h1>
-				<h2 class="cart__sub-title">Ресторан 124 м&#178</h2>
+				<p class="h1 cart__title">НИЯМА</p>
+				<p class="h2 cart__sub-title">Ресторан 124 м&#178</p>
 				<div class="cart__link">
 						<a href="/case/niama_butovo.php">
 								<button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>
@@ -421,10 +421,10 @@
 				</div>
 		</div>
 		<div class="cart__content">
-				<h3 class="cart__location">ТЦ Айсберг</h3>
+				<p class="h3 cart__location">ТЦ Айсберг</p>
 				<img class="cart__logo" src="/assets/img/cart/logo/11.svg" alt="МЯТА LOUNGE" loading="lazy">
-				<h1 class="cart__title">МЯТА LOUNGE</h1>
-				<h2 class="cart__sub-title">Кальянная 260 м&#178</h2>
+				<p class="h1 cart__title">МЯТА LOUNGE</p>
+				<p class="h2 cart__sub-title">Кальянная 260 м&#178</p>
 				<div class="cart__link">
 						<a href="/case/miata_aisberg.php">
 								<button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>
@@ -453,10 +453,10 @@
 				</div>
 		</div>
 		<div class="cart__content">
-				<h3 class="cart__location">ТРЦ Ривьера</h3>
+				<p class="h3 cart__location">ТРЦ Ривьера</p>
 				<img class="cart__logo" src="/assets/img/cart/logo/07.svg" alt="COSTA COFFEE" loading="lazy">
-				<h1 class="cart__title">COSTA COFFEE</h1>
-				<h2 class="cart__sub-title">Кофнейня 250 м&#178</h2>
+				<p class="h1 cart__title">COSTA COFFEE</p>
+				<p class="h2 cart__sub-title">Кофнейня 250 м&#178</p>
 				<div class="cart__link">
 						<a href="/case/costa.php">
 								<button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>
@@ -485,10 +485,10 @@
 				</div>
 		</div>
 		<div class="cart__content">
-				<h3 class="cart__location">ТРЦ Реутов Парк</h3>
+				<p class="h3 cart__location">ТРЦ Реутов Парк</p>
 				<img class="cart__logo" src="/assets/img/cart/logo/25.svg" alt="BLACK STAR BURGER" loading="lazy">
-				<h1 class="cart__title">НИЯМА</h1>
-				<h2 class="cart__sub-title">Ресторан 188 м&#178</h2>
+				<p class="h1 cart__title">НИЯМА</p>
+				<p class="h2 cart__sub-title">Ресторан 188 м&#178</p>
 				<div class="cart__link">
 						<a href="/case/niama_reutov.php">
 								<button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>
@@ -517,10 +517,10 @@
 				</div>
 		</div>
 		<div class="cart__content">
-				<h3 class="cart__location">БЦ YES Митино</h3>
+				<p class="h3 cart__location">БЦ YES Митино</p>
 				<img class="cart__logo" src="/assets/img/cart/logo/04.svg" alt="BLACK STAR BURGER" loading="lazy">
-				<h1 class="cart__title">LUNA</h1>
-				<h2 class="cart__sub-title">Ресторан 170 м&#178</h2>
+				<p class="h1 cart__title">LUNA</p>
+				<p class="h2 cart__sub-title">Ресторан 170 м&#178</p>
 				<div class="cart__link">
 						<a href="/case/luna.php">
 								<button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>
@@ -549,10 +549,10 @@
 				</div>
 		</div>
 		<div class="cart__content">
-				<h3 class="cart__location">МФК Солнце Москвы</h3>
+				<p class="h3 cart__location">МФК Солнце Москвы</p>
 				<img class="cart__logo" src="/assets/img/cart/logo/11.svg" alt="МЯТА PLATINUM<" loading="lazy">
-				<h1 class="cart__title">МЯТА</h1>
-				<h2 class="cart__sub-title">Кальянная 315 м&#178</h2>
+				<p class="h1 cart__title">МЯТА</p>
+				<p class="h2 cart__sub-title">Кальянная 315 м&#178</p>
 				<div class="cart__link">
 						<a href="/case/miata-ostrov.php">
 								<button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>
@@ -576,13 +576,13 @@
 				</div>
 		</div>
 		<div class="cart__content">
-				<h3 class="cart__location">МФК Солнце Москвы</h3>
+				<p class="h3 cart__location">МФК Солнце Москвы</p>
 				<div class="duble-cart__logo">
 					<img class="cart__logo" src="/assets/img/cart/logo/17.svg" alt="BLACK STAR BURGER" loading="lazy">
 					<img class="cart__logo" src="/assets/img/cart/logo/21.svg" alt="BLACK STAR BURGER" loading="lazy">
 				</div>
-				<h1 class="cart__title">CINNABON & DONUTTO</h1>
-				<h2 class="cart__sub-title">Кафе 80 м&#178</h2>
+				<p class="h1 cart__title">CINNABON & DONUTTO</p>
+				<p class="h2 cart__sub-title">Кафе 80 м&#178</p>
 				<div class="cart__link">
 						<a href="/case/sinabon.php">
 								<button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>
@@ -611,13 +611,13 @@
 				</div>
 		</div>
 		<div class="cart__content">
-				<h3 class="cart__location">ТРЦ Саларис</h3>
+				<p class="h3 cart__location">ТРЦ Саларис</p>
 				<div class="duble-cart__logo">
 					<img class="cart__logo" src="/assets/img/cart/logo/12.svg" alt="BLACK STAR BURGER" loading="lazy">
 					<img class="cart__logo" src="/assets/img/cart/logo/20.svg" alt="BLACK STAR BURGER" loading="lazy">
 				</div>
-				<h1 class="cart__title">IL PATIO и GEORGES</h1>
-				<h2 class="cart__sub-title">Ресторан 470 м&#178</h2>
+				<p class="h1 cart__title">IL PATIO и GEORGES</p>
+				<p class="h2 cart__sub-title">Ресторан 470 м&#178</p>
 				<div class="cart__link">
 						<a href="/case/il_&_geo.php">
 								<button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>
@@ -642,10 +642,10 @@
 				</div>
 		</div>
 		<div class="cart__content">
-				<h3 class="cart__location">ТРЦ Саларис</h3>
+				<p class="h3 cart__location">ТРЦ Саларис</p>
 					<img class="cart__logo" src="/assets/img/cart/logo/26.svg" alt="" loading="lazy">
-				<h1 class="cart__title">Батони</h1>
-				<h2 class="cart__sub-title">Фуд-Корт 68 м&#178</h2>
+				<p class="h1 cart__title">Батони</p>
+				<p class="h2 cart__sub-title">Фуд-Корт 68 м&#178</p>
 				<div class="cart__link">
 						<a href="/case/il_&_geo.php">
 								<button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>

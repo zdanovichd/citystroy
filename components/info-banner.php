@@ -1,10 +1,10 @@
 <!-- <div class="info-banner">
 		<img  class="info-close__banner" src="../assets/img/icon/banner-close.svg" alt="" loading="lazy">
-		<h1>Экскурсия </h1>
-		<h3>на построенные объекты</h3>
+		<p class="h1">Экскурсия </p>
+		<p class="h3">на построенные объекты</p>
 		<img  class="info-map__banner" src="../assets/img/icon/map.svg" alt="" loading="lazy">
 
-		<h2>Мы открыты на 100% и приглашаем посетить заведения, которые были спроектированы и построены нами.</h2>
+		<p class="h2">Мы открыты на 100% и приглашаем посетить заведения, которые были спроектированы и построены нами.</p>
 
 		<form class="trip-form" action="#" method="POST" enctype="multipart/form-data">
 
@@ -31,9 +31,9 @@
 		<img  class="info-map__banner" src="../assets/img/icon/map.svg" alt="" loading="lazy">
 			<!-- <img  class="info-close__banner" src="../assets/img/icon/banner-close.svg" alt="" loading="lazy"> -->
 			<div>
-				<h1>Экскурсия </h1>
-				<h3>на построенные объекты</h3>
-				<h2>Мы открыты на 100% и приглашаем посетить заведения, которые были спроектированы и построены нами.</h2>
+				<p class="h1">Экскурсия </p>
+				<p class="h3">на построенные объекты</p>
+				<p class="h2">Мы открыты на 100% и приглашаем посетить заведения, которые были спроектированы и построены нами.</p>
 				
 				<form class="trip-form" action="#" method="POST" enctype="multipart/form-data">
 

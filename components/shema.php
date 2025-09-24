@@ -1,31 +1,31 @@
 
 
 <!-----------------------MOB----------------------------------->
-<h1 class="shema-title" >Для удобства Заказчика мы разработали дорожную карту реализации объекта</h1>
+<p class="h1 shema-title" >Для удобства Заказчика мы разработали дорожную карту реализации объекта</p>
 <div class="sh-mob">
 
     <!----------------- АНАЛИЗ ------------------------------>
     <div class="sh-mob__item sh-mob__item-an">
-        <h1>Анализ Т.У.</h1>
-        <h2>Сбор данных</h2>
-        <h2>Технических условий</h2>
+        <p class="h1">Анализ Т.У.</p>
+        <p class="h2">Сбор данных</p>
+        <p class="h2">Технических условий</p>
     </div>
     <img class="shema__down" src="/assets/img/icon/down.svg" alt="" loading="lazy">
 
     <!----------------------- ТЕХНОЛОГИЯ ------------------>
     <div class="sh-mob__item">
-        <h1>Технология <br> Дизайна</h1>
-        <h2>Разработка технологий</h2>
-        <h2>Дизайн порект</h2>
+        <p class="h1">Технология <br> Дизайна</p>
+        <p class="h2">Разработка технологий</p>
+        <p class="h2">Дизайн порект</p>
     </div>
     <img class="shema__down" src="/assets/img/icon/down.svg" alt="" loading="lazy">
 
     <!------------------ ПРОЕКТИРОВАНИЕ -------------------->
     <div class="sh-mob__item">
-        <h1>Проектирование <br> </h1>
+        <p class="h1">Проектирование <br> </p>
         <img class="shema__img" src="/assets/img/icon/sh.svg" alt="" loading="lazy">
         <div class="fork-m">
-            <h1>Технологи<br>Дизайн</h1>
+            <p class="h1">Технологи<br>Дизайн</p>
             <div class="node_1"></div>
             <button class="AR" 
 						value='Архитектурные решения' 
@@ -67,31 +67,31 @@
 
     <!-------------------- СMЕТА ----------------------------->
     <div class="sh-mob__item">
-        <h1>Смета</h1>
-        <h2>Честные смены</h2>
-        <h2>Подсчёт всего и сразу</h2>
+        <p class="h1">Смета</p>
+        <p class="h2">Честные смены</p>
+        <p class="h2">Подсчёт всего и сразу</p>
     </div>
     <img class="shema__down" src="/assets/img/icon/down.svg" alt="" loading="lazy">
 
     <!------------------------- СМР --------------------->
     <div class="sh-mob__item">
-        <h1>СМР</h1>
-        <h2>Выполнение всех работ согласно проекту</h2>
-        <h2>Инженеры и проектировщики</h2>
-        <h2>Квалифицированные строители</h2>
+        <p class="h1">СМР</p>
+        <p class="h2">Выполнение всех работ согласно проекту</p>
+        <p class="h2">Инженеры и проектировщики</p>
+        <p class="h2">Квалифицированные строители</p>
     </div>
     <img class="shema__down" src="/assets/img/icon/down.svg" alt="" loading="lazy">
 
     <!----------------------- ГАРАНТИЯ ------------------------->
     <div class="sh-mob__item">
-        <h1>Гарантийное обслуживание</h1>
-        <h2>1 год сервисного обслуживания</h2>
-        <h2>Постгарантийное обслуживание на договорных условиях</h2>
+        <p class="h1">Гарантийное обслуживание</p>
+        <p class="h2">1 год сервисного обслуживания</p>
+        <p class="h2">Постгарантийное обслуживание на договорных условиях</p>
     </div>
 
     <div class="sh-mob__banner" id="banner">
-        <h1 id="banner-text"></h1>
-        <h2 id="banner-title"></h2>
+        <p class="h1" id="banner-text"></p>
+        <p class="h2  id="banner-title"></p>
 				<button class="button modal__KP" >Рассчитать стоимость проектирования</button>
     </div>
 
@@ -105,9 +105,9 @@
     <!----------------- АНАЛИЗ ------------------------------>
     
 			<div class="sh__item sh__item-an">
-					<h1>Анализ Т.У.</h1>
-					<h2>Сбор данных</h2>
-					<h2>Технических условий</h2>
+					<p class="h1">Анализ Т.У.</p>
+					<p class="h2">Сбор данных</p>
+					<p class="h2">Технических условий</p>
 			</div>
 		
     <img class="sh__down " src="/assets/img/icon/right.svg" alt="" loading="lazy">
@@ -115,9 +115,9 @@
     <!----------------------- ТЕХНОЛОГИЯ ------------------>
 		
     <div class="sh__item sh__teh">
-        <h1>Технология <br> Дизайна</h1>
-        <h2>Разработка технологий</h2>
-        <h2> Дизайн порект</h2> 
+        <p class="h1">Технология <br> Дизайна</p>
+        <p class="h2">Разработка технологий</p>
+        <p class="h2"> Дизайн порект</p> 
     </div>
 	
 		<img class="sh__down down-proj" src="/assets/img/icon/right-white.svg" alt="" loading="lazy">
@@ -125,12 +125,12 @@
     <!------------------ ПРОЕКТИРОВАНИЕ -------------------->
 	
     <div class="sh__item item-proj">
-        <h1>Проектирование <br> </h1>
+        <p class="h1">Проектирование <br> </p>
         <img class="sh__img" src="/assets/img/icon/sh.svg" alt="" loading="lazy">
         <div class="sh__fork">
 					<div class="sh__fork-title">
-						<!-- <a href="../pages/tehno.php"><h1>Технологи</h1></a>
-						<a href="../pages/design.php"><h1>Дизайн</h1></a> -->
+						<!-- <a href="../pages/tehno.php"><p class="h1">Технологи</p></a>
+						<a href="../pages/design.php"><p class="h1">Дизайн</p></a> -->
 					</div>
 					<div class="sh__node_1-1"></div>
 					<div class="sh__node_1"></div>
@@ -176,9 +176,9 @@
     <!-------------------- СMЕТА ----------------------------->
 	
     <div class="sh__item sh__item-smet">
-        <h1>Смета</h1>
-					<h2>Честные смены</h2>
-					<h2>Подсчёт всего и сразу</h2>
+        <p class="h1">Смета</p>
+					<p class="h2">Честные смены</p>
+					<p class="h2">Подсчёт всего и сразу</p>
     </div>
 		
 		<img class="sh__down" src="/assets/img/icon/right.svg" alt="" loading="lazy">
@@ -186,10 +186,10 @@
     <!------------------------- СМР --------------------->
 		
     <div class="sh__item sh__item-SMR">
-        <h1>СМР</h1>
-        <h2>Выполнение работ согласно проекту</h2>
-        <h2>Инженеры и проектировщики</h2>
-        <h2>Квалифицированные строители</h2>
+        <p class="h1">СМР</p>
+        <p class="h2">Выполнение работ согласно проекту</p>
+        <p class="h2">Инженеры и проектировщики</p>
+        <p class="h2">Квалифицированные строители</p>
     </div>
 		
     <img class="sh__down" src="/assets/img/icon/right.svg" alt="" loading="lazy">
@@ -197,9 +197,9 @@
     <!----------------------- ГАРАНТИЯ ------------------------->
 	
     <div class="sh__item sh__gar">
-        <h1>Гарантийное обслуживание</h1>
-        <h2>1 год сервисного обслуживания</h2>
-        <h2>Постгарантийное обслуживание <br>на договорных условиях</h2>
+        <p class="h1">Гарантийное обслуживание</p>
+        <p class="h2">1 год сервисного обслуживания</p>
+        <p class="h2">Постгарантийное обслуживание <br>на договорных условиях</p>
     </div>
 
 
@@ -207,8 +207,8 @@
 				<div class="close__banner-con">
 					<img  class="close__banner" src="../assets/img/icon/banner-close.svg" alt="" loading="lazy">
 				</div>
-				<h1 id="sh__banner-text"></h1>
-        <h2 id="sh__banner-title"></h2>
+				<p class="h1" id="sh__banner-text"></p>
+        <p class="h2  id="sh__banner-title"></p>
 				<button class="button button-sh__banner modal__KP" >Рассчитать стоимость проектирования</button>
     </div>
 

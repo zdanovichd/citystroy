@@ -26,7 +26,7 @@
 		<article>
 		
 			<div class="case__title">
-				<h1>МЯТА LOUNGE</h1>
+				<p class="h1">МЯТА LOUNGE</p>
 			</div>
 
 			<div class="title__button case__btn-down">
@@ -60,20 +60,20 @@
 					</video>
 					<div class="glow" id="glowEffect"></div>
 					<a href="https://www.youtube.com/watch?v=kIabk_lPW04&t=56s&ab_channel=%D0%A1%D0%98%D0%A2%D0%98%D0%A1%D0%A2%D0%A0%D0%9E%D0%99" target="_blank">
-						<h1 class="video-title_5">Мы в YouTube
+						<p class="h1 video-title_5">Мы в YouTube
 							<svg width="30" height="30" viewBox="0 0 111 82" fill="none" xmlns="http://www.w3.org/2000/svg">
 								<path fill-rule="evenodd" clip-rule="evenodd" d="M108.64 13.5457C107.361 8.58451 103.607 4.68574 98.8293 3.35769C90.1794 0.948243 55.4777 0.948242 55.4777 0.948242C55.4777 0.948242 20.7765 0.948243 12.1262 3.35769C7.34901 4.68574 3.59478 8.58451 2.31597 13.5457C-0.00414956 22.5289 -0.00415039 41.2828 -0.00415039 41.2828C-0.00415039 41.2828 -0.00414956 60.0368 2.31597 69.0201C3.59478 73.9813 7.34901 77.88 12.1262 79.2078C20.7765 81.6174 55.4777 81.6174 55.4777 81.6174C55.4777 81.6174 90.1794 81.6174 98.8293 79.2078C103.607 77.88 107.361 73.9813 108.64 69.0201C110.96 60.0368 110.96 41.2828 110.96 41.2828C110.96 41.2828 110.951 22.5289 108.64 13.5457ZM44.3645 58.5694L73.1926 41.286L44.3645 24.0023V58.5694Z" fill="white"/>
 								</svg>
-						</h1>
+						</p>
 					</a>
 				</div>
 
 				<div class="case__about-title">
-					<h1>МЯТА LOUNGE</h1>
-					<h2><span>Объект:</span> Кальянная <br>
+					<p class="h1">МЯТА LOUNGE</p>
+					<p class="h2"><span>Объект:</span> Кальянная <br>
 							<span>Локация:</span> ТЦ Айсберг <br>
 							<span>Площадь объекта:</span> 260 м2 <br>
-							<span>Срок реализации проекта:</span> -- дней</h2>
+							<span>Срок реализации проекта:</span> -- дней</p>
 					<button class="button case__btn modal__btn">Записаться на экскурсию</button>
 				</div>
 			</div>
@@ -81,33 +81,33 @@
 			<div class="case__report">
 
 				<div class="case__report-point">
-					<h1>Задача</h1>
-					<h2><br><br>--<br><br></h2>
+					<p class="h1">Задача</p>
+					<p class="h2"><br><br>--<br><br></p>
 				</div>
 
 				<div class="case__report-point">
-					<h1>Технические условия</h1>
-					<h2><br><br>--<br><br></h2>
+					<p class="h1">Технические условия</p>
+					<p class="h2"><br><br>--<br><br></p>
 				</div>
 
 				<div class="case__report-point">
-					<h1>Инженерные системы</h1>
-					<h2><br><br>--<br><br></h2>
+					<p class="h1">Инженерные системы</p>
+					<p class="h2"><br><br>--<br><br></p>
 				</div>
 
 				<div class="case__report-point">
-					<h1>СМР</h1>
-					<h2><br><br>--<br><br></h2>
+					<p class="h1">СМР</p>
+					<p class="h2"><br><br>--<br><br></p>
 				</div>
 
 				<div class="case__report-point">
-					<h1>Комплектация</h1>
-					<h2><br><br>--<br><br></h2>
+					<p class="h1">Комплектация</p>
+					<p class="h2"><br><br>--<br><br></p>
 				</div>
 
 				<div class="case__report-point">
-					<h1>Сервисное обслуживание</h1>
-					<h2><br><br>--<br><br></h2>
+					<p class="h1">Сервисное обслуживание</p>
+					<p class="h2"><br><br>--<br><br></p>
 				</div>
 			</div>
 

@@ -1,4 +1,4 @@
-<h1 class="cart-title" >ВЫПОЛНЕННЫЕ ПРОЕКТЫ</h1>
+<p class="h1 cart-title" >ВЫПОЛНЕННЫЕ ПРОЕКТЫ</p>
 <div class="carts-con">
 
 
@@ -19,10 +19,10 @@
         </div>
     </div>
     <div class="cart__content">
-        <h3 class="cart__location">ЖК Зил Арт</h3>
+        <p class="h3 cart__location">ЖК Зил Арт</p>
         <img class="cart__logo" src="/assets/img/cart/logo/02.svg" alt="RIVER ONE" loading="lazy">
-        <h1 class="cart__title">RIVER ONE</h1>
-        <h2 class="cart__sub-title">КАЛЬЯННАЯ 250 м&#178</h2>
+        <p class="h1 cart__title">RIVER ONE</p>
+        <p class="h2 cart__sub-title">КАЛЬЯННАЯ 250 м&#178</p>
         <div class="cart__link">
             <a href="/case/river.php">
                 <button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>
@@ -51,10 +51,10 @@
         </div>
     </div>
     <div class="cart__content">
-        <h3 class="cart__location">ТЦ Саларис</h3>
+        <p class="h3 cart__location">ТЦ Саларис</p>
         <img class="cart__logo" src="/assets/img/cart/logo/08.svg" alt="BLACK STAR BURGER" loading="lazy">
-        <h1 class="cart__title">ЧАЙХАНА №1</h1>
-        <h2 class="cart__sub-title">Ресторан 900 м&#178</h2>
+        <p class="h1 cart__title">ЧАЙХАНА №1</p>
+        <p class="h2 cart__sub-title">Ресторан 900 м&#178</p>
         <div class="cart__link">
             <a href="/case/ch.php">
                 <button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>
@@ -82,10 +82,10 @@
         </div>
     </div>
     <div class="cart__content">
-        <h3 class="cart__location">ТЦ Саларис</h3>
+        <p class="h3 cart__location">ТЦ Саларис</p>
         <img class="cart__logo" src="/assets/img/cart/logo/10.svg" alt="BLACK STAR BURGER" loading="lazy">
-        <h1 class="cart__title">BLACK STAR BURGER</h1>
-        <h2 class="cart__sub-title">Бургерная 180 м²</h2>
+        <p class="h1 cart__title">BLACK STAR BURGER</p>
+        <p class="h2 cart__sub-title">Бургерная 180 м²</p>
         <div class="cart__link">
             <a href="/case/bsb.php">
                 <button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>
@@ -115,13 +115,13 @@
 				</div>
 		</div>
 		<div class="cart__content">
-				<h3 class="cart__location">ТРЦ Остров Мечты</h3>
+				<p class="h3 cart__location">ТРЦ Остров Мечты</p>
 				<div class="duble-cart__logo">
 					<img class="cart__logo" src="/assets/img/cart/logo/12.svg" alt="BLACK STAR BURGER" loading="lazy">
 					<img class="cart__logo" src="/assets/img/cart/logo/05.svg" alt="BLACK STAR BURGER" loading="lazy">
 				</div>
-				<h1 class="cart__title">IL PATIO и ПЛАНЕТА СУШИ</h1>
-				<h2 class="cart__sub-title">Ресторан 409 м&#178</h2>
+				<p class="h1 cart__title">IL PATIO и ПЛАНЕТА СУШИ</p>
+				<p class="h2 cart__sub-title">Ресторан 409 м&#178</p>
 				<div class="cart__link">
 						<a href="/case/il&su.php">
 								<button class="cart__button button">ПОДРОБНЕЕ О ПРОЕКТЕ</button>

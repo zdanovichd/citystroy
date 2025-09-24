@@ -1,7 +1,7 @@
 <div class="form-ban-back">
     <div class="form-ban-con">
 
-        <h1 class="title__form-ban">Коммерческое предложение</h1>
+        <p class="h1 title__form-ban">Коммерческое предложение</p>
         <img class="close-form-ban" src="../assets/img/icon/banner-close.svg" alt="" loading="lazy">
         <div class="swiper btnSwiper">
             <div class="swiper-wrapper">
@@ -9,7 +9,7 @@
                 <div class="swiper-slide slide-cont btnSlide">
                     <form class="big-form" action="#" method="POST" enctype="multipart/form-data">
 
-                        <div class="form-section "><h1 class="form-title">Контактные данные</h1>
+                        <div class="form-section "><p class="h1 form-title">Контактные данные</p>
                             <div class="input-form-ban">
                                 <label class="modal__lab in-cont" for="">Имя
                                     <input class="modal__input big-input__name" type="text" data-validate-field="name"
@@ -25,7 +25,7 @@
                             </div>
                         </div>
 
-                        <div class="form-section"><h1 class="form-title">Что вас интересует?</h1>
+                        <div class="form-section"><p class="h1 form-title">Что вас интересует?</p>
                             <div class="input-form-ban">
                                 <label>
                                     <input name="Что&nbsp;интересует&nbsp;" value="Строительство объекта 'под ключ'"
@@ -68,7 +68,7 @@
                 <div class="swiper-slide btnSlide">
 
 
-                    <div class="form-section"><h1 class="form-title">Где находится помещение?</h1>
+                    <div class="form-section"><p class="h1 form-title">Где находится помещение?</p>
                         <div class="input-form-ban">
                             <label>
                                 <input name="Местонахождение&nbsp;помещения" value="ТЦ/БЦ" type="radio" checked/>
@@ -90,13 +90,13 @@
                     </div>
 
 
-                    <div class="form-section"><h1 class="form-title">Укажите площадь помещения м&#178</h1>
+                    <div class="form-section"><p class="h1 form-title">Укажите площадь помещения м&#178</p>
                         <input type="number" class="input-form-ban" id="number-P" value="250"
                                name="Площадь&nbsp;помещения"/>
                         <input type="range" class="input-form-ban" id="range-P" value="250"
                                name="Площадь&nbsp;помещения" min="0" max="500"/>
                     </div>
-                    <div class="form-section"><h1 class="form-title">Укажите высоту потолков м&#178</h1>
+                    <div class="form-section"><p class="h1 form-title">Укажите высоту потолков м&#178</p>
                         <input type="number" class="input-form-ban" id="number-H" value="2.5"
                                name="Высота&nbsp;потолков"/>
                         <input type="range" class="input-form-ban" id="range-H" value="2.5" step="0.1"
@@ -107,7 +107,7 @@
 
                 <div class="swiper-slide btnSlide">
 
-                    <div class="form-section"><h1 class="form-title">Где территориально расположено помещение?</h1>
+                    <div class="form-section"><p class="h1 form-title">Где территориально расположено помещение?</p>
                         <div class="input-form-ban">
                             <label>
                                 <input name="Территориальное&nbsp;расположение" value="Москва, в пределах МКАД"
@@ -130,7 +130,7 @@
                         </div>
                     </div>
 
-                    <div class="form-section"><h1 class="form-title">Какое заведение планируется открыть?</h1>
+                    <div class="form-section"><p class="h1 form-title">Какое заведение планируется открыть?</p>
                         <div class="res-form">
                             <div class="input-form-ban">
                                 <label>
@@ -172,8 +172,8 @@
                         </div>
                     </div>
 
-                    <div class="form-section"><h1 class="form-title">Укажите предполагаемое количество посадочных
-                            мест</h1>
+                    <div class="form-section"><p class="h1 form-title">Укажите предполагаемое количество посадочных
+                            мест</p>
                         <input type="number" class="input-form-ban" id="number-M" value="200"
                                name="Количество&nbsp;посадочных мест"/>
                         <input type="range" class="input-form-ban" id="range-M" value="200"
@@ -185,7 +185,7 @@
 
                 <div class="swiper-slide SlideEnd btnSlide">
 
-                    <div class="form-section"><h1 class="form-title">Заведение планируется открыть по франшизе?</h1>
+                    <div class="form-section"><p class="h1 form-title">Заведение планируется открыть по франшизе?</p>
                         <div class="input-form-ban">
                             <label>
                                 <input name="Наличие&nbsp;франшизы" value="Да" type="radio" checked/>
@@ -200,7 +200,7 @@
                         </div>
                     </div>
 
-                    <div class="form-section"><h1 class="form-title">Какие разделы необходимы в проекте?</h1>
+                    <div class="form-section"><p class="h1 form-title">Какие разделы необходимы в проекте?</p>
                         <!-- <div class="input-form-ban">
                             <label>
                                 <input name="proj" type="radio" checked/>

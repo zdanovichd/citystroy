@@ -87,7 +87,7 @@ body {
     background-color: var(--main-black);
 }
 
-h1,h2,h3,p,span{
+.h1,.h2,.h3,p,span{
     font-family: Gilroy;
     font-weight: 200;
     font-size: 1vw;
@@ -407,7 +407,7 @@ li {
     letter-spacing: 0.1vw;
     margin: 0;
 }
-.title__text > div > h1{
+.title__text > div > .h1{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -416,7 +416,7 @@ li {
     word-spacing: 1vw;
     text-align: center;
 }
-.title__text > h2{
+.title__text > .h2{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -425,7 +425,7 @@ li {
     margin: 1vw ;
     color: #ffffff99;
 }
-.title__text h2 p{
+.title__text .h2 p{
     font-size: 1.2vw;
     letter-spacing: 0vw;
     margin: 0.5vw;
@@ -434,7 +434,7 @@ li {
 .title__slide {
     height: 16vh;
 }
-.title__item > div > h1 {
+.title__item > div > .h1 {
     font-size: 3vw;
     margin: 0;
     display: flex;
@@ -444,7 +444,7 @@ li {
     line-height: 1.2;
 }
 
-/* .title__item  div h1 p{
+/* .title__item  div .h1 p{
 	font-size: 2vw;
 	margin: 0;
 	display: flex;
@@ -546,16 +546,16 @@ li {
     gap: 2%;
     margin-bottom: 2%;
 }
-.about__item > h3{
+.about__item > .h3{
     display: flex;
     align-items: center;
     gap: 0vw 1vw;
     width: 40%;
 }
-.about__item > h3 > img{
+.about__item > .h3 > img{
     width: 3.5vw;
 }
-.about__smr > h3 > img{
+.about__smr > .h3 > img{
     width: 3.5vw;
 }
 .about__column{
@@ -597,11 +597,11 @@ li {
         display: flex;
         gap: 0 0.5vw;
     }
-    .about__column > div > h3{
+    .about__column > div > .h3{
         font-size: 0.8vw;
         margin: 0 0 0 0vw;
     }
-    .about__column > div > div > h1{
+    .about__column > div > div > .h1{
         font-weight: 400;
         /* color: #1e9dd8; */
     }
@@ -656,7 +656,7 @@ li {
 .info_check-title-smr{
     margin: 1vw !important;
 }
-.info_check-title-smr h2{
+.info_check-title-smr .h2{
 
 }
 .info_title{
@@ -685,13 +685,13 @@ li {
     margin: 2vw;
 }
 
-.info_check > div > h2{
+.info_check > div > .h2{
 
     font-size: 1.5vw;
     font-weight: 300;
     margin: 0;
 }
-.info_check > div > h3{
+.info_check > div > .h3{
 
     font-size: 1.2vw;
     font-weight: 100;
@@ -827,7 +827,7 @@ li {
     width: 80%;
     height: fit-content;
 }
-.info-cart > h2 {
+.info-cart > .h2 {
     font-size: 1.8vw;
     color: #ffffff;
     font-weight: 300;
@@ -837,7 +837,7 @@ li {
     width: 100%;
 }
 
-.info-cart > h3{
+.info-cart > .h3{
     font-size: 1vw;
     color: #ffffff;
     font-weight: 100;
@@ -1227,7 +1227,7 @@ li {
     align-items: end;
     width: 35%;
 }
-.banner_title > h1{
+.banner_title > .h1{
     color:#ffffff;
     font-size: 2.1vw;
     font-weight: 300;
@@ -1253,7 +1253,7 @@ li {
     padding: 0 0 0 4vw;
     justify-content: start;
 }
-.banner_main_title > h1{
+.banner_main_title > .h1{
     color:#ffffff;
     font-size: 1.1vw;
     font-weight: 300;
@@ -1354,7 +1354,7 @@ li {
 .C-mob{
     display: none;
 }
-.footer__about > a > h1{
+.footer__about > a > .h1{
     display: block;
     font-size: 0.8vw;
     font-weight: 300;
@@ -1365,17 +1365,17 @@ li {
     margin: 1vw 0 0.2vw 0;
     cursor: pointer;
 }
-.footer__about:hover > a > h1{
+.footer__about:hover > a > .h1{
     text-shadow: 0 0 0.3vw #ffffff, 0 0 0.7vw var(--main-blue), 0 0 1vw var(--main-blue);
     transition: all 0.5s ease-in-out;
 }
-.footer__about > a > h1 > span{
+.footer__about > a > .h1 > span{
     font-size: 0.7vw;
     font-weight: 100;
     color: #ffffff;
     transition: all 0.5s;
 }
-.footer__about > h2{
+.footer__about > .h2{
     width: 100%;
     font-size: 0.5vw;
     color: #ffffff65;
@@ -1384,18 +1384,18 @@ li {
     height: auto;
     transition: var(--duration2);
 }
-.footer__about:hover > h2{
+.footer__about:hover > .h2{
     color: #ffffff90;
     height: auto;
     transition: var(--duration2);
 }
-.footer__about > h2 > span{
+.footer__about > .h2 > span{
     font-size: 0.6vw;
     font-weight: 300;
     color: #ffffff90;
     transition: all 0.5s;
 }
-.footer__about:hover > h2 > span{
+.footer__about:hover > .h2 > span{
     font-size: 0.6vw;
     font-weight: 300;
     color: #ffffff;
@@ -1515,24 +1515,24 @@ li {
     padding: 20vw 15vw;
 }
 
-.assent > h1{
+.assent > .h1{
     font-size: 2vw;
     font-weight: 300;
     color: #1e9dd8;
 }
-.assent > h2{
+.assent > .h2{
     font-size: 1vw;
     color: #ffffff;
     font-weight: 200;
     line-height: 1.8;
 }
-.assent > h2 > span{
+.assent > .h2 > span{
     font-size: 1vw;
     color: #1e9dd8;
     font-weight: 300;
     line-height: 1.8;
 }
-.assent > h2 > a > span{
+.assent > .h2 > a > span{
     font-size: 1vw;
     color: #1e9dd8;
     font-weight: 300;
@@ -1552,7 +1552,7 @@ li {
     margin-top: 20vw;
     width: 10vw;
 }
-.eror-con > h1{
+.eror-con > .h1{
     margin-top: 1vw;
     font-size: 4vw;
     color: #ffffff;
@@ -1576,7 +1576,7 @@ li {
 .info_check-con-proj{
     padding: 0;
 }
-.info_check-proj-h3{
+.info_check-proj-.h3{
     font-size: 1vw !important;
     font-weight: 200 !important;
     margin: 1vw 0 !important;
@@ -1587,7 +1587,7 @@ li {
 
 
 @media (max-width: 600px){
-    .eror-con > h1{
+    .eror-con > .h1{
         font-size: 10vw;
         text-align: center;
         color: #ffffff;
@@ -1713,15 +1713,15 @@ li {
         height: 80vw;
         transition: all 0.7s ease-in-out;
     }
-    .sh-mob__item:nth-child(5) > h1{
+    .sh-mob__item:nth-child(5) > .h1{
         transform: translateY(0);
         transition: all 0.5s ease-out;
     }
-    .sh-mob__item.active:nth-child(5) > h1{
+    .sh-mob__item.active:nth-child(5) > .h1{
         transform: translateY(-200%);
         transition: all 0.5s ease-out;
     }
-    .sh-mob__item > h1{
+    .sh-mob__item > .h1{
         font-size: 8vw;
         font-weight: 300;
         color: #ffffff;
@@ -1732,7 +1732,7 @@ li {
         width: 100%;
         position: relative;
     }
-    .sh-mob__item > h2 {
+    .sh-mob__item > .h2 {
         font-weight: 300;
         color: #ffffff91;
         margin: 2vw 0 0 0;
@@ -1743,11 +1743,11 @@ li {
         transform: translateY(-200%);
         overflow: hidden;
     }
-    .sh-mob__item > h2::before{
+    .sh-mob__item > .h2::before{
         content: url(/assets/img/icon/Frame\ 34.svg);
         margin-right: 3vw;
     }
-    .sh-mob__item.active h2 {
+    .sh-mob__item.active .h2 {
         transition: all 0.7s ease-out;
         opacity: 1;
         transform: translateY(0);
@@ -1775,7 +1775,7 @@ li {
         border-radius: 1.5vw;
         border-style:none;
     }
-    .fork-m > h1{
+    .fork-m > .h1{
         color:var(--main-blue);
         font-size: 5vw;
         font-weight: 300;
@@ -1848,12 +1848,12 @@ li {
         transition: all 0.3s ease-out;
         overflow: scroll;
     }
-    .sh-mob__banner > h1 {
+    .sh-mob__banner > .h1 {
         font-size: 6vw;
         font-weight: 300;
         color: var(--dark-blue);
     }
-    .sh-mob__banner > h2{
+    .sh-mob__banner > .h2{
         font-size: 4vw;
         font-weight: 300;
         color: #001e2d;
@@ -1982,21 +1982,21 @@ li {
         transition: all 0.3s ease-out;
         overflow:visible;
     }
-    .sh__item:nth-child(5) > h1 {
+    .sh__item:nth-child(5) > .h1 {
         transform: translateY(0);
         transition: all 0.5s ease-out;
     }
-    .sh__item.active:nth-child(5) > h1 {
+    .sh__item.active:nth-child(5) > .h1 {
         transform: translateY(-200%);
         transition: all 0.5s ease-out;
     }
-    .sh__teh.active > h1 {
+    .sh__teh.active > .h1 {
         margin-bottom: -1vw;
     }
-    .sh__gar.active > h1 {
+    .sh__gar.active > .h1 {
         margin-bottom: -1vw;
     }
-    .sh__item > h1 {
+    .sh__item > .h1 {
         font-size: 1.3vw;
         font-weight: 300;
         color: #ffffff;
@@ -2008,13 +2008,13 @@ li {
         position: relative;
         transform: translateY(0);
     }
-    .sh__item.active > h1{
+    .sh__item.active > .h1{
         font-size: 1.8vw;
         transform: translateY(-50%);
         transition: all 0.5s ease-in-out;
 
     }
-    .sh__item > h2 {
+    .sh__item > .h2 {
         color: #ffffff;
         margin: 0.2vw 0 0 0;
         font-size: 0.8vw;
@@ -2026,14 +2026,14 @@ li {
         z-index: 9;
         height: 0;
     }
-    .sh__item.active > h2 {
+    .sh__item.active > .h2 {
         transition: all 0.5s ease;
         opacity: 1;
         transform: translateY(-50%);
         z-index: 99;
         height: 1vw;
     }
-    .sh__item  > h2::before {
+    .sh__item  > .h2::before {
         content: url(/assets/img/icon/Frame\ 34.svg);
         margin-right: 0.5vw;
         scale: 2;
@@ -2080,11 +2080,11 @@ li {
         flex-direction: column;
         align-items: end;
     }
-    .sh__fork-title > a > h1{
+    .sh__fork-title > a > .h1{
         color: #1e9dd8;
         font-weight: 300;
     }
-    .sh__fork-title > a > h1:hover{
+    .sh__fork-title > a > .h1:hover{
         color: #ffffff;
         font-weight: 300;
     }
@@ -2189,12 +2189,12 @@ li {
         box-shadow: 0vw 2vw 4vw #16161670;
         color: var(--main-blue);
     }
-    .sh__banner > h1 {
+    .sh__banner > .h1 {
         font-size: 2vw;
         font-weight: 300;
         color: #ffffff;
     }
-    .sh__banner > h2 {
+    .sh__banner > .h2 {
         font-size: 1vw;
         font-weight: 200;
         color:	#ffffffed;
@@ -2269,7 +2269,7 @@ li {
         justify-content: space-between;
         height: 50%;
     }
-    .fork-node-left-title > div >h3{
+    .fork-node-left-title > div >.h3{
         margin: 0;
         color: #ffffff;
         font-size: 0.6vw;
@@ -2556,7 +2556,7 @@ li {
         width: 100%;
         align-items: center;
     }
-    .title__text > div > h1{
+    .title__text > div > .h1{
         font-size: 9vw;
         padding: 2vw;
         text-align: center;
@@ -2564,7 +2564,7 @@ li {
         margin-top: 40vw;
         font-weight: 200;
     }
-    .title__item > div > h1{
+    .title__item > div > .h1{
         font-size: 9vw;
         padding: 2vw;
         text-align: center;
@@ -2578,7 +2578,7 @@ li {
         display: flex;
         justify-content: center;
     }
-    .title__text > h2{
+    .title__text > .h2{
         font-size: 5vw;
         font-weight: 200;
         margin: 15vw 20vw 0 20vw;
@@ -2592,7 +2592,7 @@ li {
         justify-content: center;
         align-items: center;
     }
-    .swiper-slide > h1{
+    .swiper-slide > .h1{
         width: 100%;
         font-weight: 200;
     }
@@ -2621,21 +2621,21 @@ li {
         padding: 35vw 10vw 10vw 10vw;
     }
 
-    .assent > h1{
+    .assent > .h1{
         font-size: 5vw;
         font-weight: 300;
     }
-    .assent > h2{
+    .assent > .h2{
         font-size: 3vw;
         font-weight: 200;
         line-height: 1.8;
     }
-    .assent > h2 > span{
+    .assent > .h2 > span{
         font-size: 3vw;
         font-weight: 300;
         line-height: 1.8;
     }
-    .assent > h2 > a > span{
+    .assent > .h2 > a > span{
         font-size: 3vw;
         font-weight: 300;
         line-height: 1.8;
@@ -2666,12 +2666,12 @@ li {
         flex-direction: column;
     }
 
-    .about__item > h3 {
+    .about__item > .h3 {
         font-size: 5vw;
         width: 100%;
         font-weight: 300;
     }
-    .about__item > h3 > img{
+    .about__item > .h3 > img{
         width: 10vw;
         margin-right: 2vw;
     }
@@ -2691,14 +2691,14 @@ li {
         width: 9vw;
         margin: 2vw 5vw 0 0;
     }
-    .about__column > div > div > h1{
+    .about__column > div > div > .h1{
         font-size: 6vw;
         margin: 0 0 2vw 0;
         width: 100%;
         font-weight: 300;
     }
 
-    .about__column > div > h3 {
+    .about__column > div > .h3 {
         font-size: 4vw;
         font-weight: 300;
         margin: 0 0 10vw 0;
@@ -2726,10 +2726,10 @@ li {
         margin: 0.5vw;
         transform: rotate(90deg);
     }
-    .step_con-mob div  > h1 {
+    .step_con-mob div  > .h1 {
         font-size: 4vw;
     }
-    .step_con-mob div  > h1 > span{
+    .step_con-mob div  > .h1 > span{
         font-size: 4vw;
     }
     .step_con-mob div  {
@@ -2742,7 +2742,7 @@ li {
         padding: 6vw;
         margin: 6vw 0;
     }
-    .warn-mob > div > h1{
+    .warn-mob > div > .h1{
         font-size: 5vw;
         margin: 0;
     }
@@ -2761,7 +2761,7 @@ li {
 
 
 
-    .teh > h3{
+    .teh > .h3{
         min-width: 300px;
     }
 
@@ -2775,15 +2775,15 @@ li {
     .сart-teh__mob > div{
         padding: 6vw;
     }
-    .сart-teh__mob > div > h1{
+    .сart-teh__mob > div > .h1{
         font-size: 8vw;
         margin: 3vw 0;
     }
-    .сart-teh__mob > div > h2{
+    .сart-teh__mob > div > .h2{
         font-size: 4vw;
         font-weight: 300;
     }
-    .сart-teh__mob > div > h3{
+    .сart-teh__mob > div > .h3{
         font-size: 4vw;
         font-weight: 300;
     }
@@ -2803,7 +2803,7 @@ li {
         margin-right: 2vw;
         vertical-align:middle;
     }
-    .сart-teh__mob > div > h3::before{
+    .сart-teh__mob > div > .h3::before{
         content: url('');
         display: inline-block;
         background: url('/assets/img/icon/plus.svg');
@@ -2892,10 +2892,10 @@ li {
         flex-direction: row !important;
         margin-bottom: 5vw !important;
     }
-    .info_check > div > h2{
+    .info_check > div > .h2{
         font-size: 5vw;
     }
-    .info_check > div > h3{
+    .info_check > div > .h3{
         font-size: 3vw;
     }
     .info_ok_player{
@@ -2938,7 +2938,7 @@ li {
 
 
 
-    .info_sleep> h3{
+    .info_sleep> .h3{
         font-size: 4.5vw;
     }
     .info_sleep> a > div{
@@ -2970,7 +2970,7 @@ li {
         transition: all 0.5s ease-in-out;
     }
 
-    .info-cart > h2{
+    .info-cart > .h2{
         font-size: 8vw;
     }
     .iTitle {
@@ -3135,11 +3135,11 @@ li {
         font-weight: 300;
         margin: 5vw 0;
     }
-    .map_adres > h3{
+    .map_adres > .h3{
         font-size: 5vw;
         line-height: 0.3;
     }
-    .map_adres > a > h3{
+    .map_adres > a > .h3{
         font-size: 5vw;
         color: var(--main-blue);
         line-height: 0.3;
@@ -3159,7 +3159,7 @@ li {
     .banner_title{
         width: 100%;
     }
-    .banner_title > h1{
+    .banner_title > .h1{
         font-size: 7vw;
     }
     .banner_button{
@@ -3187,7 +3187,7 @@ li {
         padding: 3vw 5vw 7vw 5vw;
     }
 
-    .banner_main_title > h1{
+    .banner_main_title > .h1{
         font-size: 3.5vw;
         color: #ffffff;
         font-weight: 200;
@@ -3227,7 +3227,7 @@ li {
         padding: 0;
         margin: 0;
     }
-    .footer__about > h1{
+    .footer__about > .h1{
         display: none;
     }
     .C-mob-con{
@@ -3260,33 +3260,33 @@ li {
         color: #ffffff;
         font-weight: 200;
     }
-    .footer__about > h1 > span{
+    .footer__about > .h1 > span{
         font-size: 2.5vw;
         color: #ffffff;
         font-weight: 200;
         float: inline-end;
     }
 
-    .footer__about > h2 > span{
+    .footer__about > .h2 > span{
         font-size: 3vw;
         color: #ffffff;
         font-weight: 300;
         height: auto;
     }
-    .footer__about:hover > h2 > span{
+    .footer__about:hover > .h2 > span{
         font-size: 3vw;
         color: #ffffff;
         font-weight: 300;
         height: auto;
     }
 
-    .footer__about > h2{
+    .footer__about > .h2{
         font-size: 2vw;
         color: #ffffff65;
         font-weight: 300;
         height: auto;
     }
-    .footer__about:hover > h2{
+    .footer__about:hover > .h2{
         font-size: 2vw;
         color: #ffffff65;
         font-weight: 300;
@@ -3297,7 +3297,7 @@ li {
 
 
 
-    .title__text h2 p {
+    .title__text .h2 p {
         font-size: 4vw;
     }
     .about-warning{
@@ -3325,7 +3325,7 @@ li {
         padding: 1.2vw 3vw;
         border-radius: 1vw;
     }
-    .map_adres > a > h3{
+    .map_adres > a > .h3{
         font-weight: 400;
     }
     .C-mob{
@@ -3334,11 +3334,11 @@ li {
     .C-mob > span{
         font-size: 2vw;
     }
-    .footer__about > a > h1{
+    .footer__about > a > .h1{
         font-size: 4vw;
         font-weight: 200;
     }
-    .footer__about > a > h1 > span{
+    .footer__about > a > .h1 > span{
         display: none;
     }
     .modal__KP{
@@ -3354,14 +3354,14 @@ li {
         backdrop-filter: blur(10px);
         color: #ffffff;
     }
-    .sh-mob__banner h2{
+    .sh-mob__banner .h2{
         color: #ffffff80;
     }
     .iTitle.icart_up {
         transition: all 0.5s ease-in-out;
         transform: translateY(-52vw);
     }
-    .info_sleep> h3 {
+    .info_sleep> .h3 {
         font-size: 3.5vw;
         overflow: hidden;
         height: 30vw;
@@ -3397,23 +3397,23 @@ li {
         padding: 2vw 8vw 2vw 8vw !important;
         background-color: #00000060;
     }
-    .tehno-plan__text h3 p {
+    .tehno-plan__text .h3 p {
         color: #ffffff80;
         font-size: 3vw;
         margin: 0;
     }
-    .tehno-plan-con div h1{
+    .tehno-plan-con div .h1{
         font-size: 10vw !important;
         line-height: 1 !important;
         margin: 4vw 0 2vw 0 !important;
     }
-    .tehno-plan__text h2{
+    .tehno-plan__text .h2{
         font-size: 4vw !important;
     }
-    .teh h3{
+    .teh .h3{
         width: 100% !important;
     }
-    .tehno-plan__text h3{
+    .tehno-plan__text .h3{
         font-size: 4vw;
     }
     .plan-img-pdf{
@@ -3471,14 +3471,14 @@ li {
     .plan-slide{
         border-radius: 2vw;
     }
-    .tehno-plan-con h1 {
+    .tehno-plan-con .h1 {
         font-size: 7vw !important;
         margin: 8vw 0 0 0;
     }
     .tehno-plan-con div {
         flex-direction: column;
     }
-    .tehno-plan-con div h3 {
+    .tehno-plan-con div .h3 {
         color: #ffffff;
         font-size: 4vw;
     }
@@ -3607,7 +3607,7 @@ li {
     z-index: 99;
     margin-top: 6vw;
 }
-.case__title > h1{
+.case__title > .h1{
     font-size: 5vw;
     color: #ffffff;
     font-weight: 400;
@@ -3655,18 +3655,18 @@ li {
     flex-direction: column;
     justify-content: center;
 }
-.case__about-title > h1{
+.case__about-title > .h1{
     color: #ffffff;
     font-size: 2vw;
     font-weight: 300;
 }
-.case__about-title > h2{
+.case__about-title > .h2{
     color: #ffffff;
     font-size: 1.3vw;
     font-weight: 200;
     line-height: 1.5;
 }
-.case__about-title > h2 > span{
+.case__about-title > .h2 > span{
     color: #1e9dd8;
     font-size: 1.3vw;
     font-weight: 300;
@@ -3689,25 +3689,25 @@ li {
 .case__report-point{
     width: 80%;
 }
-.case__report-point > h1{
+.case__report-point > .h1{
     color: #1e9dd8;
     font-size: 1.8vw;
     font-weight: 300;
     margin: 2vw 0 0.5vw 0;
 }
-.case__report-point > h2{
+.case__report-point > .h2{
     color: #ffffff;
     font-size: 1vw;
     font-weight: 200;
     line-height: 1.5;
 }
-.case__report-point > h2 > span{
+.case__report-point > .h2 > span{
     font-weight: 300;
     font-size: 1.2vw;
 }
 
 
-.case__report-point > h2 > ul > li::before{
+.case__report-point > .h2 > ul > li::before{
     content: url('');
     background-image: url(../assets/img/icon/plus.svg);
     position: absolute;
@@ -3751,7 +3751,7 @@ li {
         -moz-background-size: cover;
         -o-background-size: cover;
     }
-    .case__title > h1{
+    .case__title > .h1{
         font-size: 12vw;
         padding: 5vw;
         text-align: center;
@@ -3795,11 +3795,11 @@ li {
         width: 100%;
         align-items: center;
     }
-    .case__about-title > h1{
+    .case__about-title > .h1{
         font-size: 9vw;
         margin-bottom: 0;
     }
-    .case__about-title > h2{
+    .case__about-title > .h2{
         width: 100%;
         font-size: 4vw;
         font-weight: 200;
@@ -3807,7 +3807,7 @@ li {
         text-align: start;
         align-items: start;
     }
-    .case__about-title > h2 > span{
+    .case__about-title > .h2 > span{
         font-size: 4vw;
     }
 
@@ -3827,19 +3827,19 @@ li {
     .case__report-point{
         width: 90%;
     }
-    .case__report-point > h1{
+    .case__report-point > .h1{
         font-size: 8vw;
     }
-    .case__report-point > h2{
+    .case__report-point > .h2{
         font-size: 4vw;
     }
-    .case__report-point > h2 > span{
+    .case__report-point > .h2 > span{
         font-size: 5vw;
     }
-    .case__report-point > h2 > ul > li{
+    .case__report-point > .h2 > ul > li{
         margin-bottom: 3vw;
     }
-    .case__report-point > h2 > ul > li::before{
+    .case__report-point > .h2 > ul > li::before{
         content: url('');
         background-image: url(../assets/img/icon/plus.svg);
         position: absolute;
@@ -3925,7 +3925,7 @@ li {
     position: absolute;
     left: 32%;
 }
-.banner__mail > h1{
+.banner__mail > .h1{
     color: #ffffff;
     font-size: 2vw;
     font-weight: 300;
@@ -4110,13 +4110,13 @@ li {
     display: flex;
     flex-direction: column;
 }
-.info-banner>div h1{
+.info-banner>div .h1{
     color: #ffffff;
     font-size: 2vw;
     font-weight: 400;
     margin: 0;
 }
-.info-banner>div h2{
+.info-banner>div .h2{
     font-size: 0.8vw;
     font-weight: 200;
     color:	#ffffff;
@@ -4124,7 +4124,7 @@ li {
     margin-bottom: 1vw;
     width: 100%;
 }
-.info-banner>div h3{
+.info-banner>div .h3{
     font-size: 1.5vw;
     font-weight: 200;
     width: 100%;
@@ -4191,13 +4191,13 @@ li {
     display: flex;
     flex-direction: column;
 }
-.kit-info-banner>div h1{
+.kit-info-banner>div .h1{
     color: #ffffff;
     font-size: 2vw;
     font-weight: 400;
     margin: 0;
 }
-.kit-info-banner>div h2{
+.kit-info-banner>div .h2{
     font-size: 0.8vw;
     font-weight: 200;
     color:	#ffffff;
@@ -4205,7 +4205,7 @@ li {
     margin-bottom: 1vw;
     width: 100%;
 }
-.kit-info-banner>div h3{
+.kit-info-banner>div .h3{
     font-size: 1.5vw;
     font-weight: 200;
     width: 100%;
@@ -4527,7 +4527,7 @@ textarea {
 .commer-banner div img{
     width: 5vw;
 }
-.commer-banner div h1 {
+.commer-banner div .h1 {
     color: #ffffff;
     font-weight: 400;
     font-size: 2.2vw;
@@ -4537,12 +4537,12 @@ textarea {
     margin: 0 0 0 2vw;
     line-height: 1;
 }
-.commer-banner h2 {
+.commer-banner .h2 {
     color: #ffffff;
     font-weight: 200;
     font-size: 1vw;
 }
-.commer-text h1{
+.commer-text .h1{
     margin: 0.5vw 2vw 1vw 2vw;
     color: #ffffff;
     font-weight: 200;
@@ -4566,7 +4566,7 @@ textarea {
     transform: translateY(0);
     transition: all 0.3s ease;
 }
-.commer-banner-con:hover .commer-text h1{
+.commer-banner-con:hover .commer-text .h1{
     transform: translateY(0);
     transition: all 0.5s ease;
 }
@@ -5075,10 +5075,10 @@ input[type=number]::-webkit-outer-spin-button {
         backdrop-filter: blur(10px);
         -webkit-backdrop-filter: blur(10px);
     }
-    .kit-info-banner>h1, .info-banner>h1{
+    .kit-info-banner>.h1, .info-banner>.h1{
         font-size: 5vw;
     }
-    .kit-info-banner>h3, .info-banner>h3{
+    .kit-info-banner>.h3, .info-banner>.h3{
         font-size: 3.5vw;
     }
     .kit-info-close__banner, .info-close__banner {
@@ -5091,11 +5091,11 @@ input[type=number]::-webkit-outer-spin-button {
         width: 100%;
         padding: 2vw 6vw;
     }
-    .kit-info-banner>h2, .info-banner>h2 {
+    .kit-info-banner>.h2, .info-banner>.h2 {
         font-size: 2.8vw;
         line-height: 1.2;
     }
-    .kit-info-banner a h2, .info-banner a h2{
+    .kit-info-banner a .h2, .info-banner a .h2{
         font-size: 2.8vw;
     }
     .trip-form input::placeholder{
@@ -5151,7 +5151,7 @@ input[type=number]::-webkit-outer-spin-button {
     .title__slide{
         height: 9vw;
     }
-    .title__text > h2 {
+    .title__text > .h2 {
         font-size: 5vw;
         margin: 10vw 11vw 0 11vw;
         opacity: 1;
@@ -5192,12 +5192,12 @@ input[type=number]::-webkit-outer-spin-button {
         backdrop-filter: blur(10px);
         -webkit-backdrop-filter: blur(10px);
     }
-    .commer-banner div h1{
+    .commer-banner div .h1{
         font-size: 4vw;
         margin: 4vw 0vw 0 0vw;
     }
 
-    .commer-banner h2 {
+    .commer-banner .h2 {
         font-size: 2.3vw;
         margin: 2vw 3vw 0 0vw;
     }
@@ -5443,18 +5443,18 @@ input[type=number]::-webkit-outer-spin-button {
         transform: translateX(-200%);
         opacity: 1;
     }
-    .banner__mail > h1{
+    .banner__mail > .h1{
         color: #ffffff;
         font-size: 5vw;
         font-weight: 300;
     }
-    .proj_about__item .about__item > h3 {
+    .proj_about__item .about__item > .h3 {
         font-size: 5vw;
         width: 100%;
         font-weight: 300;
         width: 100% !important;
     }
-    .proj_about__item .about__item > h3 > img {
+    .proj_about__item .about__item > .h3 > img {
         width: 11vw !important;
         margin-right: 2vw;
         min-width: 11vw;
@@ -5470,7 +5470,7 @@ input[type=number]::-webkit-outer-spin-button {
     --duration: all 0.3s ease-out;
     --duration2: all 0.5s ease-out;
 }
-h1,h2,h3,p,span{
+.h1,.h2,.h3,p,span{
     font-family: Gilroy;
     font-weight: 200;
     font-size: 1vw;
@@ -5591,7 +5591,7 @@ transform: translateY(5vw); */
     vertical-align: middle;
     text-align: center;
 }
-.not-found h1{
+.not-found .h1{
     color: #1e9dd8;
     font-size: 2vw;
 }
@@ -6010,30 +6010,30 @@ transform: translateY(5vw); */
     width: 25%;
 }
 
-.teh > h3:nth-child(1){
+.teh > .h3:nth-child(1){
     width: 27%;
 
 }
-.teh > h3:nth-child(4){
+.teh > .h3:nth-child(4){
     width: 26%;
 }
-.teh > h3:nth-child(2){
+.teh > .h3:nth-child(2){
     width: 35%;
 }
-.teh > h3:nth-child(5){
+.teh > .h3:nth-child(5){
     width: 35%;
 }
-.teh > h3:nth-child(3){
+.teh > .h3:nth-child(3){
     width: 30%;
 }
-.teh > h3:nth-child(6){
+.teh > .h3:nth-child(6){
     width: 30%;
 }
-.teh > h3 > a{
+.teh > .h3 > a{
     color: #ffffff;
     transition: var(--duration2);
 }
-.teh > h3 > a:hover{
+.teh > .h3 > a:hover{
     color: var(--main-blue);
     transition: var(--duration2);
 }
@@ -6069,7 +6069,7 @@ transform: translateY(5vw); */
 }
 
 
-.title-teh_con > h3::before{
+.title-teh_con > .h3::before{
     content: url('');
     display: inline-block;
     background: url('/assets/img/icon/plus.svg');
@@ -6114,33 +6114,33 @@ transform: translateY(5vw); */
     width: 100%;
     margin-right: 2vw;
 }
-.tehno-plan__text h1{
+.tehno-plan__text .h1{
     color: #1e9dd8;
     font-size: 2vw;
     font-weight: 400;
     margin: 0;
 }
-.tehno-plan__text h2{
+.tehno-plan__text .h2{
     color: #ffffff;
     color: #ffffff80;
     font-size: 1.5vw;
     font-weight: 400;
     margin: 0;
 }
-.tehno-plan__text h3{
+.tehno-plan__text .h3{
     color: #ffffff;
 }
 .tehno-plan-con div{
     display: flex;
     justify-content: space-between;
 }
-.tehno-plan-con h1{
+.tehno-plan-con .h1{
     color: #1e9dd8;
     font-size: 2vw;
     font-weight: 400;
     margin: 3vw 0 0 0;
 }
-.tehno-plan-con div h3{
+.tehno-plan-con div .h3{
     color: #ffffff;
 }
 .tehno-plan-con p{
@@ -6148,7 +6148,7 @@ transform: translateY(5vw); */
     font-weight: 400;
     font-size: 0.8vw;
 }
-.tehno-plan__text h3 p{
+.tehno-plan__text .h3 p{
     color: #ffffff80;
     font-size: 0.8vw;
     margin: 0;
@@ -6344,23 +6344,23 @@ PROJECT */
 	scale: 1.2;
 	transition: var(--duration2);
 } */
-.step:hover  h1  span{
+.step:hover  .h1  span{
     color: #ffffff;
     transition: all 0.2s ease-in;
 
 }
-.step:hover  h1 {
+.step:hover  .h1 {
     color: #ffffff;
     transition: all 0.2s ease-in;
     text-shadow: 0vw 0.3vw 1vw #000000;
 }
 
-.step > h1{
+.step > .h1{
     color: #ffffff99;
     font-weight: 300;
     font-size: 1.1vw;
 }
-.step > h1 > span{
+.step > .h1 > span{
     color: #ffffff99;
     font-weight: 300;
     font-size: 1.1vw;
@@ -6387,7 +6387,7 @@ PROJECT */
     width: 0.7vw;
     margin-right: 1vw;
 }
-.warn > h1{
+.warn > .h1{
     color: #ffffff;
     font-weight: 400;
     font-size: 0.9vw;
@@ -6413,13 +6413,13 @@ PROJECT */
 .smeta:nth-child(6) > img{
     padding: 0 4vw;
 }
-.smeta_con > h1{
+.smeta_con > .h1{
     font-size: 2vw;
     font-weight: 300;
     color: #161616;
     padding-top: 2vw;
 }
-.smeta_con > h1 > span{
+.smeta_con > .h1 > span{
     width: 100%;
     font-size: 2vw;
     font-weight: 300;
@@ -6440,7 +6440,7 @@ PROJECT */
     width: 100%;
 }
 
-.smeta-title > h1{
+.smeta-title > .h1{
     font-size: 2.5vw;
     margin: 1vw 0;
 }
@@ -6485,12 +6485,12 @@ PROJECT */
 .smeta-cart > img{
     width: 15vw;
 }
-.smeta-cart > h1{
+.smeta-cart > .h1{
     font-size: 2vw;
     font-weight: 300;
     margin: 0 0 2vw 0;
 }
-.smeta-cart > h2{
+.smeta-cart > .h2{
     font-size: 1vw;
     font-weight: 200;
     text-align: start;
@@ -6499,12 +6499,12 @@ PROJECT */
     background-color: var(--main-blue);
     padding: 2vw 5vw;
 }
-.smeta-banner > h1{
+.smeta-banner > .h1{
     font-size: 2vw;
     font-weight: 300;
     color: #ffffff;
 }
-.smeta-banner > h2{
+.smeta-banner > .h2{
     font-size: 1vw;
     font-weight: 200;
     color: #ffffff;
@@ -6522,11 +6522,11 @@ PROJECT */
     .smr > img{
         width: 100%;
     }
-    .smr > div > h1{
+    .smr > div > .h1{
         font-size: 8vw;
         margin: 4vw 0 1vw 0;
     }
-    .smr > div > h2{
+    .smr > div > .h2{
         font-size: 4vw;
         font-weight: 300;
     }
@@ -6539,12 +6539,12 @@ PROJECT */
     .smeta_con{
         padding: 5vw;
     }
-    .smeta_con > h1 >span {
+    .smeta_con > .h1 >span {
         font-size: 8vw;
         display:block;
         text-align: start;
     }
-    .smeta_con > h1 {
+    .smeta_con > .h1 {
         font-size: 8vw;
         text-align: start;
         margin: 0;
@@ -6553,11 +6553,11 @@ PROJECT */
         width: 100%;
         padding: 5vw 20vw 0 11vw;
     }
-    .smeta-title > h1 {
+    .smeta-title > .h1 {
         font-size: 8vw;
         margin: 5vw 0;
     }
-    .smeta-title > h2 {
+    .smeta-title > .h2 {
         font-size: 4vw;
         margin: 2vw 0;
         font-weight: 300;
@@ -6609,13 +6609,13 @@ PROJECT */
     .smeta-cart > img {
         width: 70vw;
     }
-    .smeta-cart > h1 {
+    .smeta-cart > .h1 {
         font-size: 8vw;
         font-weight: 300;
         margin: 0 0 2vw 0;
         text-align: start;
     }
-    .smeta-cart > h2 {
+    .smeta-cart > .h2 {
         font-size: 4vw;
         font-weight: 300;
         text-align: start;
@@ -6632,10 +6632,10 @@ PROJECT */
         width: 4vw;
         height: 4vw;
     }
-    .smeta-banner > h1 {
+    .smeta-banner > .h1 {
         font-size: 6vw;
     }
-    .smeta-banner > h2 {
+    .smeta-banner > .h2 {
         font-size: 3vw;
         font-weight: 200;
     }
@@ -6739,11 +6739,11 @@ PROJECT */
     background: linear-gradient(99deg, rgba(24,130,180,1) 0%, rgba(0,84,124,1) 100%);
     transition: var(--duration);
 }
-.recvis:hover > .recvis_title > h1{
+.recvis:hover > .recvis_title > .h1{
     color: #ffffff;
     transition: var(--duration2);
 }
-.recvis:hover > .recvis_title > h2{
+.recvis:hover > .recvis_title > .h2{
     color: #ffffff;
     transition: var(--duration2);
 }
@@ -6752,7 +6752,7 @@ PROJECT */
     justify-content: space-between;
     width: 100%;
 }
-.recvis-main_title > h1{
+.recvis-main_title > .h1{
     font-size: 1.5vw;
     background: linear-gradient(99deg, rgba(24,130,180,1) 0%, rgba(0,84,124,1) 100%);
     color: #ffffff;
@@ -6761,13 +6761,13 @@ PROJECT */
     border-radius: 0.5vw;
     margin: 0 0 1vw 0;
 }
-.recvis_title > h1{
+.recvis_title > .h1{
     font-size: 1.3vw;
     color: #ffffff;
     font-weight: 300;
     margin: 0;
 }
-.recvis_title > a > h1{
+.recvis_title > a > .h1{
     font-size: 1vw;
     color: #ffffff80;
     font-weight: 300;
@@ -6775,11 +6775,11 @@ PROJECT */
     padding: 1vw 0;
     transition: var(--duration2);
 }
-.recvis_title:hover > a > h1{
+.recvis_title:hover > a > .h1{
     color: #ffffff;
     transition: var(--duration2);
 }
-.recvis_title > h2{
+.recvis_title > .h2{
     font-size: 1vw;
     color: #ffffff90;
     font-weight: 300;
@@ -6802,12 +6802,12 @@ PROJECT */
     flex-direction: column;
     align-items: end;
 }
-/* .recvis_copy > svg:hover ~ h3{
+/* .recvis_copy > svg:hover ~ .h3{
 	opacity: 1;
 	transform:translateY(-0.1vw);
 	transition: var(--duration2);
 } */
-.recvis_copy > h3{
+.recvis_copy > .h3{
     color: #ffffff;
     font-size: 0.7vw;
     font-weight: 300;
@@ -6846,7 +6846,7 @@ PROJECT */
         margin: 0;
         width: 100%;
     }
-    .recvis-main_title > h1 {
+    .recvis-main_title > .h1 {
         font-size: 6vw;
         padding: 5vw;
         border-radius: 2vw;
@@ -6870,13 +6870,13 @@ PROJECT */
         margin: 0 3vw;
         border-radius: 2vw;
     }
-    .recvis_title > h1 {
+    .recvis_title > .h1 {
         font-size: 5vw;
         color: #ffffff;
         font-weight: 300;
         margin: 0;
     }
-    .recvis_title > h2 {
+    .recvis_title > .h2 {
         font-size: 4vw;
         margin: 1vw 0 0 0;
     }
@@ -6893,13 +6893,13 @@ PROJECT */
         transition: var(--duration);
         height: fit-content;
     }
-    .recvis_copy > h3 {
+    .recvis_copy > .h3 {
         font-size: 3vw;
     }
     .recvis_duble > .recvis{
         margin: 0;
     }
-    .recvis_title > a > h1 {
+    .recvis_title > a > .h1 {
         font-size: 4vw;
         margin: 0;
         padding: 3vw 11vw;
@@ -7007,10 +7007,10 @@ DESIGN */
 .desi-about__item{
     justify-content: space-around;
 }
-.proj_about__item h3 img{
+.proj_about__item .h3 img{
     width: 3.5vw;
 }
-.proj_about__item h3{
+.proj_about__item .h3{
     width: 30%;
 }
 
@@ -7023,7 +7023,7 @@ DESIGN */
     flex-direction: column;
     padding: 4vw 0;
 }
-.desi-sh_con > h1{
+.desi-sh_con > .h1{
     color: var(--main-blue);
     font-size: 2vw;
     font-weight: 300;
@@ -7039,7 +7039,7 @@ DESIGN */
     margin: 2vw 2vw;
 }
 
-.desi-sh_item > h2{
+.desi-sh_item > .h2{
     color: #ffffff;
     font-size: 1.5vw;
     font-weight: 300;
@@ -7056,7 +7056,7 @@ DESIGN */
     padding: 4vw 0;
 }
 
-.desi-inf_con > h1 {
+.desi-inf_con > .h1 {
     color: #ffffff;
     font-size: 2.5vw;
     font-weight: 300;
@@ -7080,13 +7080,13 @@ DESIGN */
     width: 30vw;
 }
 
-.desi-inf_item div h3 {
+.desi-inf_item div .h3 {
     color: #ffffff;
     font-size: 0.8vw;
     font-weight: 200;
 }
 
-.desi-inf_item-b h2{
+.desi-inf_item-b .h2{
     color: #ffffff;
     font-size: 1.8vw;
     font-weight: 300;
@@ -7100,7 +7100,7 @@ DESIGN */
     align-items: center;
     justify-content: space-around;
 }
-.desi-inf_item div h2{
+.desi-inf_item div .h2{
     color: #ffffff;
     font-size: 1.8vw;
     font-weight: 300;
@@ -7121,7 +7121,7 @@ DESIGN */
     .des-list__main{
         background-color: #161616;
     }
-    .desi-sh_con > h1 {
+    .desi-sh_con > .h1 {
         color: var(--main-blue);
         font-size: 8vw;
         font-weight: 300;
@@ -7142,7 +7142,7 @@ DESIGN */
         width: 90%;
         justify-content: center;
     }
-    .desi-sh_item > h2 {
+    .desi-sh_item > .h2 {
         font-size: 8vw;
         text-align: center;
     }
@@ -7153,7 +7153,7 @@ DESIGN */
     .video-title_2 span{
         font-size: 5vw;
     }
-    .desi-inf_con > h1{
+    .desi-inf_con > .h1{
         color: #ffffff;
         font-size: 6.5vw;
         font-weight: 300;
@@ -7168,7 +7168,7 @@ DESIGN */
         flex-direction: row;
         width: 100%;
     } */
-    .desi-inf_item > h2 {
+    .desi-inf_item > .h2 {
         color: #ffffff;
         font-size: 8vw;
         font-weight: 300;
@@ -7177,7 +7177,7 @@ DESIGN */
         overflow: hidden;
         margin-top: -52vw;
     }
-    .des-h3{
+    .des-.h3{
         font-size: 4vw;
         font-weight: 300;
     }
@@ -7190,12 +7190,12 @@ DESIGN */
         display: flex;
         justify-content: start;
     }
-    .desi-inf_item div h2 {
+    .desi-inf_item div .h2 {
         color: #ffffff;
         font-size: 6vw;
         font-weight: 300;
     }
-    .desi-inf_item div h3 {
+    .desi-inf_item div .h3 {
         color: #ffffffbf;
         font-size: 4vw;
     }
@@ -7207,10 +7207,10 @@ DESIGN */
         flex-direction: column;
     }
 
-    .about__item > h3 {
+    .about__item > .h3 {
         width: 100% !important;
     }
-    .proj_about__item h3 img {
+    .proj_about__item .h3 img {
         width: 15.5vw;
     }
     .step {
@@ -7230,7 +7230,7 @@ DESIGN */
     .warn{
         background-color: #00000080;
     }
-    .warn h1{
+    .warn .h1{
         color: #ffffff99;
     }
 

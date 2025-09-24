@@ -12,6 +12,7 @@ RewriteRule ^contacts$ /pages/contact.php [L]
 
 # Технические страницы
 RewriteRule ^privacy-policy$ /pages/privacy-policy.php [L]
+RewriteRule ^assent-policy$ /pages/assent.php [L]
 RewriteRule ^terms-of-service$ /pages/terms-of-service.php [L]
 RewriteRule ^rekvizity$ /pages/rekvizity.php [L]
 RewriteRule ^o-kompanii$ /pages/o-kompanii.php [L]

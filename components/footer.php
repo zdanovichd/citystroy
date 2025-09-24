@@ -4,7 +4,7 @@
 			<div class="banner element-animation_up">
 				<div class="banner_left">
 					<div class="banner_title">
-							<h1>Хотите обсудить проект?</h1>
+							<p class="h1">Хотите обсудить проект?</p>
 					</div>
 					<button class="button banner_button modal__btn">Консультация</button>
 				</div>
@@ -12,7 +12,7 @@
 
 				<div class="banner_main">
 					<div class="banner_main_title">
-						<h1>Опишите Вашу задачу и мы расскажем чем можем помочь, а также дадим индивидуальные рекомендации по реализации проекта:</h1>
+						<p class="h1">Опишите Вашу задачу и мы расскажем чем можем помочь, а также дадим индивидуальные рекомендации по реализации проекта:</p>
 					</div>
 					<ul type="disc">
 						<li>&bull; Какие решения позволят сэкономить без потери качества</li>
@@ -170,7 +170,7 @@
         <div class="contacts-item"  style="margin-bottom: 1rem">
             <p>
                 <a href="/privacy-policy" class="footer__legal-link">Политика конфиденциальности</a>
-                <a href="/пользовательское-соглашение" class="footer__legal-link">Пользовательское соглашение</a>
+                <a href="/assent-policy" class="footer__legal-link">Пользовательское соглашение</a>
             </p>
             <!-- Копирайт -->
             <p style="font-size: clamp(5px, 0.6vw, 25px);">
@@ -181,12 +181,12 @@
 	</div>
 </nav>
 <div class="C-mob-con">
-	<h1 class="C-mob"> ООО "СИТИСТРОЙ"<span> © &nbsp; 2014-2024</span> </h1>
+	<p class="h1 C-mob"> ООО "СИТИСТРОЙ"<span> © &nbsp; 2014-2024</span> </p>
 </div>
 
 
 <div class="banner__mail">
-<h1>Данные успешно отправлены</h1>
+<p class="h1">Данные успешно отправлены</p>
 		<dotlottie-player 
 					class="mail__player"
 					src="/assets/animation/mail.json" 
@@ -213,14 +213,14 @@
 			<div>
 				<img class="commer-close" src="../assets/img/icon/banner-close.svg" alt="" loading="lazy">
 				<img class="commer-img" src="/assets/img/icon/comm-img.svg" alt="" loading="lazy">
-				<h1 class="commer-h1">Коммерческое предложение</h1>
+				<p class="h1 commer-h1">Коммерческое предложение</p>
 			</div>
-			<h2 class="commer-h2">Ответьте на 6 вопросов, чтобы узнать стоимость и срок реализации вашего проекта</h2>
+			<p class="h2 commer-h2">Ответьте на 6 вопросов, чтобы узнать стоимость и срок реализации вашего проекта</p>
 			<button class="button commer-btn modal__KP">Заполнить коммерческое предложение</button>
 		</div>
 		
 		<div class="commer-text">
-			<h1> + Бесплатно cделаем предварительные планы зонирования, расстановки кухонного оборудования с размерами, планировки посадочных мест*</h1>
+			<p class="h1"> + Бесплатно cделаем предварительные планы зонирования, расстановки кухонного оборудования с размерами, планировки посадочных мест*</p>
 		</div>
 	</div>
 	<div class="commer-banner-mini">

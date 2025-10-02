@@ -269,7 +269,6 @@ include('../components/header.php')
 
     .additional-service__item img {
         width: 100%;
-        height: 200px;
         object-fit: cover;
     }
 
@@ -541,7 +540,7 @@ include('../components/header.php')
 
 <!-- SCREEN_2 ABOUT-->
 <article id="anchor-about" class="about">
-
+    <h2 class="h1 about__title">Наши преимущества</h2>
     <p class="h1 about__title">Помогаем открыть заведение, которое эффективно функционирует и окупается: прорабатываем при строительстве все ключевые аспекты его успеха</p>
     <div class="about__item">
         <p class="h3 element-animation">
@@ -755,6 +754,12 @@ include('../components/header.php')
 <?php
 include('../components/carts.php')
 ?>
+
+<?php
+include('../components/licensii.php')
+?>
+
+
 
 
 <!-- --------------------------------------- -->

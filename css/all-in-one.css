@@ -2618,14 +2618,9 @@ li {
     }
 
 
-    /* .video__con{
-        height: 100vh;
-        position: absolute;
-        top: 0;
-        left: 0;
-        overflow: hidden;
-        filter:brightness(50%);
-    } */
+    .video__con{
+        display: none;
+    }
     .title-text{
         z-index: 99;
         position: relative;
@@ -5564,7 +5559,14 @@ input[type=number]::-webkit-outer-spin-button {
     font-size: 1vw;
     letter-spacing:0.05vw;
 }
-
+@media (max-width: 600px) {
+    .h1,.h2{
+        font-size: 7vw;
+    }
+    .h3,p,span{
+        font-size: 3.5vw;
+    }
+}
 a{
     text-decoration: none;
     color:#ffffff

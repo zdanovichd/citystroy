@@ -87,7 +87,14 @@ body {
     background-color: var(--main-black);
 }
 
-.h1,.h2,.h3,p,span{
+.h1,.h2{
+    font-family: Gilroy;
+    font-size: 1.5vw;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.h3,p,span{
     font-family: Gilroy;
     font-weight: 200;
     font-size: 1vw;
@@ -115,6 +122,12 @@ a{
     --gap: 50px;
     --el: 2;
     --wcart: calc( (100vw / var(--el)) - var(--gap));
+}
+
+._img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
 }
 
 .title-mob{
@@ -420,7 +433,7 @@ li {
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-size: 1.5vw;
+    font-size: 1.2vw;
     letter-spacing: 0vw;
     margin: 1vw ;
     color: #ffffff99;
@@ -5470,7 +5483,13 @@ input[type=number]::-webkit-outer-spin-button {
     --duration: all 0.3s ease-out;
     --duration2: all 0.5s ease-out;
 }
-.h1,.h2,.h3,p,span{
+.h1,.h2{
+    font-family: Gilroy;
+    font-size: 1.5vw;
+    font-weight: 300;
+    color: #ffffff;
+}
+.h3,p,span{
     font-family: Gilroy;
     font-weight: 200;
     font-size: 1vw;

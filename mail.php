@@ -8,6 +8,7 @@ $title = "Тема письма";
 $file = $_FILES['file'];
 
 $c = true;
+$body = "";
 // Формирование самого письма
 $title = "Новая заявка с сайта!";
 foreach ($_POST as $key => $value) {
@@ -41,7 +42,8 @@ try {
 	$mail->setFrom('insight.studio2023@gmail.com', 'City-Stroy'); // Адрес самой почты и имя отправителя
 
 	// Получатель письма
-	$mail->addAddress('insight.studio2023@gmail.com');
+//	$mail->addAddress('insight.studio2023@gmail.com');
+	$mail->addAddress('pkmstudio77@gmail.com');
 
 	// Прикрипление файлов к письму
 	if (!empty($file['name'][0])) {

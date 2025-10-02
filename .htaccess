@@ -24,6 +24,7 @@ RewriteRule ^prices$ /pages/prices.php [L]
 RewriteRule ^partners$ /pages/partners.php [L]
 RewriteRule ^otzyvy$ /pages/otzyvy.php [L]
 RewriteRule ^garantii$ /pages/garantii.php [L]
+RewriteRule ^remont-restoranov-i-kafe$ /pages/remont-restoranov-i-kafe.php [L]
 
 #Редиректы
 Redirect 301 /дизайн /dizajn-kommercheskih-pomeshchenij

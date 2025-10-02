@@ -693,17 +693,17 @@ include('../components/header.php')
         <h2 class="h1">Закажите дополнительные услуги</h2>
         <div class="additional-services__grid">
             <div class="additional-service__item">
-<!--                <img src="/assets/img/services/design.jpg" alt="Дизайн ресторанов и кафе" loading="lazy">-->
+                <img src="/assets/img/remont/5.jpg" alt="Дизайн ресторанов и кафе" loading="lazy">
                 <h3 class="h2">Дизайн ресторанов и кафе</h3>
                 <p class="h3">Создаем уникальный стиль: от концепции до деталей. Учитываем целевую аудиторию, локацию, бюджет.</p>
             </div>
             <div class="additional-service__item">
-<!--                <img src="/assets/img/services/project.jpg" alt="Проектирование ресторанов" loading="lazy">-->
+                <img src="/assets/img/remont/4.jpg" alt="Проектирование ресторанов" loading="lazy">
                 <h3 class="h2">Проектирование ресторанов</h3>
                 <p class="h3">Не просто чертежи, а продуманная логистика: потоки посетителей, размещение оборудования, эргономика персонала.</p>
             </div>
             <div class="additional-service__item">
-<!--                <img src="/assets/img/services/launch.jpg" alt="Запуск ресторана под ключ" loading="lazy">-->
+                <img src="/assets/img/remont/6.jpg" alt="Запуск ресторана под ключ" loading="lazy">
                 <h3 class="h2">Запуск ресторана под ключ</h3>
                 <p class="h3">От ремонта до открытия: подбор поставщиков, обучение персонала, маркетинговое сопровождение (по запросу).</p>
             </div>

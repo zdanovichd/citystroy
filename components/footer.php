@@ -277,3 +277,24 @@
   }
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Строительная компания Ситистрой",
+  "legalName": "ООО «СитиСтрой»",
+  "url": "https://citystroy-fit-out.ru/",
+  "logo": "https://citystroy-fit-out.ru/assets/img/icon/logo.svg",
+  "image": "https://citystroy-fit-out.ru/assets/img/icon/logo.svg",
+  "email": "csfitout@gmail.com",
+  "telephone": "+7(926)363-42-78",
+  "openingHours": [
+    "Mo-Sa 09:00-21:00"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Береговой проезд, д. 7",
+    "addressLocality": "Москва"
+  }
+}
+</script>

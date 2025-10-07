@@ -103,7 +103,7 @@ var swiperWord = new Swiper(".title__slide", {
     enabled: true,
     delay: 1000,
   },
-  speed: 1000,
+  speed: 100,
 });
 
 var caseSwiper = new Swiper(".case__swiper-2", {
@@ -150,6 +150,45 @@ const titleMobSwiper = new Swiper(".title-mob", {
     disableOnInteraction: false,
   },
   speed: 2000, // Установка скорости анимации
+});
+
+// Отзывы
+const reviews = new Swiper('.reviews__swiper', {
+  // Optional parameters
+  loop: true,
+  slidesPerView: 1,
+  spaceBetween: 30,
+  centeredSlides: false,
+
+  // If we need pagination
+  pagination: {
+    el: '.swiper-pagination',
+    clickable: true,
+  },
+
+  // Navigation arrows
+  navigation: {
+    nextEl: '.reviews__button--next',
+    prevEl: '.reviews__button--prev',
+  },
+
+  // Responsive breakpoints
+  breakpoints: {
+    // when window width is >= 768px
+    768: {
+      slidesPerView: 2,
+    },
+    // when window width is >= 1024px
+    1024: {
+      slidesPerView: 2,
+    }
+  },
+
+  // Autoplay
+  autoplay: {
+    delay: 5000,
+    disableOnInteraction: false,
+  },
 });
 
 ///////////////-------element-animation--------/////////////////
@@ -363,7 +402,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   let lastWidth = window.innerWidth
 
-  function handleScreenSize () {
+  function handleScreenSize() {
     const sideMenu = document.querySelector('.mob-menu_con')
     const menuBody = document.querySelector('.menu')
 
@@ -386,7 +425,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Проверяем, пересекли ли границу 600px
     if ((lastWidth <= 600 && currentWidth > 600) ||
-        (lastWidth > 600 && currentWidth <= 600)) {
+      (lastWidth > 600 && currentWidth <= 600)) {
       window.location.reload()
     }
 
@@ -867,8 +906,7 @@ document.addEventListener("DOMContentLoaded", () => {
         )
         .map(
           (item) =>
-            `<div class="option" data-class="${item.className}">${
-              item.querySelector(".cart__title").textContent
+            `<div class="option" data-class="${item.className}">${item.querySelector(".cart__title").textContent
             }</div>`
         )
         .join("");

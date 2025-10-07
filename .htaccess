@@ -7,7 +7,7 @@ RewriteRule ^tekhnologicheskoe-proektirovanie$ /pages/tehno.php [L]
 RewriteRule ^dizajn-kommercheskih-pomeshchenij$ /pages/design.php [L]
 RewriteRule ^inzhenernoe-proektirovanie$ /pages/project.php [L]
 RewriteRule ^proekty$ /pages/portfolio.php [L]
-RewriteRule ^smr$ /pages/SMR.php [L]
+RewriteRule ^remont-kommercheskih-pomeshchenij$ /pages/SMR.php [L]
 RewriteRule ^contacts$ /pages/contact.php [L]
 
 # Технические страницы
@@ -25,6 +25,8 @@ RewriteRule ^partners$ /pages/partners.php [L]
 RewriteRule ^otzyvy$ /pages/otzyvy.php [L]
 RewriteRule ^garantii$ /pages/garantii.php [L]
 RewriteRule ^remont-restoranov-i-kafe$ /pages/remont-restoranov-i-kafe.php [L]
+RewriteRule ^remont-ofisov-pod-klyuch$ /pages/remont-ofisov-pod-klyuch.php [L]
+RewriteRule ^remont-boulingov$ /pages/remont-boulingov.php [L]
 
 #Редиректы
 Redirect 301 /дизайн /dizajn-kommercheskih-pomeshchenij

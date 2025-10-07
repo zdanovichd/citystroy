@@ -252,4 +252,28 @@
 <script defer src="../js/shema.js"></script>
 <script defer src="../js/script-new.js"></script>
 <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Строительная компания Ситистрой",
+  "url": "https://citystroy-fit-out.ru/",
+  "logo": "https://citystroy-fit-out.ru//assets/img/icon/logo.svg",
+  "description": "Ремонт коммерческих помещений в Москве и МО под ключ — от проектирования до сдачи объекта. Дизайн, строительство, отделка: офисы, магазины, рестораны, боулинги, гостиницы, входные группы. Фиксированная цена, смета за 1 день, гарантия до 3 лет. СитиСтрой — на рынке с 2016 года. Звоните +7 (926) 363-42-78  рассчитаем все под ваш бюджет!",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Береговой проезд, д. 7",
+    "addressLocality": "Москва",
+    "postalCode": "121087",
+    "addressCountry": "RU"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+7(926)363-42-78",
+    "email": "csfitout@gmail.com",
+    "contactType": "customer service",
+    "areaServed": "RU",
+    "availableLanguage": "Russian"
+  }
+}
+</script>

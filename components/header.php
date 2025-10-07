@@ -50,13 +50,15 @@
                         <li class="has-child-2">
                             <a class="menu__main__item" href="/">Ремонт</a>
                             <ul class="sub-sub-menu">
-                                <li><a class="menu__main__item" href="/smr">Ремонт коммерческих помещений</a></li>
+                                <li><a class="menu__main__item" href="/remont-kommercheskih-pomeshchenij">Ремонт коммерческих помещений</a></li>
                                 <li><a class="menu__main__item" href="/remont-restoranov-i-kafe">Ремонт ресторанов и кафе</a></li>
+                                <li><a class="menu__main__item" href="/remont-ofisov-pod-klyuch">Ремонт офисов под ключ</a></li>
+                                <li><a class="menu__main__item" href="/remont-boulingov">Ремонт боулингов</a></li>
                             </ul>
                         </li>
                         <li><a class="menu__main__item" href="/tekhnologicheskoe-proektirovanie">Проектироваение технологии</a></li>
                         <li><a class="menu__main__item inj-m" href="/inzhenernoe-proektirovanie">Инженерное проектироваение</a></li>
-                        <li><a class="menu__main__item" href="/dizajn-kommercheskih-pomeshchenij">Дизайн</a></li>
+                        <li><a class="menu__main__item" href="/dizajn-kommercheskih-pomeshchenij">Дизайн</a></li>                        
                     </ul>
                 </li>
                 <li class="has-child">

@@ -10,35 +10,35 @@ const validation = new JustValidate('.popup_form');
 
 
 validation
-	.addField('.input__name', [
-		{
-			rule: 'minLength',
-			value: 3,
-			errorMessage: 'Введите более 3 символов'
-		},
-		{
-			rule: 'maxLength',
-			value: 30,
-			errorMessage: 'Введите менее 30 символов'
-		},
-		{
-			rule: 'required',
-			value: true,
-			errorMessage: 'Введите имя'
-		}
-	])
-	.addField('.input-mail', [
-		{
-			rule: 'required',
-			value: true,
-			errorMessage: 'Email обязателен',
-		},
-		{
-			rule: 'email',
-			value: true,
-			errorMessage: 'Введите корректный Email',
-		},
-	])
+	// .addField('.input__name', [
+	// 	{
+	// 		rule: 'minLength',
+	// 		value: 3,
+	// 		errorMessage: 'Введите более 3 символов'
+	// 	},
+	// 	{
+	// 		rule: 'maxLength',
+	// 		value: 30,
+	// 		errorMessage: 'Введите менее 30 символов'
+	// 	},
+	// 	{
+	// 		rule: 'required',
+	// 		value: true,
+	// 		errorMessage: 'Введите имя'
+	// 	}
+	// ])
+	// .addField('.input-mail', [
+	// 	{
+	// 		rule: 'required',
+	// 		value: true,
+	// 		errorMessage: 'Email обязателен',
+	// 	},
+	// 	{
+	// 		rule: 'email',
+	// 		value: true,
+	// 		errorMessage: 'Введите корректный Email',
+	// 	},
+	// ])
 	.addField('.input-tel', [
 		{
 			rule: 'required',

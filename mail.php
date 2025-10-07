@@ -43,7 +43,7 @@ try {
 
 	// Получатель письма
 //	$mail->addAddress('insight.studio2023@gmail.com');
-	$mail->addAddress('pkmstudio77@gmail.com');
+	$mail->addAddress('zdanovich.daniil@gmail.com');
 
 	// Прикрипление файлов к письму
 	if (!empty($file['name'][0])) {

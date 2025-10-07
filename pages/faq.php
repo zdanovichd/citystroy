@@ -72,6 +72,8 @@
             }
             .policy p, .policy li, .policy a {
                 font-size: 18px;
+            }
+        }
     </style>
 </head>
 <body>

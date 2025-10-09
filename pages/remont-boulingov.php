@@ -179,7 +179,7 @@ include('../components/header.php')
 
     .price__header, .price__row {
         display: grid;
-        grid-template-columns: 1fr 1fr 2fr;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
         gap: 20px;
         padding: 20px;
     }

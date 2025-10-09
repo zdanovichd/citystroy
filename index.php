@@ -578,10 +578,10 @@
 	include('components/info-banner.php')
 	?>
 
-	<!-- Поможет построить заведение  с нуля! -->
+	<!-- Поможем построить заведение с нуля! -->
 	<article class="additional-services">
 		<div class="additional-services__container">
-			<h2 class="h1">Поможет построить заведение  с нуля!</h2>
+			<h2 class="h1">Поможем построить заведение с нуля!</h2>
 			<div class="additional-services__grid">
 				<div class="additional-service__item">
 					<img src="/assets/img/other/запуск под ключ ресторан.webp" alt="Запуск ресторана под ключ" loading="lazy">

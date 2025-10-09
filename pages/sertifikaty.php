@@ -60,6 +60,47 @@
             padding-bottom: 10px;
         }
 
+        /* Стили для секции дополнительных услуг */
+    .additional-services {
+        padding: 80px 0;
+        background-color: #000;
+        color: #fff;
+    }
+
+    .additional-services__container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+
+    .additional-services__grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 30px;
+        margin-top: 50px;
+    }
+
+    .additional-service__item {
+        border-radius: var(--radius);
+        overflow: hidden;
+        background: rgba(255, 255, 255, 0.05);
+        transition: var(--duration);
+    }
+
+    .additional-service__item:hover {
+        transform: translateY(-5px);
+    }
+
+    .additional-service__item img {
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .additional-service__item h3,
+    .additional-service__item p {
+        padding: 20px;
+    }
+
         @media (max-width: 768px) {
             .policy {
                 padding: 25vw 15px 15px;
@@ -69,6 +110,33 @@
             }
             .policy p, .policy li, .policy a {
                 font-size: 18px;
+            }
+
+             .services__grid,
+        .features__content,
+        .zones__grid,
+        .additional-services__grid {
+            grid-template-columns: 1fr;
+        }
+
+        .price__header, .price__row,
+        .work-price__header, .work-price__row {
+            grid-template-columns: 1fr;
+            gap: 10px;
+        }
+
+        .stages__timeline::before {
+            left: 10px;
+        }
+
+        .stage__item {
+            padding-left: 40px;
+        }
+
+        .stage__item::before {
+            left: 2px;
+        }
+        }
     </style>
 </head>
 <body>
@@ -85,8 +153,22 @@ include('../components/header.php')
 }
 
 <div class="container policy">
-    <h1>Наши лицензии и сертификаты</h1>
-    <p>“тут в будущем будем размещать Лицензии и Сертификаты”</p>
+    <article class="additional-services">
+        <div class="additional-services__container">
+            <h1 class="h1">Наши лицензии и сертификаты</h1>
+            <div class="additional-services__grid">
+                <div class="additional-service__item">
+                    <img src="/assets/img/licensii/1.jpg" alt="" loading="lazy">
+                </div>
+                <div class="additional-service__item">
+                    <img src="/assets/img/licensii/2.jpg" alt="" loading="lazy">
+                </div>
+                <div class="additional-service__item">
+                    <img src="/assets/img/licensii/3.jpg" alt="" loading="lazy">
+                </div>
+            </div>
+        </div>
+    </article>
 </div>
 
 <!-- FOTTER -->

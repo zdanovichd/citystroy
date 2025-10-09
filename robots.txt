@@ -1,5 +1,5 @@
 User-Agent: *
 
-Disallow: /
+# Disallow: /
 
 Sitemap: https://citystroy-fit-out.ru/sitemap.xml

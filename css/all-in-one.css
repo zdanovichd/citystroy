@@ -8517,7 +8517,7 @@ DESIGN */
     }
 
     .swiper-slide {
-        padding: 20px;
+        /* padding: 20px; */
     }
 
     .review__header {
